@@ -1,18 +1,8 @@
 {
   "week_1": {
-    "startdate": "Date",
-    "enddate": "29/07",
+    "startdate": "26/07",
+    "enddate": "30/07",
     "menu": [
-      {
-        "day": "Day",
-        "date": "Date",
-        "item-veg-name": "Veg Item",
-        "item-veg-price": "Veg Price",
-        "item-veg-description": "Veg Item Description",
-        "item-nonveg-name": "Non-Veg Item",
-        "item-nonveg-price": "Non-Veg Price",
-        "item-nonveg-description": "Non-Veg Item Description"
-      },
       {
         "day": "Monday",
         "date": "26/07",
@@ -52,62 +42,72 @@
         "item-nonveg-name": "Chicken curry",
         "item-nonveg-price": "€8",
         "item-nonveg-description": "Chicken curry description"
+      },
+      {
+        "day": "Friday",
+        "date": "30/07",
+        "item-veg-name": "Chana Masala",
+        "item-veg-price": "€7",
+        "item-veg-description": "Chana masala description.",
+        "item-nonveg-name": "Chicken curry",
+        "item-nonveg-price": "€8",
+        "item-nonveg-description": "Chicken curry description"
       }
     ]
   },
   "week_2": {
-    "startdate": "",
-    "enddate": "",
+    "startdate": "02/08",
+    "enddate": "06/08",
     "menu": [
       {
-        "day": "",
-        "date": "",
-        "item-veg-name": "",
-        "item-veg-price": "",
-        "item-veg-description": "",
-        "item-nonveg-name": "",
-        "item-nonveg-price": "",
-        "item-nonveg-description": ""
+        "day": "Monday",
+        "date": "02/08",
+        "item-veg-name": "Chana Masala",
+        "item-veg-price": "€7",
+        "item-veg-description": "Chana masala.",
+        "item-nonveg-name": "Chicken curry",
+        "item-nonveg-price": "€8",
+        "item-nonveg-description": "Chicken curry description"
       },
       {
-        "day": "",
-        "date": "",
-        "item-veg-name": "",
-        "item-veg-price": "",
-        "item-veg-description": "",
-        "item-nonveg-name": "",
-        "item-nonveg-price": "",
-        "item-nonveg-description": ""
+        "day": "Tuesday",
+        "date": "03/08",
+        "item-veg-name": "Chana Masala",
+        "item-veg-price": "€7",
+        "item-veg-description": "Chana masala description.",
+        "item-nonveg-name": "Chicken curry",
+        "item-nonveg-price": "€8",
+        "item-nonveg-description": "Chicken curry description"
       },
       {
-        "day": "",
-        "date": "",
-        "item-veg-name": "",
-        "item-veg-price": "",
-        "item-veg-description": "",
-        "item-nonveg-name": "",
-        "item-nonveg-price": "",
-        "item-nonveg-description": ""
+        "day": "Wednesday",
+        "date": "04/08",
+        "item-veg-name": "Chana Masala",
+        "item-veg-price": "€7",
+        "item-veg-description": "Chana masala description.",
+        "item-nonveg-name": "Chicken curry",
+        "item-nonveg-price": "€8",
+        "item-nonveg-description": "Chicken curry description"
       },
       {
-        "day": "",
-        "date": "",
-        "item-veg-name": "",
-        "item-veg-price": "",
-        "item-veg-description": "",
-        "item-nonveg-name": "",
-        "item-nonveg-price": "",
-        "item-nonveg-description": ""
+        "day": "Thursday",
+        "date": "05/08",
+        "item-veg-name": "Chana Masala",
+        "item-veg-price": "€7",
+        "item-veg-description": "Chana masala description.",
+        "item-nonveg-name": "Chicken curry",
+        "item-nonveg-price": "€8",
+        "item-nonveg-description": "Chicken curry description"
       },
       {
-        "day": "",
-        "date": "",
-        "item-veg-name": "",
-        "item-veg-price": "",
-        "item-veg-description": "",
-        "item-nonveg-name": "",
-        "item-nonveg-price": "",
-        "item-nonveg-description": ""
+        "day": "Friday",
+        "date": "06/08",
+        "item-veg-name": "Chana Masala",
+        "item-veg-price": "€7",
+        "item-veg-description": "Chana masala description.",
+        "item-nonveg-name": "Chicken curry",
+        "item-nonveg-price": "€8",
+        "item-nonveg-description": "Chicken curry description"
       }
     ]
   }
