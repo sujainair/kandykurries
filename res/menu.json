@@ -1,11 +1,11 @@
 {
   "week_1": {
-    "startdate": "02/08",
-    "enddate": "06/08",
+    "startdate": "18/10",
+    "enddate": "22/10",
     "menu": [
       {
         "day": "Monday",
-        "date": "02/08",
+        "date": "18/10",
         "item-veg-name": "Chana Masala",
         "item-veg-price": "€10",
         "item-veg-description": "Indian style chickpea curry served with 2 chapatis (Indian wholewheat flatbread) + plain rice + koshimbir (side salad) + achar (Indian spiced pickle) ",
@@ -15,7 +15,7 @@
       },
       {
         "day": "Tuesday",
-        "date": "03/08",
+        "date": "19/10",
         "item-veg-name": "Palak Paneer",
         "item-veg-price": "€10",
         "item-veg-description": "Indian cottage cheese cooked in spinach based gravy served with 2 parathas (Indian wholewheat flatbread) + plain rice + koshimbir (side salad) + achar (Indian spiced pickle) ",
@@ -25,7 +25,7 @@
       },
       {
         "day": "Wednesday",
-        "date": "04/08",
+        "date": "20/10",
         "item-veg-name": "Mixed Vegetable Korma",
         "item-veg-price": "€10",
         "item-veg-description": "Indian style mixed vegetable curry served with 2 chapatis (Indian wholewheat flatbread) + plain rice + koshimbir (side salad) + achar (Indian spiced pickle) ",
@@ -35,7 +35,7 @@
       },
       {
         "day": "Thursday",
-        "date": "05/08",
+        "date": "21/10",
         "item-veg-name": "Rajma Chawal",
         "item-veg-price": "€10",
         "item-veg-description": "Kidney beans cooked in freshly ground spices served with plain rice + papad + pickled onions",
@@ -45,7 +45,7 @@
       },
       {
         "day": "Friday",
-        "date": "06/08",
+        "date": "22/10",
         "item-veg-name": "Vegetable Pulao",
         "item-veg-price": "€12",
         "item-veg-description": "Spicy rice dish cooked with mixed vegetables + dal fry (lentil curry) + papad + achar (indian spiced pickle)",
@@ -56,12 +56,12 @@
     ]
   },
   "week_2": {
-    "startdate": "09/08",
-    "enddate": "13/08",
+    "startdate": "25/10",
+    "enddate": "29/10",
     "menu": [
       {
         "day": "Monday",
-        "date": "09/08",
+        "date": "25/10",
         "item-veg-name": "Kadai Paneer",
         "item-veg-price": "€10",
         "item-veg-description": "Cottage cheese cooked in freshly ground Indian spices served with 2 chapatis (Indian wholewheat flatbread) + plain rice + achar (Indian spiced pickle) + papad",
@@ -71,7 +71,7 @@
       },
       {
         "day": "Tuesday",
-        "date": "10/08",
+        "date": "26/10",
         "item-veg-name": "Paneer Tikka Masala",
         "item-veg-price": "€10",
         "item-veg-description": "Grilled cottage cheese cooked in freshly ground Indian spices (dry curry) served with 4 chapatis (Indian wholewheat flatbread) + achar (Indian spiced pickle) + papad",
@@ -81,7 +81,7 @@
       },
       {
         "day": "Wednesday",
-        "date": "11/08",
+        "date": "27/10",
         "item-veg-name": "Aloo Matar",
         "item-veg-price": "€10",
         "item-veg-description": "Potato and green peas cooked in Indian spices served with dal tadka + 2 puris (deep fried Indian wholewheat bread) + plain rice + papad",
@@ -91,7 +91,7 @@
       },
       {
         "day": "Thursday",
-        "date": "12/08",
+        "date": "28/10",
         "item-veg-name": "Cabbage Stir Fry",
         "item-veg-price": "€10",
         "item-veg-description": "Cabbage stir fried in spices topped with coconut served with 4 chapatis (Indian wholewheat flatbread) + dal fry + plain rice + achar (Indian spiced pickle) ",
@@ -101,7 +101,7 @@
       },
       {
         "day": "Friday",
-        "date": "13/08",
+        "date": "29/10",
         "item-veg-name": "Veg Indo-Chinese Fried Rice & Manchurian",
         "item-veg-price": "€12",
         "item-veg-description": "Stir fried rice cooked with mixed vegetables in Indo-Chinese spices served with fried vegetable meatballs in soy sauce based gravy",
