@@ -74,10 +74,10 @@
         "date": "26/10",
         "item-veg-name": "Paneer Tikka Masala",
         "item-veg-price": "€10",
-        "item-veg-description": "Grilled cottage cheese cooked in freshly ground Indian spices (dry curry) served with 4 chapatis (Indian wholewheat flatbread) + achar (Indian spiced pickle) + papad",
+        "item-veg-description": "Grilled cottage cheese cooked in freshly ground Indian spices (dry curry) served with 2 parathas (Indian wholewheat flatbread) + achar (Indian spiced pickle) + papad",
         "item-nonveg-name": "Chicken Tikka Masala",
         "item-nonveg-price": "€12",
-        "item-nonveg-description": "Marinated grilled chicken slow cooked in Indian gravy served with choice of 2 parathas or 4 chapatis (Indian wholewheat flatbread) + koshimbir (side salad) + achar (Indian spiced pickle)"
+        "item-nonveg-description": "Marinated grilled chicken slow cooked in Indian gravy served with choice of 2 parathas (Indian wholewheat flatbread) + koshimbir (side salad) + achar (Indian spiced pickle)"
       },
       {
         "day": "Wednesday",
@@ -87,14 +87,14 @@
         "item-veg-description": "Potato and green peas cooked in Indian spices served with dal tadka + 2 puris (deep fried Indian wholewheat bread) + plain rice + papad",
         "item-nonveg-name": "Kerala Style Beef Curry",
         "item-nonveg-price": "€12",
-        "item-nonveg-description": "Slow cooked beef in Indian spices served with parotta (flaky Indian flatbread) + plain rice + achar"
+        "item-nonveg-description": "Slow cooked beef in Indian spices served with 2 parottas (flaky Indian flatbread) + plain rice + achar"
       },
       {
         "day": "Thursday",
         "date": "28/10",
         "item-veg-name": "Cabbage Stir Fry",
         "item-veg-price": "€10",
-        "item-veg-description": "Cabbage stir fried in spices topped with coconut served with 4 chapatis (Indian wholewheat flatbread) + dal fry + plain rice + achar (Indian spiced pickle) ",
+        "item-veg-description": "Cabbage stir fried in spices topped with coconut served with 2 chapatis (Indian wholewheat flatbread) + dal fry + plain rice + achar (Indian spiced pickle) ",
         "item-nonveg-name": "Anda Curry",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Boiled egg cooked in aromatic spices in tomato based gravy served with 2 chapatis (Indian wholewheat flatbread) + plain rice + achar (Indian spiced pickle)"
