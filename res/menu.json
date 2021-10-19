@@ -14,7 +14,7 @@
         "item-nonveg-name": "Dhaba Style Chicken Curry",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Indian style chicken curry served with 2 chapatis + plain rice + koshimbir (side salad) + achar (Indian spiced pickle)",
-        "item-nonveg-insta-link": "",
+        "item-nonveg-insta-link": "https://www.instagram.com/p/CCLhlTSjFhH/",
         "item-nonveg-is-sold": true
       },
       {
@@ -70,7 +70,7 @@
         "item-nonveg-name": "Chicken Dum Briyani",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Chicken marinated overnight in yogurt and spices and slow clooked with layers of rice in traditional aromatic spices + mint raita (yogurt mixed with mint and spices) + achar (Indian spiced pickle) + papad",
-        "item-nonveg-insta-link": "",
+        "item-nonveg-insta-link": "https://www.instagram.com/p/CRq2fw1spzE/",
         "item-nonveg-is-sold": false
       }
     ]
@@ -118,7 +118,7 @@
         "item-nonveg-name": "Kerala Style Beef Curry",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Slow cooked beef in Indian spices served with 2 parottas (flaky Indian flatbread) + plain rice + achar",
-        "item-nonveg-insta-link": "",
+        "item-nonveg-insta-link": "https://www.instagram.com/p/CD3z1JuD1sc/",
         "item-nonveg-is-sold": false
       },
       {
@@ -141,7 +141,7 @@
         "item-veg-name": "Veg Indo-Chinese Fried Rice & Manchurian",
         "item-veg-price": "€12",
         "item-veg-description": "Stir fried rice cooked with mixed vegetables in Indo-Chinese spices served with fried vegetable meatballs in soy sauce based gravy",
-        "item-veg-insta-link": "",
+        "item-veg-insta-link": "https://www.instagram.com/p/B_SF6yxj8gy/",
         "item-veg-is-sold": false,
         "item-nonveg-name": "Chicken Indo-Chinese Fried Rice & Manchurian",
         "item-nonveg-price": "€16",
