@@ -10,12 +10,12 @@
         "item-veg-price": "€10",
         "item-veg-description": "Indian style chickpea curry served with 2 chapatis (Indian wholewheat flatbread) + plain rice + koshimbir (side salad) + achar (Indian spiced pickle) ",
         "item-veg-insta-link": "https://www.instagram.com/p/CUXY7ytMw9v/",
-        "item-veg-is-sold": true,
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Dhaba Style Chicken Curry",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Indian style chicken curry served with 2 chapatis + plain rice + koshimbir (side salad) + achar (Indian spiced pickle)",
         "item-nonveg-insta-link": "https://www.instagram.com/p/CCLhlTSjFhH/",
-        "item-nonveg-is-sold": true
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
@@ -24,12 +24,12 @@
         "item-veg-price": "€10",
         "item-veg-description": "Indian cottage cheese cooked in spinach based gravy served with 2 parathas (Indian wholewheat flatbread) + plain rice + koshimbir (side salad) + achar (Indian spiced pickle) ",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": true,
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Palak Chicken",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Chicken cooked in spinach gravy served with 2 parathas (Indian wholewheat flatbread) + plain rice + koshimbir (side salad) + achar (Indian spiced pickle)",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": true
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
@@ -38,12 +38,12 @@
         "item-veg-price": "€10",
         "item-veg-description": "Indian style mixed vegetable curry served with 2 chapatis (Indian wholewheat flatbread) + plain rice + koshimbir (side salad) + achar (Indian spiced pickle) ",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": false,
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Korma",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Chicken cooked in yogurt based gravy served with 2 chapatis (Indian wholewheat flatbread) + plain rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": false
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
@@ -52,12 +52,12 @@
         "item-veg-price": "€10",
         "item-veg-description": "Kidney beans cooked in freshly ground spices served with plain rice + papad + pickled onions",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": false,
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Goan Ros Omelette",
         "item-nonveg-price": "€11",
         "item-nonveg-description": "Spicy Goan style gravy topped with an omelette served with 3 buns + picked onions",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": false
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
@@ -66,12 +66,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Spicy rice dish cooked with mixed vegetables + dal fry (lentil curry) + papad + achar (indian spiced pickle)",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": false,
+        "item-veg-is-sold": "",
         "item-nonveg-name": "Chicken Dum Briyani",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Chicken marinated overnight in yogurt and spices and slow clooked with layers of rice in traditional aromatic spices + mint raita (yogurt mixed with mint and spices) + achar (Indian spiced pickle) + papad",
         "item-nonveg-insta-link": "https://www.instagram.com/p/CRq2fw1spzE/",
-        "item-nonveg-is-sold": false
+        "item-nonveg-is-sold": ""
       }
     ]
   },
@@ -86,12 +86,12 @@
         "item-veg-price": "€10",
         "item-veg-description": "Cottage cheese cooked in freshly ground Indian spices served with 2 chapatis (Indian wholewheat flatbread) + plain rice + achar (Indian spiced pickle) + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": false,
+        "item-veg-is-sold": "",
         "item-nonveg-name": "Kadai Chicken",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Chicken cooked in freshly ground Indian spices served with 2 chapatis + plain rice + achar (Indian spiced pickle) + papad",
         "item-nonveg-insta-link": "https://www.instagram.com/p/CUNHUu6M1wG/",
-        "item-nonveg-is-sold": false
+        "item-nonveg-is-sold": ""
       },
       {
         "day": "Tuesday",
@@ -100,12 +100,12 @@
         "item-veg-price": "€10",
         "item-veg-description": "Grilled cottage cheese cooked in freshly ground Indian spices (dry curry) served with 2 parathas (Indian wholewheat flatbread) + achar (Indian spiced pickle) + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": false,
+        "item-veg-is-sold": "",
         "item-nonveg-name": "Chicken Tikka Masala",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Marinated grilled chicken slow cooked in Indian gravy served with choice of 2 parathas (Indian wholewheat flatbread) + koshimbir (side salad) + achar (Indian spiced pickle)",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": false
+        "item-nonveg-is-sold": ""
       },
       {
         "day": "Wednesday",
@@ -114,12 +114,12 @@
         "item-veg-price": "€10",
         "item-veg-description": "Potato and green peas cooked in Indian spices served with dal tadka + 2 puris (deep fried Indian wholewheat bread) + plain rice + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": false,
+        "item-veg-is-sold": "",
         "item-nonveg-name": "Kerala Style Beef Curry",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Slow cooked beef in Indian spices served with 2 parottas (flaky Indian flatbread) + plain rice + achar",
         "item-nonveg-insta-link": "https://www.instagram.com/p/CD3z1JuD1sc/",
-        "item-nonveg-is-sold": false
+        "item-nonveg-is-sold": ""
       },
       {
         "day": "Thursday",
@@ -128,12 +128,12 @@
         "item-veg-price": "€10",
         "item-veg-description": "Cabbage stir fried in spices topped with coconut served with 2 chapatis (Indian wholewheat flatbread) + dal fry + plain rice + achar (Indian spiced pickle) ",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": false,
+        "item-veg-is-sold": "",
         "item-nonveg-name": "Anda Curry",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Boiled egg cooked in aromatic spices in tomato based gravy served with 2 chapatis (Indian wholewheat flatbread) + plain rice + achar (Indian spiced pickle)",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": false
+        "item-nonveg-is-sold": ""
       },
       {
         "day": "Friday",
@@ -142,12 +142,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Stir fried rice cooked with mixed vegetables in Indo-Chinese spices served with fried vegetable meatballs in soy sauce based gravy",
         "item-veg-insta-link": "https://www.instagram.com/p/B_SF6yxj8gy/",
-        "item-veg-is-sold": false,
+        "item-veg-is-sold": "",
         "item-nonveg-name": "Chicken Indo-Chinese Fried Rice & Manchurian",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Chicken breast cooked in Indo-Chinese spices and stir fried with rice served with fried chicken meatballs in soy sauce based gravy",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": false
+        "item-nonveg-is-sold": ""
       }
     ]
   }
