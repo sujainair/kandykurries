@@ -10,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Spicy mixed vegetables cooked in flavourful gravy served with 2 chapatis (Indian wholewheat flatbread) + rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Lamb Masala",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Slow cooked lamb with freshly ground spices severed with 2 chapatis (wholewheat Indian flatbread) + rice +papad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
