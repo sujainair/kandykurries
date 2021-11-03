@@ -52,12 +52,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Indian cottage cheese cooked along with a mix of vegetables in fresh ground spices served with 3 parathas (Indian wholewheat flatbread) + side sadad + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Bhuna Masala",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Indian street style chicken curry served with 3 parathas (Indian whole wheat flatbread) + side salad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
