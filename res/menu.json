@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Indian cottage cheese cooked in freshly ground spices served with 3 parathas (Indian wholewheat flatbread) + side sadad + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Ghee Roast",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Chicken cooked in freshly roasted spice mix served along with 3 parathas (wholewheat Indian flatbread) + papad + achar",
         "item-nonveg-insta-link": "https://www.instagram.com/p/CQ_OCANM7gB/",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
@@ -38,12 +38,12 @@
         "item-veg-price": "€10",
         "item-veg-description": "Different mix of vegetables cooked in flavourful spices served with 3 chapatis (Indian wholewheat flatbread) + dal fry (thick lentil soup) + rice + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Prawns Masala",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Prawns cooked in a flavourful spicy gravy served with 2 chapatis (Indian wholewheat flatbread) + rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
