@@ -80,12 +80,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Mixed vegetables cooked with flavourful rice + dal fry (spiced lentil soup) + side salad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Briyani (Lunch only)",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Chicken marinated overnight in yogurt and spices and slow clooked with layers of rice in traditional aromatic spices + mint raita (yogurt mixed with mint and spices) + achar (Indian spiced pickle) ",
         "item-nonveg-insta-link": "https://www.instagram.com/p/CRq2fw1spzE/",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       }
     ]
   },
