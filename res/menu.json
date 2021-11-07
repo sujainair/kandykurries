@@ -1,95 +1,5 @@
 {
   "week_1": {
-    "startdate": "01/11",
-    "enddate": "06/11",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "01/11",
-        "item-veg-name": "Veg Kolapuri",
-        "item-veg-price": "€12",
-        "item-veg-description": "Spicy mixed vegetables cooked in flavourful gravy served with 2 chapatis (Indian wholewheat flatbread) + rice + papad + achar",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Lamb Masala",
-        "item-nonveg-price": "€16",
-        "item-nonveg-description": "Slow cooked lamb with freshly ground spices severed with 2 chapatis (wholewheat Indian flatbread) + rice +papad + achar",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Tuesday",
-        "date": "02/11",
-        "item-veg-name": "Paneer Ghee Roast",
-        "item-veg-price": "€12",
-        "item-veg-description": "Indian cottage cheese cooked in freshly ground spices served with 3 parathas (Indian wholewheat flatbread) + side sadad + papad + achar",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Chicken Ghee Roast",
-        "item-nonveg-price": "€12",
-        "item-nonveg-description": "Chicken cooked in freshly roasted spice mix served along with 3 parathas (wholewheat Indian flatbread) + papad + achar",
-        "item-nonveg-insta-link": "https://www.instagram.com/p/CQ_OCANM7gB/",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Wednesday",
-        "date": "03/11",
-        "item-veg-name": "Mix Vegetable",
-        "item-veg-price": "€10",
-        "item-veg-description": "Different mix of vegetables cooked in flavourful spices served with 3 chapatis (Indian wholewheat flatbread) + dal fry (thick lentil soup) + rice + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Prawns Masala",
-        "item-nonveg-price": "€12",
-        "item-nonveg-description": "Prawns cooked in a flavourful spicy gravy served with 2 chapatis (Indian wholewheat flatbread) + rice + papad",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Thursday",
-        "date": "04/11",
-        "item-veg-name": "Veg Bhuna Masala",
-        "item-veg-price": "€12",
-        "item-veg-description": "Indian cottage cheese cooked along with a mix of vegetables in fresh ground spices served with 3 parathas (Indian wholewheat flatbread) + side sadad + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Chicken Bhuna Masala",
-        "item-nonveg-price": "€12",
-        "item-nonveg-description": "Indian street style chicken curry served with 3 parathas (Indian whole wheat flatbread) + side salad + achar",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Friday",
-        "date": "05/11",
-        "item-veg-name": "Amritsari Nutri Kulcha",
-        "item-veg-price": "€16",
-        "item-veg-description": "Soya chunks slow cooked with feshly ground spice mix served with 3 kulcha (wholewheat flatbread cooked on open flame) + side salad + mint & corriander chutney",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Shahi Chicken Korma",
-        "item-nonveg-price": "€16",
-        "item-nonveg-description": "Chicken slow cooked in spicy creamy gravy served along with 3 kulchas (Indian wholewheat flatbread) + side salad + mint & corriander chutney",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Saturday",
-        "date": "06/11",
-        "item-veg-name": "Veg Pulao (Lunch only)",
-        "item-veg-price": "€12",
-        "item-veg-description": "Mixed vegetables cooked with flavourful rice + dal fry (spiced lentil soup) + side salad + achar",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Chicken Briyani (Lunch only)",
-        "item-nonveg-price": "€16",
-        "item-nonveg-description": "Chicken marinated overnight in yogurt and spices and slow clooked with layers of rice in traditional aromatic spices + mint raita (yogurt mixed with mint and spices) + achar (Indian spiced pickle) ",
-        "item-nonveg-insta-link": "https://www.instagram.com/p/CRq2fw1spzE/",
-        "item-nonveg-is-sold": "old"
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "08/11",
     "enddate": "13/11",
     "menu": [
@@ -100,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Mixed vegetables cooked in creamy gravy served with 2 parathas + rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Dhaba Style Chicken Curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Street style chicken curry cooked in spicy gravy served with 2 parathas + rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
@@ -174,6 +84,96 @@
         "item-nonveg-name": "Chicken Vindaloo (Lunch only)",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Goan style chicken marinated and cooked with fresh ground spices served with 2 chapatis + rice ",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "15/11",
+    "enddate": "20/11",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "15/11",
+        "item-veg-name": "",
+        "item-veg-price": "",
+        "item-veg-description": "",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "",
+        "item-nonveg-price": "",
+        "item-nonveg-description": "",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Tuesday",
+        "date": "16/11",
+        "item-veg-name": "",
+        "item-veg-price": "",
+        "item-veg-description": "",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "",
+        "item-nonveg-price": "",
+        "item-nonveg-description": "",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Wednesday",
+        "date": "17/11",
+        "item-veg-name": "",
+        "item-veg-price": "",
+        "item-veg-description": "",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "",
+        "item-nonveg-price": "",
+        "item-nonveg-description": "",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Thursday",
+        "date": "18/11",
+        "item-veg-name": "",
+        "item-veg-price": "",
+        "item-veg-description": "",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "",
+        "item-nonveg-price": "",
+        "item-nonveg-description": "",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Friday",
+        "date": "19/11",
+        "item-veg-name": "",
+        "item-veg-price": "",
+        "item-veg-description": "",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "",
+        "item-nonveg-price": "",
+        "item-nonveg-description": "",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Saturday",
+        "date": "20/11",
+        "item-veg-name": "",
+        "item-veg-price": "",
+        "item-veg-description": "",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "",
+        "item-nonveg-price": "",
+        "item-nonveg-description": "",
         "item-nonveg-insta-link": "",
         "item-nonveg-is-sold": ""
       }
