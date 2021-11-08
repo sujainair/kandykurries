@@ -24,12 +24,12 @@
         "item-veg-price": "€8",
         "item-veg-description": "2 wholewheat Indian bread with spicy potato stuffing served with yogurt and achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Kheema Paratha",
         "item-nonveg-price": "€10",
         "item-nonveg-description": "2 wholewheat Indian bread with spicy minced chicken stuffing served with yogurt + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
