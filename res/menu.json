@@ -52,12 +52,12 @@
         "item-veg-price": "€10",
         "item-veg-description": "Gujrati style lentil curry cooked with pieces of wholewheat flat bread served with rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "full",
         "item-nonveg-name": "Manglorean Prawns Masala",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Shrimp cooked in freshly ground manglorean spices served with 2 chapatis + rice",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "full"
       },
       {
         "day": "Friday",
