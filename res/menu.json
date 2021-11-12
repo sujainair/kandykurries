@@ -80,12 +80,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Mixed vegetables cooked in aromatic rice with spices served with lentil curry + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Vindaloo (Lunch only)",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Goan style chicken marinated and cooked with fresh ground spices served with 2 chapatis + rice ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       }
     ]
   },
