@@ -10,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Chickpea cooked in Indian spices and served with 2 parathas + rice + achari onions + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Tariwala Chicken",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Punjabi style chicken cooked in onion tomato based gravy served with 2 parathas + rice + achari onions + papad ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
