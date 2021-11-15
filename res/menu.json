@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Indian cottage cheese Cooked in freshly ground spices served with 2 parathas + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Kadai Masala",
         "item-nonveg-price": "€12",
         "item-nonveg-description": "Chicken cooked in freshly ground masala served with 2 parathas + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
