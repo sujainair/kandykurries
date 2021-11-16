@@ -38,12 +38,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Mix veggies cooked in onion & cashew based gravy with freshly ground spices served with 3 parathas + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Shahi Korma",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Chicken cooked in onion cashew based gravy with fresh ground spices served with 3 parathas + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
