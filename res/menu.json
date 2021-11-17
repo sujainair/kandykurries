@@ -52,12 +52,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Mushroom cooked in onion & tomato based gravy served with 2 chapatis + rice + side salad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Mackerel Curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Mackerel cooked in homemade spices cooked in onion & tomato based gravy served with rice + papad + achar + salad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
