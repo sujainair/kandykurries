@@ -66,12 +66,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Baby potatoes fried and cooked in onion & tomato based gravy served with 2 parathas + rice + achar ",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Mutton Masala (Dinner Only)",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Lamb slow cooked in flavourful homemade spices served with 2 parathas + rice + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
