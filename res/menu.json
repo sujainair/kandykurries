@@ -10,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Indian cottage cheese in creamy buttery gravy served with 2 parathas + rice + papad ",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Chettinad",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "A south Indian delicacy made of chicken marinated overnight in yogurt and freshly ground spice mix served with rice + papad + achar ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
