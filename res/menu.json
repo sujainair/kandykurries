@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "A delicacy of Kerala made of steamed rice flour served with spicy black chickpea curry + papadam",
         "item-veg-insta-link": "https://www.instagram.com/p/CILNXvRjYHL/",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Madras Chicken curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "A chicken dish from my native. Cooked in a base of spices, coconut and herbs served with rice + papad + side salad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
