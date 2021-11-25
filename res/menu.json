@@ -66,12 +66,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "A dish from the state of Maharashtra made of mixed vegetables cooked in freshly ground spices and thick gravy served with 2 parathas + rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Lamb masala",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Slow cooked lamb in home made spices served with 2 parathas + rice + achar + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
