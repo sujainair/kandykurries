@@ -24,12 +24,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Deep fried fritters dunked in tangy yogurt based curry served with rice + papad + pickle",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Hydrabadi Murgh ka Salan",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Spicy chicken curry cooked with sesame, chilli, peanuts and tamarind served with rice + papad ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
@@ -116,7 +116,7 @@
         "item-veg-insta-link": "",
         "item-veg-is-sold": "",
         "item-nonveg-name": "Shorshe Maach",
-        "item-nonveg-price": "€14",
+        "item-nonveg-price": "€18",
         "item-nonveg-description": "Traditional Bengali style salmon curry made with fresh homemade mustard paste served with rice + papad ",
         "item-nonveg-insta-link": "",
         "item-nonveg-is-sold": ""
@@ -131,7 +131,7 @@
         "item-veg-is-sold": "",
         "item-nonveg-name": "Kerala Style Lamb Stew",
         "item-nonveg-price": "€16",
-        "item-nonveg-description": "Kerala style lamb stewed in coconut milk with vegetables and fragrant spices served with 2 appams",
+        "item-nonveg-description": "Kerala style lamb stewed in coconut milk with vegetables and fragrant spices served with 2 appams or parottas (please mention either one of the two)",
         "item-nonveg-insta-link": "",
         "item-nonveg-is-sold": ""
       },
@@ -158,7 +158,7 @@
         "item-veg-insta-link": "",
         "item-veg-is-sold": "",
         "item-nonveg-name": "Rajasthani laal Maas (Hot & Spicy!!)",
-        "item-nonveg-price": "€16",
+        "item-nonveg-price": "€18",
         "item-nonveg-description": "Authentic Rajasthani fiery red hot lamb masala cooked along with yogurt and some flavourful spices served with 2 paratha + rice + papad",
         "item-nonveg-insta-link": "",
         "item-nonveg-is-sold": ""
