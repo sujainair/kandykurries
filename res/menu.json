@@ -38,12 +38,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Spicy cashewnut curry cooked in a onion tomato based gravy served with 2 paratha + rice + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Goan Prawns Ambotik",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Hot and sour prawns curry cooked with coconut, chilli and tamrind in flavourful spices served with rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
