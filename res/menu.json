@@ -52,12 +52,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Indo-Chinese mix vegetable fried rice. A favourite amoung Indians",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chettinad Iraichi Kulambu",
         "item-nonveg-price": "€18",
         "item-nonveg-description": "Spicy lamb curry from the south of India slow cooked in traditional south Indian spice mix served with 2 parathas + rice + papad.",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
