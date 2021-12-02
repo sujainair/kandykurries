@@ -66,12 +66,12 @@
         "item-veg-price": "€16",
         "item-veg-description": "Flavourful mix vegetable cooked in rich luxurious creamy gravy with nuts and dry fruits served with 2 parathas + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Hyderabadi Chicken Korma",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Spiced chicken curry cooked in cashew based mildly spicy gravy served with 2 parathas + papad ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
