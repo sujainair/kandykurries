@@ -80,12 +80,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Famous street food of Maharashtra where mix of different sprouts are cooked in spicy gravy served with 2 buns",
         "item-veg-insta-link": "https://www.instagram.com/p/CHfYDxpD6CH/",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Malvani Chicken Curry ",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Spicy chicken curry cooked in onion & coconut based gravy with special home blend spices served with 2 chapatis + rice ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       }
     ]
   },
