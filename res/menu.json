@@ -10,12 +10,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Potato, cauliflower & green peas cooked in flavourful coconut milk based stew served with rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Sukka",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Flavourful Manglorean dish. Dry chicken fry cooked with a freshly prepared aromatic spice blend and coconut served with 2 paratha + papad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Kidney beans cooked in spicy onion & tomato based gravy. A favourite North-Indian food served with rice + papad + achar ",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Shorshe Maach",
         "item-nonveg-price": "€18",
         "item-nonveg-description": "Traditional Bengali style salmon curry made with fresh homemade mustard paste served with rice + papad ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
