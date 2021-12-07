@@ -38,12 +38,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "A North-Indian comfort meal made with Indian cottage cheese and green peas cooked in onion & tomato based gravy served with 2 parathas + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Kerala Style Lamb Stew",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Kerala style lamb stewed in coconut milk with vegetables and fragrant spices served with 2 appams or parottas (please mention either one of the two)",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
