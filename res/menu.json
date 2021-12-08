@@ -52,12 +52,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Spiced vegetable gravy with lentitls and coconut served with rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Afghani Curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Delicious creamy chicken curry with smoky flavour served with 2 parathas + rice + papad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
