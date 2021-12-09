@@ -66,12 +66,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "One of Mumbai's favourite streetfood, where mixed vegetable curry made with special blend of spices served with 2 toasted buns ",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Rajasthani laal Maas (Hot & Spicy!!)",
         "item-nonveg-price": "€18",
         "item-nonveg-description": "Authentic Rajasthani fiery red hot lamb masala cooked along with yogurt and some flavourful spices served with 2 paratha + rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
