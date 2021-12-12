@@ -10,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Mushroom and green peas cooked in onion & tomato based gravy with freshly ground garam masala served with 3 chapati + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Bengali style Chicken Curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Chicken curry with potatoes flavoured with aromatic whole spices served with rice + acahr + side salad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
