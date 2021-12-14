@@ -38,12 +38,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Indian cottage cheese cooked in spicy flavourful onion & tomato based thick gravy served with 2 parathas + rice + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Butter Chicken",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Chicken marinated in yogurt and spices, grilled and then cooked in a thick creamy gravy served with 2 parathas + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
