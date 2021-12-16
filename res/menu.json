@@ -66,12 +66,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Mix vegetables cooked in spicy thick onion & tomato based gravy with fresh gound spices served with 2 parathas + papad + achar + rice",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Beef Curry and Parotta",
         "item-nonveg-price": "€17",
         "item-nonveg-description": "A special delicacy from Kerala of slow cooked beef with fresh spices served with freshly made Kerala Parotta + papad.",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
