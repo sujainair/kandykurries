@@ -80,12 +80,12 @@
         "item-veg-price": "€16",
         "item-veg-description": "Basmati rice cooked with veggies & nuts sauteed in ghee served with yogurt raita",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Yakhini Pulao",
         "item-nonveg-price": "€18",
         "item-nonveg-description": "Basmati rice cooked in a broth made with chicken and fragrant Indian spices served with beetroot raita. Definitely a dish to die for!",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       }
     ]
   },
