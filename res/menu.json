@@ -1,95 +1,5 @@
 {
   "week_1": {
-    "startdate": "13/12",
-    "enddate": "18/12",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "13/12",
-        "item-veg-name": "Mushroom Matar Masala",
-        "item-veg-price": "€12",
-        "item-veg-description": "Mushroom and green peas cooked in onion & tomato based gravy with freshly ground garam masala served with 3 chapati + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Bengali style Chicken Curry",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "Chicken curry with potatoes flavoured with aromatic whole spices served with rice + acahr + side salad",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Tuesday",
-        "date": "14/12",
-        "item-veg-name": "Palak Chole Masala",
-        "item-veg-price": "€14",
-        "item-veg-description": "Chickpeas cooked with spinach in flavourful green gravy and spices served with 2 paratha + rice + achar + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Kolambi Bhat",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "Maharashtrian style basmati rice dish with prawns made using home blend of Marashtrian spices served with papad + achar",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Wednesday",
-        "date": "15/12",
-        "item-veg-name": "Paneer Lababdar",
-        "item-veg-price": "€14",
-        "item-veg-description": "Indian cottage cheese cooked in spicy flavourful onion & tomato based thick gravy served with 2 parathas + rice + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Butter Chicken",
-        "item-nonveg-price": "€16",
-        "item-nonveg-description": "Chicken marinated in yogurt and spices, grilled and then cooked in a thick creamy gravy served with 2 parathas + papad",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Thursday",
-        "date": "16/12",
-        "item-veg-name": "Amritsari Pinde Chole",
-        "item-veg-price": "€14",
-        "item-veg-description": "Black chickpeas cooked in flavourful fresh ground homemade spices served with 2 parathas + side salad + papad + achar",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Pork Vindaloo",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "A delicacy of Goa. Pork marinated overnight with a spice mix and vinegar and cooked in aromatic gravy served with rice + papad",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Friday",
-        "date": "17/12",
-        "item-veg-name": "Veg Kolhapuri",
-        "item-veg-price": "€14",
-        "item-veg-description": "Mix vegetables cooked in spicy thick onion & tomato based gravy with fresh gound spices served with 2 parathas + papad + achar + rice",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Beef Curry and Parotta",
-        "item-nonveg-price": "€17",
-        "item-nonveg-description": "A special delicacy from Kerala of slow cooked beef with fresh spices served with freshly made Kerala Parotta + papad.",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Saturday",
-        "date": "18/12",
-        "item-veg-name": "Navratna Pulao",
-        "item-veg-price": "€16",
-        "item-veg-description": "Basmati rice cooked with veggies & nuts sauteed in ghee served with yogurt raita",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Chicken Yakhini Pulao",
-        "item-nonveg-price": "€18",
-        "item-nonveg-description": "Basmati rice cooked in a broth made with chicken and fragrant Indian spices served with beetroot raita. Definitely a dish to die for!",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "20/12",
     "enddate": "25/12",
     "menu": [
@@ -100,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Spicy soya chunks cooked in flavourful onion & tomato based gravy served with 2 pararthas + achar + side salad + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Bhuna Chicken Kheema Masala",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Minced chicken slow cooked with spices and green peas served with 2 parathas + achar + side salad + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
@@ -114,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Sliced eggplant fried and cooked in mildly spicy and tangy yogurt based Bengali style curry served with rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Doi Maach",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Shallow fried salmon gently simmered in a mildly spiced yogurt based Bengali style gravy served with rice + acahar + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
@@ -176,6 +86,96 @@
         "item-nonveg-description": "",
         "item-nonveg-insta-link": "",
         "item-nonveg-is-sold": "full"
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "27/12",
+    "enddate": "01/01",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "27/12",
+        "item-veg-name": "Appam with vegetable stew",
+        "item-veg-price": "€12",
+        "item-veg-description": "2 Steamed rice pancakes served with mix vegetable stew cooked in mildy spicy flavourful creamy coconut milk based gravy ",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Appam with kerala style egg curry",
+        "item-nonveg-price": "€14",
+        "item-nonveg-description": "2 steamed rice panakes Served with mildy spicy edd curry cooked in ontion tomato coconut milk based gravy. A dish from the state of kerala",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Tuesday",
+        "date": "28/12",
+        "item-veg-name": "Achari bhindi masala",
+        "item-veg-price": "",
+        "item-veg-description": "Okra cooked in onion tomato based gravy with pickling spices served with 2 chapatis +papad + side salad",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Chicken Korma",
+        "item-nonveg-price": "€14",
+        "item-nonveg-description": "A muglai dish cooked in  creamy flavourful nut paste, warm spices  and crispy onion based gravy served with 2 parathas + papad + acahar",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Wednesday",
+        "date": "29/12",
+        "item-veg-name": "Paneer makhani",
+        "item-veg-price": "",
+        "item-veg-description": "Indian cottage cheese cooked in creamy  mildy spicy onion tomato cashew based gravy served with 2 parathas + rice + achar + papad",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Prawns ghee roast",
+        "item-nonveg-price": "€16",
+        "item-nonveg-description": "Manglorean style prawns cooked in ghee and home made manglorean spice mix  served with rice + papad",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Thursday",
+        "date": "30/12",
+        "item-veg-name": "Palak chole",
+        "item-veg-price": "",
+        "item-veg-description": "Chickpeas and spinach cooked in aromatic flavourful mildy spicy gravy served with 2 paratha + rice + papad + achar",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Chicken xacuti",
+        "item-nonveg-price": "€14",
+        "item-nonveg-description": "A spicy flavourful Goan dish cooked in authentic goan spiced gravy served with rice ",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Friday",
+        "date": "31/12",
+        "item-veg-name": "Gatte ki sabzi",
+        "item-veg-price": "",
+        "item-veg-description": " spiced Chickpea flour dough  cooked and added to spiced yogurt based gravy servd with rice + papad + achar",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Spicy lamb soup",
+        "item-nonveg-price": "€17",
+        "item-nonveg-description": "Mildly spicy lamb soup perfect for the cold winter. Lamb meal cookd with spices in pressure cooker with light broth served with naan  ",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Saturday",
+        "date": "01/01",
+        "item-veg-name": "Sambar rice ",
+        "item-veg-price": "",
+        "item-veg-description": "A south-Indian dish made of l home made sambar spice mix, lentils and mixed veggies in tangy, mildy spicy  gravy served with rice + papad",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Hyderabadi chicken briyani",
+        "item-nonveg-price": "€18",
+        "item-nonveg-description": "soft chicken pieces cooked with aromatic spices, fried onion and fragrant basmati rice served with mint yogurt dip",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
       }
     ]
   }
