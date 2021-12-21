@@ -38,12 +38,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Crispy fried okra added to sweet & tangy flavourful beetroot yogurt curry served with rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Spicy Chicken in Sambar and Tamrind curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Spicy chicken curry cooked with homemade sambar powder and a dash of tamrind for tanginess in a coconut based creamy gravy served with rice + papad + side salad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
