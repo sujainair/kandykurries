@@ -52,12 +52,12 @@
         "item-veg-price": "€16",
         "item-veg-description": "A mix of veggies cooked with rich flavourful coconut milk + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Village style Chicken Curry and Ragi Sangati",
         "item-nonveg-price": "€18",
         "item-nonveg-description": "Spicy chicken curry cooked in rice, vibrant flavours and ghee served with finger millet balls + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
