@@ -10,12 +10,12 @@
         "item-veg-price": "",
         "item-veg-description": "",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "full",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Holiday",
         "item-nonveg-price": "",
         "item-nonveg-description": "",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "full"
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Okra cooked in onion tomato based gravy with pickled spices served with 2 chapatis + papad + side salad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Korma",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "A muglai dish cooked in creamy flavourful nut paste, warm spices and crispy onion based gravy served with 2 parathas + papad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
@@ -38,12 +38,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Indian cottage cheese cooked in creamy mildy spicy cashew based gravy served with 2 parathas + rice + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Prawns Ghee Roast",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Manglorean style prawns cooked in ghee and home made Manglorean spice mix served with rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
@@ -52,12 +52,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Chickpeas and spinach cooked in aromatic flavourful mildy spicy gravy served with 2 paratha + rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Xacuti",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "A spicy flavourful Goan dish cooked in authentic goan spices served with rice ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
