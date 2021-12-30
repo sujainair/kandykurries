@@ -66,12 +66,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Spiced chickpea dough cooked and added to spiced yogurt based gravy served with rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Hyderabadi Chicken Biryani",
         "item-nonveg-price": "€18",
         "item-nonveg-description": "Soft chicken pieces cooked with aromatic spices, fried onion and fragrant basmati rice served with mint yogurt dip",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
