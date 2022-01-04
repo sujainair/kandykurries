@@ -38,12 +38,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Aromatic Basmati rice cooked with beetroot in coconut milk and a hearty garnish of nuts, rasins and whole spices served with papad and yogurt dip",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Malabar Shrimp Curry",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Spicy succulent shrimp in a coconut based sauce with spicy and tangy gravy served with aromatic Basmati rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
