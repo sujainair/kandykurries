@@ -66,12 +66,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Spicy, flavourful mix sprout curry cooked in homemade fresh spice mix. A famous Maharashtrian street food served with 2 buns + classic Bombay mixture (fried snack mix)",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Bengali Macher Jhol",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Bengali fish curry with light spicy curry cooked in mustard and flavourful spices served with rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
