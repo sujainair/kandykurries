@@ -10,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "A dish from the state of Maharashtra, small aurbergine stuffed with spicy, flavourful homemade spice mix and cooked with some onions. Served with 2 chapatis  + side salad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Kolapuri Chicken Curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "A hot and spicy flavourful chicken dish from the region of Kolapur. Chicken cooked in special Kolapuri spice blend and served with 2 chapatis + rice + side salad + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
@@ -24,12 +24,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "A mildly sweet, flavourful Indian cottage cheese cooked in creamy rich gravy served with 2 parathas + rice + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Kerala Style Prawns Curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Warm comforting shrimp curry cooked in coconut & tamarind based rich creamy gravy. Served with rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
