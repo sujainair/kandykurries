@@ -38,12 +38,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "One of the most popular street foods from Delhi. Made with dried green peas and aromatic spices, served with kulchas (flatbread) + green spicy chutney + pickled onions",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Tamarind Mackerel Curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Sour, tangy Mackerel curry made in mildy flavourful fresh ground blend of spices served with rice + papad + side salad",
         "item-nonveg-insta-link": "https://www.instagram.com/p/CI276lADeR5/",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
