@@ -52,12 +52,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Baby potatoes fried and cooked in aromatic, flavourful spicy yogurt based gravy served with rice + achar + side salad + papad",
         "item-veg-insta-link": "https://www.instagram.com/p/CB5HacsjuBF/",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Dum Briyani",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Chicken marinated overnight in yogurt and spice mix, cooked on a low flame in layer of aromatic flavourful basmati rice, fried onion, fresh mint and coriander served with yogurt dip + pickle + papad",
         "item-nonveg-insta-link": "https://www.instagram.com/p/CRq2fw1spzE/",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
