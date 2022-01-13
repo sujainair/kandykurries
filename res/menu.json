@@ -66,12 +66,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Spicy, hot and one of the most loved Indo-Chinese dishes in India. Flavourful noodles with mix of veggies and lots of garlic and chilli.",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Chilli Garlic Noodles",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Spicy, hot and full of amazing flavours, one of the most loved Indo-Chinese dishes of Mumbai. Chicken and a mix of veggies cooked with garlic and chillies a dish to die for",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
