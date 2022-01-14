@@ -80,12 +80,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Jackfruit cooked in roasted aromatic homeblend spice mix served with 2 paratha + rice + side salad + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Lamb Rara Masala",
         "item-nonveg-price": "€18",
         "item-nonveg-description": "Slow cooked lamb cooked in a hot blend of fresh spices and an aromatic minced meat based gravy served with 2 parathas + rice + acahar + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       }
     ]
   },
