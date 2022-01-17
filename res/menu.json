@@ -10,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Indian cottage cheese cooked in spicy aromatic spinach based gravy served with 2 parathas + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Palak Chicken",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Mildy spicy chicken pieces cooked in flavourful aromatic spices in a spinach based gravy served with 2 paratahs + papad + achar  ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Okra cooked in aromatic homeblend spice mix with petals of onion served with 2 parathas + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Vindaloo",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "A popular Goan dish. Chicken marinated and cooked in an aromatic, mildy spicy fresh spice mix served with 2 parathas + rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
