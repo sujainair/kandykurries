@@ -1,95 +1,5 @@
 {
   "week_1": {
-    "startdate": "10/01",
-    "enddate": "15/01",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "10/01",
-        "item-veg-name": "Bharli Vangi",
-        "item-veg-price": "€12",
-        "item-veg-description": "A dish from the state of Maharashtra, small aurbergine stuffed with spicy, flavourful homemade spice mix and cooked with some onions. Served with 2 chapatis  + side salad + achar",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Kolapuri Chicken Curry",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "A hot and spicy flavourful chicken dish from the region of Kolapur. Chicken cooked in special Kolapuri spice blend and served with 2 chapatis + rice + side salad + papad",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Tuesday",
-        "date": "11/01",
-        "item-veg-name": "Shahi Paneer ",
-        "item-veg-price": "€14",
-        "item-veg-description": "A mildly sweet, flavourful Indian cottage cheese cooked in creamy rich gravy served with 2 parathas + rice + achar + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Kerala Style Prawns Curry",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "Warm comforting shrimp curry cooked in coconut & tamarind based rich creamy gravy. Served with rice + papad",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Wednesday",
-        "date": "12/01",
-        "item-veg-name": "Matar Kulcha",
-        "item-veg-price": "€14",
-        "item-veg-description": "One of the most popular street foods from Delhi. Made with dried green peas and aromatic spices, served with kulchas (flatbread) + green spicy chutney + pickled onions",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Tamarind Mackerel Curry",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "Sour, tangy Mackerel curry made in mildy flavourful fresh ground blend of spices served with rice + papad + side salad",
-        "item-nonveg-insta-link": "https://www.instagram.com/p/CI276lADeR5/",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Thursday",
-        "date": "13/01",
-        "item-veg-name": "Kashmiri Dum Aloo",
-        "item-veg-price": "€12",
-        "item-veg-description": "Baby potatoes fried and cooked in aromatic, flavourful spicy yogurt based gravy served with rice + achar + side salad + papad",
-        "item-veg-insta-link": "https://www.instagram.com/p/CB5HacsjuBF/",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Chicken Dum Briyani",
-        "item-nonveg-price": "€16",
-        "item-nonveg-description": "Chicken marinated overnight in yogurt and spice mix, cooked on a low flame in layer of aromatic flavourful basmati rice, fried onion, fresh mint and coriander served with yogurt dip + pickle + papad",
-        "item-nonveg-insta-link": "https://www.instagram.com/p/CRq2fw1spzE/",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Friday",
-        "date": "14/01",
-        "item-veg-name": "Veg Chilli Garlic Noodles",
-        "item-veg-price": "€12",
-        "item-veg-description": "Spicy, hot and one of the most loved Indo-Chinese dishes in India. Flavourful noodles with mix of veggies and lots of garlic and chilli.",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Chicken Chilli Garlic Noodles",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "Spicy, hot and full of amazing flavours, one of the most loved Indo-Chinese dishes of Mumbai. Chicken and a mix of veggies cooked with garlic and chillies a dish to die for",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Saturday",
-        "date": "15/01",
-        "item-veg-name": "Jackfruit Masala",
-        "item-veg-price": "€14",
-        "item-veg-description": "Jackfruit cooked in roasted aromatic homeblend spice mix served with 2 paratha + rice + side salad + achar + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Lamb Rara Masala",
-        "item-nonveg-price": "€18",
-        "item-nonveg-description": "Slow cooked lamb cooked in a hot blend of fresh spices and an aromatic minced meat based gravy served with 2 parathas + rice + acahar + papad",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "17/01",
     "enddate": "22/01",
     "menu": [
@@ -176,6 +86,96 @@
         "item-nonveg-description": "Soft succulent chicken pieces cooked with aromatic spices, fried onion and fragrant basmati rice served with yogurt dip and papad",
         "item-nonveg-insta-link": "",
         "item-nonveg-is-sold": ""
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "24/01",
+    "enddate": "29/01",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "24/01",
+        "item-veg-name": "Masala Aloo Paratha (x2)",
+        "item-veg-price": "€12",
+        "item-veg-description": "Indian flatbread stuffed with potatoes, onion and spices and served with tomato chutney + achar + side salad",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Stuffed Chicken Kheema Paratha (x2)",
+        "item-nonveg-price": "€14",
+        "item-nonveg-description": "Minced chicken cooked in flavourful Indian spices stuffed in Indian flatbread served with tomato chutney + achar + side salad",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Tuesday",
+        "date": "25/01",
+        "item-veg-name": "Avial",
+        "item-veg-price": "€12",
+        "item-veg-description": "Traditional dish from Kerala made with a mix of differnent root vegetables cooked in flavourful coconut milk based gravy served with rice + acahar + papad",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Chicken Ishtu",
+        "item-nonveg-price": "€14",
+        "item-nonveg-description": "Traditional chicken stew from Kerala cooked with chicken, veggies, spices and coconut milk served with rice + achar + papad",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Wednesday",
+        "date": "26/01",
+        "item-veg-name": "Chana Panner Achari Pulao",
+        "item-veg-price": "€14",
+        "item-veg-description": "Chickpeas and Indian cottage cheese cooked in aromatic basmati rice with tangy achar flavour served with yogurt dip + papad",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Chicken Yakhni Pulao",
+        "item-nonveg-price": "€18",
+        "item-nonveg-description": "Aromatic Basmati rice cooked to perfection in a broth made with chicken and fragrant spices served with beetroot raita + achar + papad",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Thursday",
+        "date": "27/01",
+        "item-veg-name": "Paneer Lababdar",
+        "item-veg-price": "€14",
+        "item-veg-description": "Indian cottage cheese cooked in flavourful onion & toamto based thick gravy with a drizzle of cream served with 2 parathas + achar + papad",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Malvani Bangada (Mackerel) Curry",
+        "item-nonveg-price": "€16",
+        "item-nonveg-description": "A classic dish from the coastal region of Maharashtra. Mackerel cooked in a coconut based gravy with spicy Malvani spice mix and served with rice + side salad + papad",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Friday",
+        "date": "28/01",
+        "item-veg-name": "HOLIDAY",
+        "item-veg-price": "",
+        "item-veg-description": "",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "full",
+        "item-nonveg-name": "HOLIDAY",
+        "item-nonveg-price": "",
+        "item-nonveg-description": "",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": "full"
+      },
+      {
+        "day": "Saturday",
+        "date": "29/01",
+        "item-veg-name": "HOLIDAY",
+        "item-veg-price": "",
+        "item-veg-description": "",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "full",
+        "item-nonveg-name": "HOLIDAY",
+        "item-nonveg-price": "",
+        "item-nonveg-description": "",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": "full"
       }
     ]
   }
