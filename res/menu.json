@@ -38,12 +38,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "A street food from the north of India. Chickpea cooked in hot & flavour packed spices served with 2 baturas (fried Indian flatbread) + pickled onions + green chutney",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Kolambi Bhat",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Aromatic basmati rice teamed with lip smacking prawns cooked in a home made spice blend served with yogurt dip + achar + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
