@@ -66,12 +66,12 @@
         "item-veg-price": "€16",
         "item-veg-description": "A mix of different veggies  and dry fruits cooked in ghee with aromatic whole spices served with yogurt dip + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Lamb Do Pyaza",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Slow cooked lamb dish made with an aromatic, mildly hot spice blend in an onion & tomato based gravy with some petals of onion served with 2 parathas + papad + side salad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
