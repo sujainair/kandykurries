@@ -80,12 +80,12 @@
         "item-veg-price": "€16",
         "item-veg-description": "Fried vegetarian balls made of potato and Indian cottage cheese cooked in a creamy flavourful onion & tomato based, mildy spicy, gravy served with 2 parathas + side salad + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Hyderabadi Chicken Biryani",
         "item-nonveg-price": "€18",
         "item-nonveg-description": "Soft succulent chicken pieces cooked with aromatic spices, fried onion and fragrant basmati rice served with yogurt dip and papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       }
     ]
   },
