@@ -10,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Indian flatbread stuffed with potatoes, onion and spices and served with tomato chutney + achar + side salad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Stuffed Chicken Kheema Paratha (x2)",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Minced chicken cooked in flavourful Indian spices stuffed in Indian flatbread served with tomato chutney + achar + side salad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Traditional dish from Kerala made with a mix of differnent root vegetables cooked in flavourful coconut milk based gravy served with rice + acahar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Ishtu",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Traditional chicken stew from Kerala cooked with chicken, veggies, spices and coconut milk served with rice + achar + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
