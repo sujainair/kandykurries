@@ -38,12 +38,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Chickpeas and Indian cottage cheese cooked in aromatic basmati rice with tangy achar flavour served with yogurt dip + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Yakhni Pulao",
         "item-nonveg-price": "€18",
         "item-nonveg-description": "Aromatic Basmati rice cooked to perfection in a broth made with chicken and fragrant spices served with beetroot raita + achar + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
