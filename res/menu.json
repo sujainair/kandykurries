@@ -128,12 +128,12 @@
         "item-veg-price": "",
         "item-veg-description": "",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "full",
         "item-nonveg-name": "Holiday",
         "item-nonveg-price": "",
         "item-nonveg-description": "",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "full"
       },
       {
         "day": "Thursday",
@@ -142,12 +142,12 @@
         "item-veg-price": "",
         "item-veg-description": "",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "full",
         "item-nonveg-name": "Holiday",
         "item-nonveg-price": "",
         "item-nonveg-description": "",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "full"
       },
       {
         "day": "Friday",
@@ -156,12 +156,12 @@
         "item-veg-price": "",
         "item-veg-description": "",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "full",
         "item-nonveg-name": "Holiday",
         "item-nonveg-price": "",
         "item-nonveg-description": "",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "full"
       },
       {
         "day": "Saturday",
@@ -170,12 +170,12 @@
         "item-veg-price": "",
         "item-veg-description": "",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "full",
         "item-nonveg-name": "Holiday",
         "item-nonveg-price": "",
         "item-nonveg-description": "",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "full"
       }
     ]
   }
