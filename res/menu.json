@@ -10,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Mushroom and green peas cooked in warm and comforting spices in onion & tomato based gravy served with 2 parathas + side salad + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Bhuna ",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Minced chicken cooked in flavorful freshly ground spices cooked in an onion & tomato based gravy served with 2 paratha + green chutney + pickled onions",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Cripsy potatoes cooked in spicy tangy cashew & yogurt based gravy served with 2 parathas + achar + papad ",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Shahi Egg Korma",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Boiled eggs added to a rich and flavourful creamy gravy made with cashew nut paste, yogurt and coconut milk topped with fried onions served with 2 parathas + papad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
