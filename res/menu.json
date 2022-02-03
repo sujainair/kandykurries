@@ -66,12 +66,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "A favourite among Indians! Spicy, flavourful Indo-Chinese dish cooked with mix of veggies in spicy schezwan sauce served with a flavourful sauce containing vegetable balls",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Triple Schezwan Fried Rice with Manchurian",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Favourite among Indians! Spicy, flavourful Indo-chinese dish cooked with mix of veggies and chicken in spicy schezwan sauce served with a flavourful sause containing chicken meatballs",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
