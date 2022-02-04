@@ -80,12 +80,12 @@
         "item-veg-price": "€16",
         "item-veg-description": "A flavour packed spicy mix of cottage cheese sandwiched between slices of Indian cottage cheese, fried and added to a creamy onion & cashew based gravy served with 2 parathas + side salad + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Lamb Korma",
         "item-nonveg-price": "€18",
         "item-nonveg-description": "Marinated lamb pieces slow cooked in aromatic warm spices in a spicy flavourful onion & cashew nut based gravy served with rice + 1 paratha + achar + papad ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       }
     ]
   },
