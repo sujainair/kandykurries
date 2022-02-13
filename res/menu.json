@@ -10,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "A classic Bengali style curry with cauliflower, potato and green peas cooked together in warm spices served with 2 chapati + side salad + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Saag Chicken",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Flavourful chicken curry cooked with spinach and warm spices served with 2 parathas + papad + side salad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
