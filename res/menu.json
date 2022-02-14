@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Chickpeas cooked in spicy, tangy flavours served with 2 batura/parathas + achar + picked onions",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Tawa Anda Sukka",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Egg curry cooked in warm spicy freshly ground spices and coconut served with 2 parathas + achar + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
