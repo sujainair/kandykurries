@@ -38,12 +38,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "A delicacy from Kerala. Steamed rice flour layered with fresh grated coconut served with spicy flavourful black gram curry + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Goan Prawns Balchao",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "A delicacy of Goa. Stir-fried prawns added to pickled curry sauce that make your taste buds tingle. Served with 1 paratha + rice + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
