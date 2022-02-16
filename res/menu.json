@@ -52,12 +52,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Indian cottage cheese cooked in thick onion tomato based creamy buttery gravy with warm spices served with 2 parathas + papad + side salad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Kerala Meen Mappas",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Spicy sea baas curry with delicious tangy and sour flavours cooked in comforing coconut milk and spices served with rice + achar + papad + side salad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
