@@ -66,12 +66,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Mix veggies cooked with aromatic basmati rice and whole spices topped with nuts and rasins served with yogurt dip + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Hyderabadi Chicken Biryani",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "A rich rice dish with soft succulent chicken pieces and aromatic spices, fried onions made with fragrant basmati rice. One of my signature dishes worth dying for! Served with papad + yogurt dip + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
