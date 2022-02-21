@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Mix of veggies cooked in freshly roasted kolapuri spices with onion & tomato based gravy served with 2 parathas + achar + papad + side salad  ",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Manglorean Chicken Curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Soft chicken pieces cooked in freshly ground Manglorean spices. A warm and comforting meal served with rice + papad + achar + side salad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
