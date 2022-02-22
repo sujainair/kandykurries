@@ -38,12 +38,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Grilled Indian cottage cheese cooked in warm flavourful onion & tomato based thick gravy served with 2 parathas + rice + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Goan Fish Ambotik",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "A delicacy of Goa. A spicy, sour fish curry cooked in onion, tomato and tamrind based gravy served with rice + papad ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
