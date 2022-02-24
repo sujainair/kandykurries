@@ -66,12 +66,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "A warm comforting dish from Kerala. Mix vegetable stew made with warm spices and coconut milk served with 2 appams (fermented rice pancakes) + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Ishtu and Appam",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Chicken stew made in coconut milk with whole spices. A delicacy of Kerala served with 2 appams (fermented rice pancakes) + papad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
