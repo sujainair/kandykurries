@@ -80,12 +80,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Spicy, warm and flavourful potato and chickpea cooked with aromatic fragmented basmati rice served with yogurt dip + papad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Shahi Egg Korma",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Egg curry cooked in thick onion, cashew and coconut based gravy with flavourful spices served with 2 parathas + papad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       }
     ]
   },
