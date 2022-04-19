@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Chunks of Soft Indian cottage cheese in fragrant spinach sauce cooked with fragrant indian spices served with 2 parathas + rice + achar + side salad + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Pepper Masala",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Tender chicken pieces cooked with different peppers and spices in a thick onion & tomato based gravy served with 2 parathas + achar + side salad + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
