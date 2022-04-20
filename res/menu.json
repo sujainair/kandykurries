@@ -38,12 +38,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Roasted cashew cooked in spicy thick gravy of onion and tomato served with 2 paratha + rice + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Bangde Bafat",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Spicy & tangy Manglorean style mackerel curry cooked in a flavourful sauce made with coconut and other spices served with 2 parathas + rice + achar + papad ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
