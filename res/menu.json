@@ -52,12 +52,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Mix vegetables simmered in thick coconut milk based gravy with whole spices served with 2 parothas + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Malabar Chicken Curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "A special kerala dish where tender pieces of chicken cooked in coconut oil and variety of spices that adds zing to the dish topped with creamy coconut paste for richness to the gravy served with  2parothas + achar + papad ",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
