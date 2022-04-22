@@ -66,12 +66,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Delicious and aromatic basmati rice cooked with marinated panner in Indian spices on slow flame served with papad + yogurt dip + cucumber & tomato salad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Prawns Biryani",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Delicious and spicy mix of aromatic basmati rice and prawns, cooked in ghee and flavoured with warm and fragrant spices served with papad + mint yogurt dip + cucumber & tomato salad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
