@@ -80,12 +80,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Street style Indo-Chinese fried rice cooked in flavourful sauces and veggies with crispy burnt garlic served with some fried noodles and spicy schezwan sauce",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Burnt Garlic Fried Rice",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "Street style Indo-Chinese cooked in flavourful sauces with stir fried chicken and veggies topped with crispy burnt garlic served with some fried noodles and spicy schezwan sauce",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       }
     ]
   },
