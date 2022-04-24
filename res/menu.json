@@ -1,95 +1,5 @@
 {
   "week_1": {
-    "startdate": "18/04",
-    "enddate": "23/04",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "18/04",
-        "item-veg-name": "Mushroom Mutter Masala",
-        "item-veg-price": "€12",
-        "item-veg-description": "Mushroom and green peas cooked in a spicy onion & tomato based gravy with flavourful spices served with 2 parathas + rice + side salad + achar + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Chicken Do Pyaza",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "Boneless chicken pieces cooked with aromatic spices in fried onion and tomato based gravy garnished with soft tomato and onion petals served with 2 parathas + rice + acahar + papad + side salad",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Tuesday",
-        "date": "19/04",
-        "item-veg-name": "Palak Paneer",
-        "item-veg-price": "€12",
-        "item-veg-description": "Chunks of Soft Indian cottage cheese in fragrant spinach sauce cooked with fragrant indian spices served with 2 parathas + rice + achar + side salad + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Chicken Pepper Masala",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "Tender chicken pieces cooked with different peppers and spices in a thick onion & tomato based gravy served with 2 parathas + achar + side salad + papad",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Wednesday",
-        "date": "20/04",
-        "item-veg-name": "Dhaba Style Kaju Masala",
-        "item-veg-price": "€12",
-        "item-veg-description": "Roasted cashew cooked in spicy thick gravy of onion and tomato served with 2 paratha + rice + achar + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Bangde Bafat",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "Spicy & tangy Manglorean style mackerel curry cooked in a flavourful sauce made with coconut and other spices served with 2 parathas + rice + achar + papad ",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Thursday",
-        "date": "21/04",
-        "item-veg-name": "Kerala Vegetable Korma",
-        "item-veg-price": "€14",
-        "item-veg-description": "Mix vegetables simmered in thick coconut milk based gravy with whole spices served with 2 parothas + achar + papad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Malabar Chicken Curry",
-        "item-nonveg-price": "€14",
-        "item-nonveg-description": "A special kerala dish where tender pieces of chicken cooked in coconut oil and variety of spices that adds zing to the dish topped with creamy coconut paste for richness to the gravy served with  2parothas + achar + papad ",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Friday",
-        "date": "22/04",
-        "item-veg-name": "Paneer Biryani",
-        "item-veg-price": "€14",
-        "item-veg-description": "Delicious and aromatic basmati rice cooked with marinated panner in Indian spices on slow flame served with papad + yogurt dip + cucumber & tomato salad",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Prawns Biryani",
-        "item-nonveg-price": "€16",
-        "item-nonveg-description": "Delicious and spicy mix of aromatic basmati rice and prawns, cooked in ghee and flavoured with warm and fragrant spices served with papad + mint yogurt dip + cucumber & tomato salad",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      },
-      {
-        "day": "Saturday",
-        "date": "23/04",
-        "item-veg-name": "Burnt Garlic Fried Rice",
-        "item-veg-price": "€14",
-        "item-veg-description": "Street style Indo-Chinese fried rice cooked in flavourful sauces and veggies with crispy burnt garlic served with some fried noodles and spicy schezwan sauce",
-        "item-veg-insta-link": "",
-        "item-veg-is-sold": "old",
-        "item-nonveg-name": "Chicken Burnt Garlic Fried Rice",
-        "item-nonveg-price": "€16",
-        "item-nonveg-description": "Street style Indo-Chinese cooked in flavourful sauces with stir fried chicken and veggies topped with crispy burnt garlic served with some fried noodles and spicy schezwan sauce",
-        "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": "old"
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "25/04",
     "enddate": "30/04",
     "menu": [
@@ -174,6 +84,96 @@
         "item-nonveg-name": "Chicken Schezwan Fried Rice",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "The most favourite Indo-Chinese dish of stir fired chicken & veggies in spicy lip smacking schezwan sauce served with some fried noodles and schezwan sauce",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "02/05",
+    "enddate": "07/05",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "02/05",
+        "item-veg-name": "Soya Masala",
+        "item-veg-price": "€12",
+        "item-veg-description": "Soya chunks cooked in onion and tomato based thick gravy with lip smaking spices and flavours served with 2 parathas + side salad + papad + achar",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Chicken Dhansak",
+        "item-nonveg-price": "€14",
+        "item-nonveg-description": "A Parsi dish with the combination of elements from Parsi and Gujrati community. Chicken, lentils and vegetables cooked together with freshly ground special spice mix served with rice + achar + side salad + papad",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Tuesday",
+        "date": "03/05",
+        "item-veg-name": "Khatal Masala",
+        "item-veg-price": "€12",
+        "item-veg-description": "Raw jackfruit cooked to perfection in a caramalised onion, garlic and ginger paste with freshly ground garam masala served with 2 parathas + side salad + papad + achar",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Chicken Ghee Roast",
+        "item-nonveg-price": "€14",
+        "item-nonveg-description": "Tender chicken pieces cooked in spicy flavourful lip smacking base of carmalised onion, garlic and chillies with tangy tamrind and yogurt mix topped with fresh corinader served with 2 parathas + side salad + papad + achar",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Wednesday",
+        "date": "04/05",
+        "item-veg-name": "Kashmiri Dum Aloo",
+        "item-veg-price": "€12",
+        "item-veg-description": "Baby potatoes roasted in a spice mix and cooked in a base of onion, tomato and yogurt gravy finished off with fresh herbs served with 2 parathas + siide salad + papad + achar",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Lamb Do Pyaza",
+        "item-nonveg-price": "€16",
+        "item-nonveg-description": "Lamb slow cooked in a thick onion-tomato based gravy with freshly ground spices topped with soft petals of onion and tomato served with 2 parathas + rice + papad + achar",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Thursday",
+        "date": "05/05",
+        "item-veg-name": "Veg Handi",
+        "item-veg-price": "€14",
+        "item-veg-description": "Assorted mix veggies cooked in a creamy onion, tomato and cashew based thick gravy finished with freshly ground garam masala and herbs served with 2 parathas + rice + papad + side salad + achar",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Malvani Fish Curry",
+        "item-nonveg-price": "€16",
+        "item-nonveg-description": "A fiery & spicy dish from the coastal regions of Maharashtra. Mackerel cooked in home made malvani spice mix with onion, tomato and coconut based gravy. Served with rice + side salad + papad + achar",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Friday",
+        "date": "06/05",
+        "item-veg-name": "Paneer Makhni Biryani",
+        "item-veg-price": "€16",
+        "item-veg-description": "Indian cottage cheese cooked in a creamy buttery thick gravy of onion, tomato and cashew slow cooked with aromatic basmati rice, fried onion, mint and corriander served with yogurt dip + achar + papad",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Chicken Dum Biryani",
+        "item-nonveg-price": "€16",
+        "item-nonveg-description": "A hearty, rich rice dish that's a favourite among Indians. Slow cooked chicken marinated in spices, fresh herbs, fried onions and yogurt; layered in rice and cooked on a slow flame to create the perfect dum biryani flavour. Served with yogurt dip + achar + papad.",
+        "item-nonveg-insta-link": "",
+        "item-nonveg-is-sold": ""
+      },
+      {
+        "day": "Saturday",
+        "date": "07/05",
+        "item-veg-name": "Veg Hakka Noodles",
+        "item-veg-price": "€16",
+        "item-veg-description": "Indo-Chinese noodles cooked with assorted veggies and aromatic Indo-Chinese spice mix served with some fried noodles and spicy schezwan dip",
+        "item-veg-insta-link": "",
+        "item-veg-is-sold": "",
+        "item-nonveg-name": "Chicken Hakka Noodles",
+        "item-nonveg-price": "€16",
+        "item-nonveg-description": "Indo-Chinese noodles cooked with assorted veggies, chicken and aromatic Indo-Chinese spice mix served with some fried noodles and spicy schezwan dip",
         "item-nonveg-insta-link": "",
         "item-nonveg-is-sold": ""
       }
