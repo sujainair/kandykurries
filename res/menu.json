@@ -10,12 +10,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Chickpeas boiled with whole spices then cooked in a freshly made spice blend and flavourful onion & tomato based gravy served with 2 parathas + rice + papad + pickled onion + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Balti Chicken",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Boneless chicken cooked in aromatic and fragrant spices in yogurt, onion & tomato based gravy served with 2 parathas + rice + achar + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Tuesday",
