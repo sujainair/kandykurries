@@ -38,12 +38,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Lightly roasted paneer tossed in lip smacking onion & tomato based gravy with aromatic fragrant spices and topped with crispy garlic bits and cream served with 2 parathas + rice + papad + achar + side salad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Goan Prawns Ambotik",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "A classic Goan recipe with tangy, spicy flavours in a creamy gravy made of coconut milk and aromatic spices served with rice + achar + papad + side salad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Thursday",
