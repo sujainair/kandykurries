@@ -24,12 +24,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Mushrooms cooked with petals of onion, tomato and capsicum in freshly ground spice mix in a thick onion & tomato based gravy served with 2 parathas + side salad + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Beef Pepper Curry",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Juicy beef chunks cooked in aromatic spices and pepper in fragrant gravy of onion tomato and coconut based gravy served with 2 parathas + achar + papad + side salad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Wednesday",
