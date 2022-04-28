@@ -52,12 +52,12 @@
         "item-veg-price": "€12",
         "item-veg-description": "Assorted vegetables cooked in creamy coconut milk with vinegar and tamarind for zesty tangy flavour served with rice + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Vindaloo",
         "item-nonveg-price": "€14",
         "item-nonveg-description": "Bonless chicken pieces marinated in aromatic fragrant spice mix and vingar for a spicy, tancy flavour served with rice + achar + side salad + papad",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
