@@ -181,13 +181,13 @@
         "item-mini-price": 12,
         "item-mini-type": "veg",
         "item-mini-insta-link": "",
-        "item-mini-is-sold": "old",
+        "item-mini-is-sold": "available",
         "item-snack-name": "Snack ",
         "item-snack-description": "Snack Description",
         "item-snack-price": 12,
         "item-snack-type": "veg",
         "item-snack-insta-link": "",
-        "item-snack-is-sold": "old"
+        "item-snack-is-sold": "available"
       },
       {
         "day": "Tuesday",
@@ -211,13 +211,13 @@
         "item-mini-price": 12,
         "item-mini-type": "veg",
         "item-mini-insta-link": "",
-        "item-mini-is-sold": "old",
+        "item-mini-is-sold": "available",
         "item-snack-name": "Snack ",
         "item-snack-description": "Snack Description",
         "item-snack-price": 12,
         "item-snack-type": "veg",
         "item-snack-insta-link": "",
-        "item-snack-is-sold": "old"
+        "item-snack-is-sold": "available"
       },
       {
         "day": "Wednesday",
@@ -241,13 +241,13 @@
         "item-mini-price": 12,
         "item-mini-type": "veg",
         "item-mini-insta-link": "",
-        "item-mini-is-sold": "old",
+        "item-mini-is-sold": "available",
         "item-snack-name": "Snack ",
         "item-snack-description": "Snack Description",
         "item-snack-price": 12,
         "item-snack-type": "veg",
         "item-snack-insta-link": "",
-        "item-snack-is-sold": "old"
+        "item-snack-is-sold": "available"
       },
       {
         "day": "Thursday",
@@ -271,13 +271,13 @@
         "item-mini-price": 12,
         "item-mini-type": "veg",
         "item-mini-insta-link": "",
-        "item-mini-is-sold": "old",
+        "item-mini-is-sold": "available",
         "item-snack-name": "Snack ",
         "item-snack-description": "Snack Description",
         "item-snack-price": 12,
         "item-snack-type": "veg",
         "item-snack-insta-link": "",
-        "item-snack-is-sold": "old"
+        "item-snack-is-sold": "available"
       },
       {
         "day": "Friday",
@@ -301,13 +301,13 @@
         "item-mini-price": 12,
         "item-mini-type": "veg",
         "item-mini-insta-link": "",
-        "item-mini-is-sold": "old",
+        "item-mini-is-sold": "available",
         "item-snack-name": "Snack ",
         "item-snack-description": "Snack Description",
         "item-snack-price": 12,
         "item-snack-type": "veg",
         "item-snack-insta-link": "",
-        "item-snack-is-sold": "old"
+        "item-snack-is-sold": "available"
       }
     ]
   }
