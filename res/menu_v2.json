@@ -186,12 +186,12 @@
     ]
   },
   "week_2": {
-    "startdate": "25/04",
-    "enddate": "30/04",
+    "startdate": "02/05",
+    "enddate": "07/05",
     "menu": [
       {
         "day": "Monday",
-        "date": "25/04",
+        "date": "02/05",
         "item-veg-name": "Soya Masala",
         "item-veg-description": "Soya chunks cooked in onion and tomato based thick gravy with lip smaking spices and flavours",
         "item-veg-price": 10,
@@ -221,7 +221,7 @@
       },
       {
         "day": "Tuesday",
-        "date": "26/04",
+        "date": "03/05",
         "item-veg-name": "Khatal Masala",
         "item-veg-description": "Raw jackfruit cooked to perfection in a caramalised onion, garlic and ginger paste with freshly ground garam masala",
         "item-veg-price": 10,
@@ -251,7 +251,7 @@
       },
       {
         "day": "Wednesday",
-        "date": "27/04",
+        "date": "04/05",
         "item-veg-name": "Kashmiri Dum Aloo",
         "item-veg-description": "Baby potatoes roasted in a spice mix and cooked in a base of onion, tomato and yogurt gravy finished off with fresh herbs",
         "item-veg-price": 10,
@@ -281,7 +281,7 @@
       },
       {
         "day": "Thursday",
-        "date": "28/04",
+        "date": "05/05",
         "item-veg-name": "Veg Handi",
         "item-veg-description": "Assorted mix veggies cooked in a creamy onion, tomato and cashew based thick gravy finished with freshly ground garam masala and herbs",
         "item-veg-price": 12,
@@ -311,7 +311,7 @@
       },
       {
         "day": "Friday",
-        "date": "29/04",
+        "date": "06/05",
         "item-veg-name": "Paneer Makhni Biryani",
         "item-veg-description": "Indian cottage cheese cooked in a creamy buttery thick gravy of onion, tomato and cashew slow cooked with aromatic basmati rice, fried onion, mint and corriander served with yogurt dip + achar + papad",
         "item-veg-price": 16,
@@ -341,7 +341,7 @@
       },
       {
         "day": "Saturday",
-        "date": "30/04",
+        "date": "07/05",
         "item-veg-name": "Veg Hakka Noodles",
         "item-veg-description": "Indo-Chinese noodles cooked with assorted veggies and aromatic Indo-Chinese spice mix served with some fried noodles and spicy schezwan dip",
         "item-veg-price": 16,
