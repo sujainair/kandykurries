@@ -66,12 +66,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Slow cooked aromatic basmati rice and assorted vegetables cooked with fragrant spices and ghee served with mint yogurt dip + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Berry Pulao",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "A parsi delicacy of aromatic basmati rice and chicken cooked in fresh Iranian spices and cooked with tangy berries for a sweet flavourful and lip smacking taste served with beetroot yogurt",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
