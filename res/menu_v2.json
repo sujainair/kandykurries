@@ -266,7 +266,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Chicken Schezwan Fried Rice",
@@ -277,7 +277,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Mini Meal",
@@ -288,7 +288,7 @@
             "insta-link": "",
             "veg_non-veg": "none",
             "category": "mini",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Snack ",
@@ -299,7 +299,7 @@
             "insta-link": "",
             "veg_non-veg": "none",
             "category": "snack",
-            "status": ""
+            "status": "old"
           }
         ]
       }
