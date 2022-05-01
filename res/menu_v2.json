@@ -30,9 +30,9 @@
             "status": "old"
           },
           {
-            "name": "Egg paratha",
-            "description": "Indian flat bread with a boiled egg stuffing mixed with some mild spices served with yoghurt + achar. (2 parathas)",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -41,9 +41,9 @@
             "status": "old"
           },
           {
-            "name": "Samosa",
-            "description": "Fried triangular packets with potato based stuffing. (2 samosa)",
-            "price": 5,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -80,9 +80,9 @@
             "status": "old"
           },
           {
-            "name": "Oats Rawa Idli",
-            "description": "Steamed cakes made using a batter of oats and rawa (semolina) and some mild spices. Served with coconut chutney. (4 idlis)",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -91,9 +91,9 @@
             "status": "old"
           },
           {
-            "name": "Onion Pakoda",
-            "description": "Sliced onion in a spicy chickpea batter fried in small chunks",
-            "price": 5,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -130,9 +130,9 @@
             "status": "old"
           },
           {
-            "name": "Moong Dosa",
-            "description": "Pancake made with moong bean batter served with coconut chutney. (3 dosas)",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -180,9 +180,9 @@
             "status": "old"
           },
           {
-            "name": "Beetroot Thepla",
-            "description": "Flatbread made with dough containing spices and beetroot puree served with achar. (3 thepla)",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
