@@ -16,7 +16,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Chicken Dhansak",
@@ -27,7 +27,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "",
@@ -38,7 +38,7 @@
             "insta-link": "",
             "veg_non-veg": "none",
             "category": "mini",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "",
@@ -49,7 +49,7 @@
             "insta-link": "",
             "veg_non-veg": "none",
             "category": "snack",
-            "status": ""
+            "status": "old"
           }
         ]
       },
