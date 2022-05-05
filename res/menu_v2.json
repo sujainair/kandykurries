@@ -166,7 +166,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Malvani Fish Curry",
@@ -177,7 +177,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "",
@@ -188,7 +188,7 @@
             "insta-link": "",
             "veg_non-veg": "none",
             "category": "mini",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "",
@@ -199,7 +199,7 @@
             "insta-link": "",
             "veg_non-veg": "none",
             "category": "snack",
-            "status": ""
+            "status": "old"
           }
         ]
       },
