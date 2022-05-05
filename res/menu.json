@@ -52,12 +52,12 @@
         "item-veg-price": "€14",
         "item-veg-description": "Assorted mix veggies cooked in a creamy onion, tomato and cashew based thick gravy finished with freshly ground garam masala and herbs served with 2 parathas + rice + papad + side salad + achar",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Malvani Fish Curry",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "A fiery & spicy dish from the coastal regions of Maharashtra. Mackerel cooked in home made malvani spice mix with onion, tomato and coconut based gravy. Served with rice + side salad + papad + achar",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Friday",
