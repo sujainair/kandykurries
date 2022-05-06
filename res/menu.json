@@ -66,12 +66,12 @@
         "item-veg-price": "€16",
         "item-veg-description": "Indian cottage cheese cooked in a creamy buttery thick gravy of onion, tomato and cashew slow cooked with aromatic basmati rice, fried onion, mint and corriander served with yogurt dip + achar + papad",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Chicken Dum Biryani",
         "item-nonveg-price": "€16",
         "item-nonveg-description": "A hearty, rich rice dish that's a favourite among Indians. Slow cooked chicken marinated in spices, fresh herbs, fried onions and yogurt; layered in rice and cooked on a slow flame to create the perfect dum biryani flavour. Served with yogurt dip + achar + papad.",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       },
       {
         "day": "Saturday",
