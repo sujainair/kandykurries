@@ -80,12 +80,12 @@
         "item-veg-price": "",
         "item-veg-description": "Holiday",
         "item-veg-insta-link": "",
-        "item-veg-is-sold": "",
+        "item-veg-is-sold": "old",
         "item-nonveg-name": "Holiday",
         "item-nonveg-price": "",
         "item-nonveg-description": "Holiday",
         "item-nonveg-insta-link": "",
-        "item-nonveg-is-sold": ""
+        "item-nonveg-is-sold": "old"
       }
     ]
   },
