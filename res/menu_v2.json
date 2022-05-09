@@ -322,7 +322,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Tawa Anda Pepper Fry with Pav",
@@ -333,7 +333,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Ragada Pattice (snack)",
@@ -344,7 +344,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Tandoori Chicken (mini meal)",
@@ -355,7 +355,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
