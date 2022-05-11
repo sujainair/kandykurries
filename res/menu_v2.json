@@ -30,7 +30,7 @@
             "status": "old"
           },
           {
-            "name": "Ragada Pattice (snack)",
+            "name": "Ragada Pattice",
             "description": "Potato patty made with different spices and herbs teamed in a chickepea gravy topped with a tangy, sweet and spicy sauce, chopped fresh coriander, mint and onion. A lip smacking Indian street food (2 tikkies)",
             "price": 10,
             "extra": "",
@@ -41,7 +41,7 @@
             "status": "old"
           },
           {
-            "name": "Tandoori Chicken (mini meal)",
+            "name": "Tandoori Chicken",
             "description": "Roasted chicken thigh piece marinated with yogurt and tandoori spice mixes, cooked on coal served with 1 pita bread + green chutney and onions",
             "price": 12,
             "extra": "",
@@ -80,7 +80,7 @@
             "status": "old"
           },
           {
-            "name": "Vada Pav (snack)",
+            "name": "Vada Pav",
             "description": "Mumbai's street food version of Indian burger. Boiled potatoes based spicy patty containing green chillies, onion, garlic, ginger and other spices sandwiched inside a soft bun smeared with spicy garlic chutney with a zing of green chilli.",
             "price": 5,
             "extra": "",
@@ -91,7 +91,7 @@
             "status": "old"
           },
           {
-            "name": "Oats Rava Idli (mini meal)",
+            "name": "Oats Rava Idli",
             "description": "A healthy version of savoury rice cakes made with oats, semolina, roasted cashews, curry leaves and yogurt steamed to perfection. Served with coconut chutney (4 Idlis )",
             "price": 10,
             "extra": "",
@@ -130,7 +130,7 @@
             "status": "old"
           },
           {
-            "name": "Bhel Puri (snack)",
+            "name": "Bhel Puri",
             "description": "Puffed rice teamed with onion, tomato, chillies, lipsmacking sweet-tangy tamarind sauce and spicy-zesty green sauce, topped with some roasted peanuts and fresh coriander",
             "price": 8,
             "extra": "",
@@ -141,7 +141,7 @@
             "status": "old"
           },
           {
-            "name": "Oats Banana Pancake (mini meal)",
+            "name": "Oats Banana Pancake",
             "description": "A healthier pancake made of oats and banana teamed with some mixed berry compote",
             "price": 10,
             "extra": "",
@@ -180,7 +180,7 @@
             "status": ""
           },
           {
-            "name": "Crispy Veg Cutlet (snack)",
+            "name": "Crispy Veg Cutlet",
             "description": "Potatoes, flatterned rice, onion, garlic, ginger and green chillies mixed with spices and shallow fried in oil. Served with a side of spicy green chutney",
             "price": 8,
             "extra": "",
@@ -191,7 +191,7 @@
             "status": ""
           },
           {
-            "name": "Beetroot Thepla (mini meal)",
+            "name": "Beetroot Thepla",
             "description": "Whole wheat dough made with different spices, herbs and beetroot puree; rolled into thin sheets of Indian flat bread and smeared with ghee. Served with tangy, sweet and spicy tomato chutney",
             "price": 10,
             "extra": "",
@@ -230,7 +230,7 @@
             "status": ""
           },
           {
-            "name": "Kheema Samosa (snack)",
+            "name": "Kheema Samosa",
             "description": "Minced chicken cooked with onion and spice mixes stuffed in a pastry sheet and deep fried till crisp. Served with green chutney and picked onions. (2 samosas)",
             "price": 10,
             "extra": "",
@@ -241,7 +241,7 @@
             "status": ""
           },
           {
-            "name": "Moong Dosa (mini meal)",
+            "name": "Moong Dosa",
             "description": "Savoury sprouted moong crepes. A healtheir version of the Indian rice crepes. Rich in protine and fiber. Served with coconut chutney",
             "price": 10,
             "extra": "",
@@ -280,7 +280,7 @@
             "status": ""
           },
           {
-            "name": "Dahi Bhalla (snack)",
+            "name": "Dahi Bhalla",
             "description": "A lip smacking street food from Delhi. Fried dough balls smeared with tangy cool yogurt and sweet, spicy and tangy sauces, pomagranate, sev and zesty spices",
             "price": 10,
             "extra": "",
@@ -291,7 +291,7 @@
             "status": ""
           },
           {
-            "name": "Pongal (mini meal)",
+            "name": "Pongal",
             "description": "Savory dish made of rice and lentils topped with some fried cashew, chilies and ghee. A dish from the state of South India. Served with a side of coconut chutney and sambar.",
             "price": 12,
             "extra": "",
@@ -336,7 +336,7 @@
             "status": ""
           },
           {
-            "name": "Crispy Veg Cutlet (snack)",
+            "name": "Crispy Veg Cutlet",
             "description": "A perfect snack to have with your chilled beer or hot tea. Boiled veggies mixed with spices and chilies and rolled in roasted vermecilli and pan fried for a crisp. Served with spicy green chutney (4 cutlets) ",
             "price": 10,
             "extra": "",
@@ -347,7 +347,7 @@
             "status": ""
           },
           {
-            "name": "Oats Rava Idlis (mini meal)",
+            "name": "Oats Rava Idlis",
             "description": "A healthy version of savoury rice cakes made with oats, semolina, roasted cashews, curry leaves and yogurt steamed to perfection. Served with coconut chutney (4 Idlis )",
             "price": 10,
             "extra": "",
@@ -386,7 +386,7 @@
             "status": ""
           },
           {
-            "name": "Vada Pav Quesadilla (snack)",
+            "name": "Vada Pav Quesadilla",
             "description": "A creative way to eat the famous Mumbai street food. Mashed potatoes cooked with spices and stuffed in between chapatis topped with spicy garlic chutney and onion and grilled on a pan.",
             "price": 8,
             "extra": "",
@@ -397,7 +397,7 @@
             "status": ""
           },
           {
-            "name": "Tandoori chicken (mini meal)",
+            "name": "Tandoori chicken",
             "description": "Roasted chicken thigh piece marinated with yogurt and tandoori spice mixes, cooked on coal served with 1 pita bread + green chutney and onions",
             "price": 12,
             "extra": "",
@@ -436,7 +436,7 @@
             "status": ""
           },
           {
-            "name": "Dabeli Tacos (snack)",
+            "name": "Dabeli Tacos",
             "description": "A twist to the mouth watering street food. Mashed potatoes with spices and tangy sauces stuffed in between taco shells topped with desicated coconut and corriander.",
             "price": 10,
             "extra": "",
@@ -447,7 +447,7 @@
             "status": ""
           },
           {
-            "name": "Palak Garlic Dal Kichidi (mini meal)",
+            "name": "Palak Garlic Dal Kichidi",
             "description": "A comfort meal and food for the soul. Spinach cooked with lentils and rice in ghee and topped with crispy garlic bits and spices. Served with achar + papad.",
             "price": 10,
             "extra": "",
@@ -486,7 +486,7 @@
             "status": ""
           },
           {
-            "name": "Crispy Chilli Potatoes (snack)",
+            "name": "Crispy Chilli Potatoes",
             "description": "Crispy fried poptatoes cooked with Indo-Chinese sauces with ginger and garlic for a perfect snack.",
             "price": 8,
             "extra": "",
@@ -497,7 +497,7 @@
             "status": ""
           },
           {
-            "name": "Anda Paratha (mini meal)",
+            "name": "Anda Paratha",
             "description": "Grated boiled eggs mixed with spices and herbs stuffed inside whole wheat dough, flattened and cooked to achieve a perfect crust. Served with a side of achar and tomato chutney. (2 parathas)",
             "price": 8,
             "extra": "",
@@ -536,7 +536,7 @@
             "status": ""
           },
           {
-            "name": "Bombay Cheese Chilli Toast (snack)",
+            "name": "Bombay Cheese Chilli Toast",
             "description": "A street food favourite among Mumbaikars. Spicy stuffing of potatoes, capsicum and green chutney stuffed together in a bread topped with loads of cheese and grilled to perfection. Served with green chutney and tomato ketchup.",
             "price": 10,
             "extra": "",
@@ -547,7 +547,7 @@
             "status": ""
           },
           {
-            "name": "Puttu and Kadala Curry (mini meal)",
+            "name": "Puttu and Kadala Curry",
             "description": "A dish from the state of Kerala. Steamed rice flour with bits of grated coconut served with spicy flavourful black chickpea churry. A perfect dish for a light dinner.",
             "price": 10,
             "extra": "",
@@ -586,7 +586,7 @@
             "status": ""
           },
           {
-            "name": "Dahi ke Kebab (snack)",
+            "name": "Dahi ke Kebab",
             "description": "A vegetarian kebab made of hung curd, paneer and spice mices coated with bread crumbs and fried to get a perfect crispy outside and gooey inside. Served with some spicy green chutney.",
             "price": 9,
             "extra": "",
@@ -597,7 +597,7 @@
             "status": ""
           },
           {
-            "name": "Chicken Kheema Paratha (mini meal)",
+            "name": "Chicken Kheema Paratha",
             "description": "Minced chicken cooked with spices and herbs and stuffed in between dough, flattened and cooked to get the perfect layer of crust. Served with achar and tomato chutney. (2 parathas)",
             "price": 10,
             "extra": "",
