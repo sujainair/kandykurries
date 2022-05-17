@@ -1,311 +1,5 @@
 {
   "week_1": {
-    "startdate": "09/05",
-    "enddate": "14/05",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "09/05",
-        "items": [
-          {
-            "name": "Palak Chole Masala",
-            "description": "Chickpeas cooked with spicy spinach based gravy topped with fresh herbs",
-            "price": 10,
-            "extra": "Make it a meal served with rice + achar + side salad + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Tawa Anda Pepper Fry with Pav",
-            "description": "Hard boiled and then pan fried eggs in spicy, hot & tangy blend of sauces, stir fried in butter, onions & tomatoes served with 2 buns + pickled onions + salad ",
-            "price": 14,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Ragada Pattice",
-            "description": "Potato patty made with different spices and herbs teamed in a chickepea gravy topped with a tangy, sweet and spicy sauce, chopped fresh coriander, mint and onion. A lip smacking Indian street food (2 tikkies)",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Tandoori Chicken",
-            "description": "Roasted chicken thigh piece marinated with yogurt and tandoori spice mixes, cooked on coal served with 1 pita bread + green chutney and onions",
-            "price": 12,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Tuesday",
-        "date": "10/05",
-        "items": [
-          {
-            "name": "Paneer Bhurji",
-            "description": "Indian cottage cheese cooked with onion and tomatoes in a lip smacking spice mix. A comfort meal for the soul.",
-            "price": 10,
-            "extra": "Make it meal served with 2 parathas + salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Rajasthani Achari Murgh ",
-            "description": "Slow cooked chicken curry with pickled spices, dried red chillies in thick onion & tomato based sauce ",
-            "price": 12,
-            "extra": "Make it a meal served with 2 parathas + papad + salad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Vada Pav",
-            "description": "Mumbai's street food version of Indian burger. Boiled potatoes based spicy patty containing green chillies, onion, garlic, ginger and other spices sandwiched inside a soft bun smeared with spicy garlic chutney with a zing of green chilli.",
-            "price": 5,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Oats Rava Idli",
-            "description": "A healthy version of savoury rice cakes made with oats, semolina, roasted cashews, curry leaves and yogurt steamed to perfection. Served with coconut chutney (4 Idlis )",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Wednesday",
-        "date": "11/05",
-        "items": [
-          {
-            "name": "Dal Makhni",
-            "description": "One of the most loved dishes of India. Black gram slow cooked with warm spices, topped with zesty onion, tomato and garlic toppings and cream",
-            "price": 12,
-            "extra": "Make it a meal served with rice + achar + papad + pickled onions and chilli",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Prawns Balcho",
-            "description": "A Goan delicacy with sweet, spicy and tangy flavours that will give your taste buds a ride",
-            "price": 12,
-            "extra": "Make it a meal with served with  2 parathas + side salad + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Bhel Puri",
-            "description": "Puffed rice teamed with onion, tomato, chillies, lipsmacking sweet-tangy tamarind sauce and spicy-zesty green sauce, topped with some roasted peanuts and fresh coriander",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Oats Banana Pancake",
-            "description": "A healthier pancake made of oats and banana teamed with some mixed berry compote",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Thursday",
-        "date": "12/05",
-        "items": [
-          {
-            "name": "Coconut Beetroot Pulao",
-            "description": "Aromatic basmati rice cooked in coconut milk and beetroot with some roasted cashews, onion and curry leaves. A meal to warm the soul served with papad + achar",
-            "price": 12,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Malvani Mussels Masala",
-            "description": "A dish from the coastal regions of Maharashtra. Mussels cooked in a lip smacking and flavourful sauce of caramalised onion, coconut and fresh ground special spice mix ",
-            "price": 12,
-            "extra": "Make it a meal with served with rice + papad + achar + side salad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Crispy Veg Cutlet",
-            "description": "Potatoes, flatterned rice, onion, garlic, ginger and green chillies mixed with spices and shallow fried in oil. Served with a side of spicy green chutney",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Beetroot Thepla",
-            "description": "Whole wheat dough made with different spices, herbs and beetroot puree; rolled into thin sheets of Indian flat bread and smeared with ghee. Served with tangy, sweet and spicy tomato chutney",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Friday",
-        "date": "13/05",
-        "items": [
-          {
-            "name": "Malai Kofta",
-            "description": "Soft balls made of potato and Indian cottage cheese mixed with different spices and deep fried cooked in a creamy sauce made with onion, tomato and cashew topped with fresh cream and corriander",
-            "price": 14,
-            "extra": "Make it a meal served with 2 parathas + achar + papad + side salad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Chettinad Iraichi Kulambu",
-            "description": "Spicy slow cooked lamb curry from the south of India with aromatic & fragnant spices topped with crispy fried garlic ",
-            "price": 15,
-            "extra": "Make it a meal served with rice + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Kheema Samosa",
-            "description": "Minced chicken cooked with onion and spice mixes stuffed in a pastry sheet and deep fried till crisp. Served with green chutney and picked onions. (2 samosas)",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Moong Dosa",
-            "description": "Savoury sprouted moong crepes. A healtheir version of the Indian rice crepes. Rich in protine and fiber. Served with coconut chutney",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Saturday",
-        "date": "14/05",
-        "items": [
-          {
-            "name": "Paneer Chilli with Veg Fried Rice",
-            "description": "Most loved Indo-Chinese vegetarian dish. Indian cottage cheese cooked with capsicum and onion petals in lip smacking Indo-Chinese gravy served fried rice",
-            "price": 16,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Chicken Chilly with Fried Rice",
-            "description": "A favourite Indo-Chinese dish made with fried chicken cooked in flavourful Indo-Chinese gravy with aromatic flavours. Served with fried rice containing chicken and assorted veggies in Indo-Chinese spices",
-            "price": 18,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Dahi Bhalla",
-            "description": "A lip smacking street food from Delhi. Fried dough balls smeared with tangy cool yogurt and sweet, spicy and tangy sauces, pomagranate, sev and zesty spices",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Pongal",
-            "description": "Savory dish made of rice and lentils topped with some fried cashew, chilies and ghee. A dish from the state of South India. Served with a side of coconut chutney and sambar.",
-            "price": 12,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "16/05",
     "enddate": "21/05",
     "menu": [
@@ -600,6 +294,312 @@
             "name": "Chicken Kheema Paratha",
             "description": "Minced chicken cooked with spices and herbs and stuffed in between dough, flattened and cooked to get the perfect layer of crust. Served with achar and tomato chutney. (2 parathas)",
             "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "23/05",
+    "enddate": "28/05",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "23/05",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": "old"
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": "old"
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": "old"
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": "old"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "date": "24/05",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": "old"
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": "old"
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": "old"
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "mini",
+            "status": "old"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "date": "25/05",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "date": "26/05",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "date": "27/05",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "date": "28/05",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
