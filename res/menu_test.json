@@ -8,7 +8,7 @@
         "date": "16/05",
         "items": [
           {
-            "name": "Paneer Jalfrezi",
+            "name": "",
             "description": "Soft and flavourful Indian cottage cheese cooked with onion, tomato and bell peppers in flavourful spices. A comfort meal for the soul.",
             "price": 10,
             "extra": "Make it a meal with 2 parathas + achar + papad + side salad. ",
@@ -19,7 +19,7 @@
             "status": "old"
           },
           {
-            "name": "Chicken Tikka Masala",
+            "name": "",
             "description": "Juicy chicken breast roasted and cooked in a thick gravy made of onion, tomato and fresh spices. A flavourful dish with the right amount of spices and tang.",
             "price": 13,
             "extra": "Make it a meal with 1 paratha + rice + papad + achar.",
@@ -30,7 +30,7 @@
             "status": "old"
           },
           {
-            "name": "Crispy Veg Cutlet",
+            "name": "",
             "description": "A perfect snack to have with your chilled beer or hot tea. Boiled veggies mixed with spices and chilies and rolled in roasted vermecilli and pan fried for a crisp. Served with spicy green chutney (4 cutlets) ",
             "price": 10,
             "extra": "",
@@ -41,7 +41,7 @@
             "status": "old"
           },
           {
-            "name": "Oats Rava Idlis",
+            "name": "",
             "description": "A healthy version of savoury rice cakes made with oats, semolina, roasted cashews, curry leaves and yogurt steamed to perfection. Served with coconut chutney (4 Idlis )",
             "price": 10,
             "extra": "",
