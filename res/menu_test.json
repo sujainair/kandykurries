@@ -414,11 +414,11 @@
         "date": "25/05",
         "items": [
           {
-            "name": "Test",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
+            "name": "Bhuna Mushroom Masala",
+            "description": "Whole button mushrooms simmered in a sauce of cramalised onions, yogurt and spices; cooked to perfection and topped with fresh corriander.",
+            "price": 10,
+            "extra": "Make it a meal with 2 paratha + achar + papad + side salad ",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
