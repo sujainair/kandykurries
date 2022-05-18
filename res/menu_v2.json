@@ -116,7 +116,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Lamb Kulumbu",
@@ -127,7 +127,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Dabeli Tacos",
@@ -138,7 +138,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Palak Garlic Dal Kichidi",
@@ -149,7 +149,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
@@ -306,12 +306,12 @@
     ]
   },
   "week_2": {
-    "startdate": "23/05",
-    "enddate": "28/05",
+    "startdate": "30/05",
+    "enddate": "04/06",
     "menu": [
       {
         "day": "Monday",
-        "date": "23/05",
+        "date": "30/05",
         "items": [
           {
             "name": "",
@@ -361,7 +361,7 @@
       },
       {
         "day": "Tuesday",
-        "date": "24/05",
+        "date": "31/05",
         "items": [
           {
             "name": "",
@@ -411,7 +411,7 @@
       },
       {
         "day": "Wednesday",
-        "date": "25/05",
+        "date": "01/06",
         "items": [
           {
             "name": "",
@@ -461,7 +461,7 @@
       },
       {
         "day": "Thursday",
-        "date": "26/05",
+        "date": "02/06",
         "items": [
           {
             "name": "",
@@ -511,7 +511,7 @@
       },
       {
         "day": "Friday",
-        "date": "27/05",
+        "date": "03/06",
         "items": [
           {
             "name": "",
@@ -561,7 +561,7 @@
       },
       {
         "day": "Saturday",
-        "date": "28/05",
+        "date": "04/06",
         "items": [
           {
             "name": "",
