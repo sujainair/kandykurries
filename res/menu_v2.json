@@ -266,7 +266,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Hyderabadi Murg Biryani",
@@ -277,7 +277,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Dahi ke Kebab",
@@ -288,7 +288,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Chicken Kheema Paratha",
@@ -299,7 +299,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       }
