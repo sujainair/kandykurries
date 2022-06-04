@@ -16,7 +16,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Rajasthani Achari Murg",
@@ -27,7 +27,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Aloo Chole Tikki",
@@ -38,7 +38,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Chicken Tandoori ",
@@ -49,7 +49,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": "available"
+            "status": ""
           }
         ]
       },
@@ -66,7 +66,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Goan Prawn Caldine",
@@ -77,7 +77,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Bombay Chilli Cheese Toast",
@@ -88,7 +88,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Puttu and Kadla Curry",
@@ -99,7 +99,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": ""
           }
         ]
       },
@@ -116,7 +116,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Shorshe Maach",
@@ -127,7 +127,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Vada Pav Quesadilla",
@@ -138,7 +138,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Pongal with coconut chutney",
@@ -149,7 +149,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": ""
           }
         ]
       },
@@ -166,7 +166,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Hariyali Ghost",
@@ -177,7 +177,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Crispy Chilli Potatoes",
@@ -188,7 +188,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Anda Paratha ",
@@ -199,7 +199,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": "available"
+            "status": ""
           }
         ]
       },
