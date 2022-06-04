@@ -9,9 +9,9 @@
         "items": [
           {
             "name": "Phulkopri Aloo Dalna",
-            "description": "A Comforting bengali curry with potatoes, cauliflower and green peas cooked together with fresh bengali spices and herbs.",
+            "description": "A comforting Bengali curry with potatoes, cauliflower and green peas cooked together with fresh bengali spices and herbs.",
             "price": 10,
-            "extra": "Make it a meal with 2 parathas+ side salad + achar + papad",
+            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
@@ -22,7 +22,7 @@
             "name": "Rajasthani Achari Murg",
             "description": "Spicy chicken curry cooked with pickling spices, dried chillies and ginger.",
             "price": 12,
-            "extra": "make it a meal with 2 parathas or rice + side salad + achar + papad",
+            "extra": "make it a meal with choice of 2 parathas/rice + side salad + achar + papad",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
@@ -32,7 +32,7 @@
           {
             "name": "Aloo Chole Tikki",
             "description": "Potato patty shallow fried and simmered with chickpea curry and topped with sweet, tangy and spicy chutney",
-            "price": "",
+            "price": 8,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -41,8 +41,8 @@
             "status": "available"
           },
           {
-            "name": "Chicken tandoori ",
-            "description": "Chicken marinated with yougurt, spices and other herbs and grilled and smoked with coal. Served with a pita bread.",
+            "name": "Chicken Tandoori ",
+            "description": "Chicken marinated with yougurt, spices and other herbs, grilled and smoked with coal. Served with a pita bread.",
             "price": 10,
             "extra": "",
             "extra-price": "",
@@ -59,10 +59,10 @@
         "items": [
           {
             "name": "Kathal Masala",
-            "description": "Green Jackfruit Curry cooked in aromatic spices with onion, garlic and ginger",
+            "description": "Green jackfruit curry cooked in aromatic spices with onion, garlic and ginger",
             "price": 10,
-            "extra": "Make it a meal with 2 parathas+ side salad + achar + papad",
-            "extra-price": "",
+            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
@@ -72,7 +72,7 @@
             "name": "Goan Prawn Caldine",
             "description": "Spicy soupy gravy with turmeric, green chillies, tamrind and coconut paste.",
             "price": 13,
-            "extra": "make it a meal with 2 parathas or rice + side salad + achar + papad",
+            "extra": "make it a meal with choice of 2 parathas/rice + side salad + achar + papad",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
@@ -92,12 +92,12 @@
           },
           {
             "name": "Puttu and Kadla Curry",
-            "description": "A comfort meal from the south of india, steamed rice flour layered with coconut teamed with spicy chickpea curry. a perfect mini meal for a light meal.",
+            "description": "A comfort meal from the South-India made with steamed rice flour layered with fresh grated coconut teamed with spicy chickpea curry. Perfect for a light meal.",
             "price": 10,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
-            "veg_non-veg": "non-veg",
+            "veg_non-veg": "veg",
             "category": "mini",
             "status": "available"
           }
@@ -109,10 +109,10 @@
         "items": [
           {
             "name": "Matar Paneer",
-            "description": "Indian cottage cheese and green peas cooked ina spicy flavourful onion tomato based gravy",
+            "description": "Indian cottage cheese and green peas cooked in a spicy flavourful onion tomato based gravy",
             "price": 10,
-            "extra": "Make it a meal with 2 parathas+ side salad + achar + papad",
-            "extra-price": "",
+            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
@@ -120,9 +120,9 @@
           },
           {
             "name": "Shorshe Maach",
-            "description": "A traditional Bengali style fish curry Made with fresh homemade mustard chillie paste. In this recipe I am useing salmon steaks",
+            "description": "A traditional Bengali style fish curry made with fresh homemade mustard chilli paste. In this recipe I am using salmon steaks.",
             "price": 12,
-            "extra": "make it a meal with 2 parathas or rice + side salad + achar + papad",
+            "extra": "make it a meal with choice of 2 parathas/rice + side salad + achar + papad",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
@@ -141,8 +141,8 @@
             "status": "available"
           },
           {
-            "name": "Pongal with Coconut Chutney",
-            "description": "Rice and lentil  pressure cooked together and topped with curry leaves, cashew and other spices served with coconut chutney",
+            "name": "Pongal with coconut chutney",
+            "description": "Rice and lentil  pressure cooked together and topped with curry leaves, cashew and other spices. Served with coconut chutney",
             "price": 10,
             "extra": "",
             "extra-price": "",
@@ -158,11 +158,11 @@
         "date": "09/06",
         "items": [
           {
-            "name": "Tamil KathiriKai Gothsu",
-            "description": "A popular south-Indian dish. Aubergines cooked with lentils, onion and tomatoes with tangy twist. ",
+            "name": "Tamil Kathirikai Gothsu",
+            "description": "A popular South-Indian dish. Aubergines cooked with lentils, onion and tomatoes with a tangy twist. ",
             "price": 10,
-            "extra": "Make it a meal with rice+ side salad + achar + papad",
-            "extra-price": "",
+            "extra": "make it a meal with rice + side salad + achar + papad",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
@@ -172,7 +172,7 @@
             "name": "Hariyali Ghost",
             "description": "Slow cooked lamb curry with mint, green chilles, ginger and coriander.",
             "price": 14,
-            "extra": "make it a meal with 2 parathas or rice + side salad + achar + papad",
+            "extra": "make it a meal with choice of 2 parathas/rice + side salad + achar + papad",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
@@ -181,7 +181,7 @@
           },
           {
             "name": "Crispy Chilli Potatoes",
-            "description": "Crispy potato wedges mixed with spices and spicy cutney perfect snack",
+            "description": "Crispy potato wedges mixed with spices and spicy chutney for perfect snack",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -192,7 +192,7 @@
           },
           {
             "name": "Anda Paratha ",
-            "description": "whole wheat Indian bread stuffed with grated boiled egg mixed with spices served with spicy onion tomato chutney",
+            "description": "Whole wheat Indian bread stuffed with grated boiled egg mixed with spices. Served with spicy onion tomato chutney",
             "price": 10,
             "extra": "",
             "extra-price": "",
@@ -209,7 +209,7 @@
         "items": [
           {
             "name": "Veg Berry Pulao",
-            "description": "a popular Parsi recipe that uses a beautiful blend of rice, dried cranberries, veggies and a melange of spices served with yogurt dip + achar + papad",
+            "description": "A popular Parsi recipe that uses a beautiful blend of rice, dried cranberries, veggies and a melange of spices. Served with yogurt dip + achar + papad",
             "price": 13,
             "extra": "",
             "extra-price": "",
@@ -231,7 +231,7 @@
           },
           {
             "name": "Tandoori Aloo",
-            "description": "Baby potatoes boiled and mixed with a marinade and skewed with onion and capsicum and grilled  served with spicy chutney",
+            "description": "Baby potatoes boiled and mixed with a marinade then skewered and grilled with onion and capsicum served with spicy chutney",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -241,7 +241,7 @@
             "status": ""
           },
           {
-            "name": "Mexican rice",
+            "name": "Mexican Rice",
             "description": "Assorted vegies cooked with mexican spices and rice for a perfect warm meal.",
             "price": 10,
             "extra": "",
@@ -259,9 +259,9 @@
         "items": [
           {
             "name": "Veg Hakka Noodles",
-            "description": "Indo-Chinese street food of assorted veggies cooked with noodles with aromatic chinese spices",
+            "description": "Indo-Chinese stir fried noodles. A popular street food with assorted veggies cooked in aromatic Indo-Chinese spices.",
             "price": 13,
-            "extra": "Make it more delicious with veg manchurian gravy.",
+            "extra": "make it more delicious with a side of veg manchurian gravy.",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
@@ -270,9 +270,9 @@
           },
           {
             "name": "Chicken Hakka Noodles ",
-            "description": "Indo-Chinese street food of assorted veggies and chicken cooked with noodles with aromatic chinese spices",
+            "description": "Indo-Chinese stir fried noodles. A popular street food with assorted veggies and chicken cooked in aromatic Indo-Chinese spices.",
             "price": 13,
-            "extra": "Make it more delicious with chicken manchurian gravy.",
+            "extra": "make it more delicious with a side of chicken manchurian gravy.",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
@@ -281,7 +281,7 @@
           },
           {
             "name": "Ragada Pattice",
-            "description": "Lip Smacking street food with crispy patty with chickpea curry, spicy sauce,sweet n tangy sauce, topped with onion, tomato,  and fresh coriander",
+            "description": "Lip smacking street food with crispy patty, chickpea curry, spicy + sweet & tangy sauce, topped with onion, tomato and fresh corriander",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -292,7 +292,7 @@
           },
           {
             "name": "Oats and rava Idli ",
-            "description": "steamed rice cakes made with oats flour and rava with spices, cashew and yogurt and steamed till perfection served with coconut chutney",
+            "description": "Steamed rice cakes made with oats flour and rava with spices, cashew and yogurt, steamed to perfection and served with coconut chutney.",
             "price": 10,
             "extra": "",
             "extra-price": "",
@@ -314,10 +314,10 @@
         "date": "13/06",
         "items": [
           {
-            "name": "Amritsari Chole masala",
+            "name": "Amritsari Chole Masala",
             "description": "Chickpeas cooked with onions, tomato, chillis and fresh spices to give it a zesty flavour",
             "price": 12,
-            "extra": "Make it a meal with 2 parathas+ side salad + achar ",
+            "extra": "make it a meal with 2 parathas + side salad + achar ",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
@@ -326,9 +326,9 @@
           },
           {
             "name": "Mangalore Style Chicken Urval",
-            "description": "Fiesty  chicken dish with loats of spices, curry leaves, coconut, cashews and lip smacking flavours",
+            "description": "Fiesty chicken dish with lots of spices, curry leaves, coconut, cashews and lip smacking flavours",
             "price": 12,
-            "extra": "Make it a meal with 2 parathas+ side salad + achar + papad",
+            "extra": "make it a meal with 2 parathas + side salad + achar ",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
@@ -337,7 +337,7 @@
           },
           {
             "name": "Sweet Potato Patty",
-            "description": "Full of fiber and nutrients, sweet potato mixed with herbs and spices and made into a patty and shaloow fried. Served with Spicy green chutney.",
+            "description": "Full of fiber and nutrients, sweet potato mixed with herbs and spices and made into a patty and shallow fried. Served with spicy green chutney.",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -348,7 +348,7 @@
           },
           {
             "name": "Anda Paratha",
-            "description": "whole wheat Indian bread stuffed with grated boiled egg mixed with spices served with spicy onion tomato chutney",
+            "description": "Whole wheat Indian bread stuffed with grated boiled egg mixed with spices. Served with spicy onion tomato chutney",
             "price": 10,
             "extra": "",
             "extra-price": "",
@@ -367,7 +367,7 @@
             "name": "Veg Bhuna Handi",
             "description": "Assorted veggies cooked in cream gravy with spices and fresh herbs.",
             "price": 12,
-            "extra": "Make it a meal with 2 parathas+ side salad + achar ",
+            "extra": "make it a meal with 2 parathas + side salad + achar ",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
@@ -375,10 +375,10 @@
             "status": ""
           },
           {
-            "name": "Mumbai style Green lamb Kheema",
-            "description": "Minced lamb cooked in a based of green sauce with green peaces and other hot spices a dish definately to go for.",
+            "name": "Mumbai style Green Lamb Kheema",
+            "description": "Minced lamb cooked in a base of green sauce with green peaces and other hot spices a dish definately to go for.",
             "price": 12,
-            "extra": "Make it a meal with 2 parathas+ side salad + achar + papad",
+            "extra": "make it a meal with 2 parathas + side salad + achar ",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
@@ -387,7 +387,7 @@
           },
           {
             "name": "Bombay Cheese Chilli Toast",
-            "description": "Famous Mumbai style  grilled sandwich with spicy stuffing and loads of cheese. Perfect for an evening snack ",
+            "description": "Famous Mumbai style grilled sandwich with spicy stuffing and loads of cheese. Perfect for an evening snack ",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -398,7 +398,7 @@
           },
           {
             "name": "Dal Kichidi",
-            "description": "Rice with yellow lentils, garlic,chilles and tomato pressure cooked together and topped with chilles and spicy tadka. served with papad +achar",
+            "description": "Rice with yellow lentils, garlic, chilles and tomato pressure cooked together and topped with chilles and spicy tadka. Served with papad + achar",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -414,10 +414,10 @@
         "date": "15/06",
         "items": [
           {
-            "name": "Bhindi 2 pyaza",
+            "name": "Bhindi Do Pyaza",
             "description": "Okra cooked in onion tomato based gravy with freshly ground spices topped with petals of onion and tomato",
             "price": 12,
-            "extra": "Make it a meal with 2 parathas+ side salad + achar ",
+            "extra": "make it a meal with 2 parathas + side salad + achar ",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
@@ -428,7 +428,7 @@
             "name": "Kerala Chertha Kozhi Kari",
             "description": "Chicken and cashew curry with ginger, cardamom and chilli",
             "price": 12,
-            "extra": "Make it a meal with 2 parathas or rice+ side salad + achar + papad",
+            "extra": "make it a meal with choice of 2 parathas/rice + side salad + achar + papad",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
@@ -437,7 +437,7 @@
           },
           {
             "name": "Beetroot Thepla",
-            "description": "Beetroot puree mixed with whole wheat flour ,spices, fresh corinader and flatten into a thin bread served with spicy tangy tomato onion chutney",
+            "description": "Beetroot puree mixed with whole wheat flour, spices, fresh corinader and flattened into a thin bread served with spicy tangy tomato onion chutney.",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -448,7 +448,7 @@
           },
           {
             "name": "Chicken Kheema Paratha",
-            "description": "Minced chicken cooked with differnt spices and stuffd in whole wheat dough and cooked on a pan served with spicy onion tomato dip",
+            "description": "Minced chicken cooked with differnt spices and stuffed in whole wheat dough, flattened and cooked on a pan. Served with spicy onion tomato dip",
             "price": 10,
             "extra": "",
             "extra-price": "",
@@ -467,7 +467,7 @@
             "name": "Panner Masala",
             "description": "Indian cottage cheese cooked in a flavourful base of onion and tomato with freshly ground spices ",
             "price": 12,
-            "extra": "Make it a meal with 2 parathas+ side salad + achar ",
+            "extra": "make it a meal with 2 parathas + side salad + achar ",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
@@ -476,9 +476,9 @@
           },
           {
             "name": "Laal Maas",
-            "description": "Delicious lamb curry cooked in ginger garlic paste, yogurt, turmeric, and  loads of spices giving it a zesty flavour",
+            "description": "Delicious lamb curry cooked in ginger garlic paste, yogurt, turmeric and loads of spices giving it a zesty flavour",
             "price": 13,
-            "extra": "Make it a meal with 2 parathas or rice+ side salad + achar + papad",
+            "extra": "make it a meal with choice of 2 parathas/rice + side salad + achar + papad",
             "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
@@ -487,7 +487,7 @@
           },
           {
             "name": "Vegetable Cutlet",
-            "description": "mix vegetables and potato mixed together with spices and coriander and shapped into a patty and shallow fried and served with spicy green chutney",
+            "description": "Mix vegetables and potato cooked with spices and coriander shaped into a patty and shallow fried. Served with spicy green chutney",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -497,8 +497,8 @@
             "status": ""
           },
           {
-            "name": "Lemon rice",
-            "description": "Rice, cashewnut ,chillies and other spices stir fried together and mixed with lime juice. served with achar and papad",
+            "name": "Lemon Rice",
+            "description": "Rice, cashews, chillies and other spices stir fried together and mixed with lime juice. Served with achar and papad",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -514,19 +514,19 @@
         "date": "17/06",
         "items": [
           {
-            "name": "Veg Briyani",
-            "description": "Assorted veggies slow cooked with aromatic basmati rice and spices topped with fried onions served with yogut dip+achar+papad",
+            "name": "Veg Biryani",
+            "description": "Assorted veggies slow cooked with aromatic basmati rice and spices topped with fried onions served with yogut dip + achar + papad",
             "price": 14,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
-            "veg_non-veg": "non-veg",
+            "veg_non-veg": "veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Chicken Tikka Briyani",
-            "description": "Spicy chicked grilled over coal and cooked flavourful gravy of onion and tomato and other spices cooked together with aromatic basmati rice and fried onion. Served with Yogurt dip + achar+ papad",
+            "name": "Chicken Tikka Biryani",
+            "description": "Spicy chicken grilled over coal and cooked in a flavourful gravy of onion and tomato and other spices together with aromatic basmati rice and fried onions. Served with yogurt dip + achar + papad",
             "price": 16,
             "extra": "",
             "extra-price": "",
@@ -537,7 +537,7 @@
           },
           {
             "name": "Momos",
-            "description": "steamed vegetable dumplings served with spicy chutney",
+            "description": "Steamed vegetable dumplings served with spicy chutney",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -547,8 +547,8 @@
             "status": ""
           },
           {
-            "name": "Tamrind rice",
-            "description": "Rice mixed with tamrind juice, peanut and spices and topped with curry leaves. Served with papad ",
+            "name": "Tamarind rice",
+            "description": "Rice mixed with tamarind juice, peanut and spices, topped with curry leaves. Served with papad.",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -565,7 +565,7 @@
         "items": [
           {
             "name": "Achari Paneer Channa Pulao",
-            "description": "Chickpeas and Indian cottage cheese cooked with onion, garlic, ginger and pickling spices mixed with aromatic basmati rice topped with fresh coriander. served with yogurt dip + achar + papad",
+            "description": "Chickpeas and Indian cottage cheese cooked with onion, garlic, ginger and pickling spices mixed with aromatic basmati rice topped with fresh coriander. Served with yogurt dip + achar + papad",
             "price": 14,
             "extra": "",
             "extra-price": "",
@@ -576,7 +576,7 @@
           },
           {
             "name": "Kolambi Bhat",
-            "description": "Flavourful prawns cooked with giner, garlic , onion and other spices combined with aromatic basmati rice and fresh coriander served wih yogurt dip+ papad +achar",
+            "description": "Flavourful prawns cooked with ginger, garlic, onion and other spices combined with aromatic basmati rice and fresh coriander served wih yogurt dip + papad + achar",
             "price": 16,
             "extra": "",
             "extra-price": "",
@@ -587,7 +587,7 @@
           },
           {
             "name": "Veg Spring Roll",
-            "description": "mix veggies rolled in a thin sheet and deep fried for a crispy outer served with spicy chutney",
+            "description": "Mix veggies rolled in a thin sheet and deep fried for a crispy outer shell served with spicy chutney",
             "price": 8,
             "extra": "",
             "extra-price": "",
@@ -598,7 +598,7 @@
           },
           {
             "name": "Rava Upma",
-            "description": "Semolina cooked togther with onion, tomato, caroot and green peas and topped with ghee. A perfect light meal.",
+            "description": "Semolina cooked together with onion, tomato, carrot and green peas and topped with ghee. A perfect light meal.",
             "price": 8,
             "extra": "",
             "extra-price": "",
