@@ -1,311 +1,5 @@
 {
   "week_1": {
-    "startdate": "06/06",
-    "enddate": "11/06",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "06/06",
-        "items": [
-          {
-            "name": "Phulkopri Aloo Dalna",
-            "description": "A comforting Bengali curry with potatoes, cauliflower and green peas cooked together with fresh bengali spices and herbs.",
-            "price": 10,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Rajasthani Achari Murg",
-            "description": "Spicy chicken curry cooked with pickling spices, dried chillies and ginger.",
-            "price": 12,
-            "extra": "make it a meal with choice of 2 parathas/rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Aloo Chole Tikki",
-            "description": "Potato patty shallow fried and simmered with chickpea curry and topped with sweet, tangy and spicy chutney",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Chicken Tandoori ",
-            "description": "Chicken marinated with yougurt, spices and other herbs, grilled and smoked with coal. Served with a pita bread.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Tuesday",
-        "date": "07/06",
-        "items": [
-          {
-            "name": "Kathal Masala",
-            "description": "Green jackfruit curry cooked in aromatic spices with onion, garlic and ginger",
-            "price": 10,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Goan Prawn Caldine",
-            "description": "Spicy soupy gravy with turmeric, green chillies, tamrind and coconut paste.",
-            "price": 13,
-            "extra": "make it a meal with choice of 2 parathas/rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Bombay Chilli Cheese Toast",
-            "description": "Famous Mumbai style  grilled sandwich with spicy stuffing and loads of cheese. Perfect for an evening snack ",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Puttu and Kadla Curry",
-            "description": "A comfort meal from the South-India made with steamed rice flour layered with fresh grated coconut teamed with spicy chickpea curry. Perfect for a light meal.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Wednesday",
-        "date": "08/06",
-        "items": [
-          {
-            "name": "Matar Paneer",
-            "description": "Indian cottage cheese and green peas cooked in a spicy flavourful onion tomato based gravy",
-            "price": 10,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Shorshe Maach",
-            "description": "A traditional Bengali style fish curry made with fresh homemade mustard chilli paste. In this recipe I am using salmon steaks.",
-            "price": 12,
-            "extra": "make it a meal with choice of 2 parathas/rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Vada Pav Quesadilla",
-            "description": "Spicy mashed potato mixed with spices and stuffed between chapati and smeared with spicy garlic chutney",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Pongal with coconut chutney",
-            "description": "Rice and lentil  pressure cooked together and topped with curry leaves, cashew and other spices. Served with coconut chutney",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Thursday",
-        "date": "09/06",
-        "items": [
-          {
-            "name": "Tamil Kathirikai Gothsu",
-            "description": "A popular South-Indian dish. Aubergines cooked with lentils, onion and tomatoes with a tangy twist. ",
-            "price": 10,
-            "extra": "make it a meal with rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Hariyali Ghost",
-            "description": "Slow cooked lamb curry with mint, green chilles, ginger and coriander.",
-            "price": 14,
-            "extra": "make it a meal with choice of 2 parathas/rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Crispy Chilli Potatoes",
-            "description": "Crispy potato wedges mixed with spices and spicy chutney for perfect snack",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Anda Paratha ",
-            "description": "Whole wheat Indian bread stuffed with grated boiled egg mixed with spices. Served with spicy onion tomato chutney",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Friday",
-        "date": "10/06",
-        "items": [
-          {
-            "name": "Veg Berry Pulao",
-            "description": "A popular Parsi recipe that uses a beautiful blend of rice, dried cranberries, veggies and a melange of spices. Served with yogurt dip + achar + papad",
-            "price": 13,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Chicken Berry Pulao",
-            "description": "Aromatic basmati rice and flavourful chicken marinated with yogurt, berries, green chillies, spices and cooked together for the perfect meal served with yogurt dip + papad",
-            "price": 16,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Tandoori Aloo",
-            "description": "Baby potatoes boiled and mixed with a marinade then skewered and grilled with onion and capsicum served with spicy chutney",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Mexican Rice",
-            "description": "Assorted vegies cooked with mexican spices and rice for a perfect warm meal.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Saturday",
-        "date": "11/06",
-        "items": [
-          {
-            "name": "Veg Hakka Noodles",
-            "description": "Indo-Chinese stir fried noodles. A popular street food with assorted veggies cooked in aromatic Indo-Chinese spices.",
-            "price": 13,
-            "extra": "make it more delicious with a side of veg manchurian gravy.",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Chicken Hakka Noodles ",
-            "description": "Indo-Chinese stir fried noodles. A popular street food with assorted veggies and chicken cooked in aromatic Indo-Chinese spices.",
-            "price": 13,
-            "extra": "make it more delicious with a side of chicken manchurian gravy.",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Ragada Pattice",
-            "description": "Lip smacking street food with crispy patty, chickpea curry, spicy + sweet & tangy sauce, topped with onion, tomato and fresh corriander",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Oats and rava Idli ",
-            "description": "Steamed rice cakes made with oats flour and rava with spices, cashew and yogurt, steamed to perfection and served with coconut chutney.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "13/06",
     "enddate": "18/06",
     "menu": [
@@ -322,7 +16,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Mangalore Style Chicken Urval",
@@ -333,7 +27,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Sweet Potato Patty",
@@ -344,7 +38,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Anda Paratha",
@@ -355,7 +49,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
@@ -599,6 +293,312 @@
           {
             "name": "Rava Upma",
             "description": "Semolina cooked together with onion, tomato, carrot and green peas and topped with ghee. A perfect light meal.",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "13/06",
+    "enddate": "18/06",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "13/06",
+        "items": [
+          {
+            "name": "Tawa Paneer",
+            "description": "Popular dish in Every Indian resturant. Indian cottage cheese cooked in spicy flavourful gravy with freshly ground spices and topped with onion and capsicum petals. ",
+            "price": 10,
+            "extra": "Make it a meal with 2 parathas +side salad + achar+ salad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": "old"
+          },
+          {
+            "name": "Lahori Green Chicken Curry",
+            "description": "Chicken Cooked in spicy green gravy based with fresh ground spices and topped with cream.",
+            "price": 12,
+            "extra": "Make it a meal with 2 parathas/ rice +side salad + achar+ salad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": "old"
+          },
+          {
+            "name": "Paneer schezwan Frankie",
+            "description": "Spicy paneer cooked with chinese sauces, wrapped in roti with onion, cabbage, frankie masala. a perfect spicy snack. served with schezwan chtney for the extra spiciness ",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": "old"
+          },
+          {
+            "name": "Panner tikka salad",
+            "description": "Paneer marinated with tikka masalaa and grilled combined with lettuce, onion, tomato, toasted bread cubes, bell peppper, cucumber and lemon honey dressing amking it a poper packed salad",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": "old"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "date": "14/06",
+        "items": [
+          {
+            "name": "Kashmiri Dum Aloo",
+            "description": "Baby potatoes roasted and cooked in tangy , spicy and flavourful Yogurt based gravy.",
+            "price": 10,
+            "extra": "Make it a meal with 2 parathas +side salad + achar+ salad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": "available"
+          },
+          {
+            "name": "Pork Bafat masala",
+            "description": "Pork cooked with onions, ginger, chillies and garlic and spicy bafat masala a Manglorean dish definately worth trying for",
+            "price": 14,
+            "extra": "Make it a meal with 2 parathas/ rice +side salad + achar+ salad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Dahi papadi Chat",
+            "description": "A street style snack of papadi smeared with thick yogurt mix topped with spicy green chutney, tangy sweet chutney, pomagrante seeds, chatmasala and sev",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Quina chickpea protein pack salad",
+            "description": "Quina,chickpea, cucumber, onion, lettuce, feta cheese, tomato, olives combied together and topped with sme zesty lemon, garlic, olive oil dressing",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "date": "15/06",
+        "items": [
+          {
+            "name": "Soya Chunks aloo Dum",
+            "description": "Soya bean chunks and roasted potatoes cooked with cramalised onion, tomato puree, ginger , garlic and spices into a flavourful spicy curry  ",
+            "price": 10,
+            "extra": "Make it a meal with 2 parathas +side salad + achar+ salad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": "available"
+          },
+          {
+            "name": "Kadhai Jhinga",
+            "description": "Stir fried prawns cooked with ginger, smoky chilles, tomato and fresh coriander ",
+            "price": 12,
+            "extra": "Make it a meal with 2 parathas +side salad + achar+ salad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Kurkure Aloo tikki chat (2 tikki)",
+            "description": "Mashed potato patty cooked till crisp smeared with spicy chutney and sweet tangy chutney , sev , tomato,onions and fresh corinader and pomagrante seeds.",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Pav Bhaji",
+            "description": "Mix of different veggies boiled and cooked in a spicy flavourful gravy of onion, tomato and  gresh pav bhaji spices topped with buteer and fresh coriander served with 2 pav ( buns)",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "date": "16/06",
+        "items": [
+          {
+            "name": "Khumb Matar Malai",
+            "description": "Creamy   button mushroom curry with cardamom, cashew nut and green peas with freshly ground spices making it a warm and comforting meal.",
+            "price": 10,
+            "extra": "Make it a meal with 2 parathas +side salad + achar+ salad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": "available"
+          },
+          {
+            "name": "Champaran Lamb Curry",
+            "description": " A dish from the nothern part of India with spicy flavourful lamb pieces cooked togteher spices, chillies, garlic, ginger and fresh ground spies, slow cooked on low flame till perfection.",
+            "price": 14,
+            "extra": "Make it a meal with 2 parathas/ rice +side salad + achar+ salad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Bhel puri",
+            "description": "Street style snack of puffed rice mixed with spicy chutney, sweet tangy chutney, papadi, sev, onion, tomato and fresh coriander making it a flavourful snack",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Oats and rava idli + Chutney",
+            "description": "Oats ,semolina (granuled wheat) mixed with yogurt, onion,cashew and chilles and steam to make soft buns served with coconut chutney.",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "date": "17/06",
+        "items": [
+          {
+            "name": "Veg Navratna Pulao",
+            "description": "Assorted veggies,cashew nut and rasins cooked together with spices with fragnant basmati rice and topped with fresh coriander and mint leaves served with a side of mint dip+ papad+ achar",
+            "price": 14,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": "available"
+          },
+          {
+            "name": "Thalassery Briyani",
+            "description": "A briyani from the regions of malabar,Chicken cooked with cramalised onions, cashew, yogurt spicies and coconut milk with cooked with small grain rice topped with mint leaves , coriander and fried onion served with yogurt dip+ acahar + papad",
+            "price": 16,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Street style Veg manchurian Frankie ",
+            "description": "Assorted veggied mixed with cinese spices and sauces fried till crispy and wrapped in roti with onion, cabbage and noodles",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Anda Ghotala ",
+            "description": "Scrambled eggs cooked with onion, chilies and other spices in a thick sauce topped with a half fried egg Served with 2 buns",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "date": "18/06",
+        "items": [
+          {
+            "name": "Burnt Garlic  Fried Rice",
+            "description": "Indo-chinese dish with assorted veggies and rice cooked with chinese sauces and topped with crispy burnt garlic flakes.",
+            "price": 12,
+            "extra": "Make it more delicious with paneer in soy basil sauce",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": "available"
+          },
+          {
+            "name": "Chicken Burnt garlic Fried Rice",
+            "description": "Indo-chinese dish with assorted veggies, boneless chicken and rice cooked with chinese sauces and topped with crispy burnt garlic flakes.",
+            "price": 14,
+            "extra": "Make it more delicious with  chicken manchurian gravy",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Vada pav (2)",
+            "description": "Street food of mumbai, boiled potatoes coated with chickpea flour and spices and fried to perfection stuffed in a bun smeared with spicy green chutney and dry garlic chutney making it flavourful",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Coconut Rice",
+            "description": "Aromatic basmati rice cooked in ghee with cashew, curry leaves, dried chilli and fresh coconut and tempered with mustard seeds ",
             "price": 8,
             "extra": "",
             "extra-price": "",
