@@ -116,7 +116,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Kerala Chertha Kozhi Kari",
@@ -127,7 +127,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Beetroot Thepla",
@@ -138,7 +138,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Chicken Kheema Paratha",
@@ -149,7 +149,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
@@ -579,7 +579,7 @@
             "description": "Indo-Chinese dish with assorted veggies, boneless chicken and rice cooked in chinese sauces and topped with crispy burnt garlic flakes.",
             "price": 14,
             "extra": "make it more delicious with a side of chicken manchurian gravy",
-            "extra-price": "",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
