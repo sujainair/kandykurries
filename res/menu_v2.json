@@ -472,7 +472,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Malvani Mackerel Curry",
@@ -483,7 +483,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Dal Oats Kebab",
@@ -494,7 +494,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Thalipeet",
@@ -505,7 +505,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "full"
           }
         ]
       },
@@ -522,7 +522,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Maharashtrian Lamb Curry",
@@ -533,7 +533,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Chicken Bhuna Roll",
@@ -544,7 +544,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "One Pot Chicken Rice",
@@ -555,7 +555,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": ""
+            "status": "full"
           }
         ]
       },
@@ -572,7 +572,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Chicken Chowmein Noodles",
@@ -583,7 +583,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Aloo Cholle Tikki Chaat",
@@ -594,7 +594,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Palak Garlic Dal Kichidi",
@@ -605,7 +605,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "full"
           }
         ]
       }
