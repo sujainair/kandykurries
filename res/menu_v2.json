@@ -472,7 +472,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Malvani Mackerel Curry",
@@ -483,7 +483,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Dal Oats Kebab",
@@ -494,7 +494,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Thalipeet",
@@ -505,7 +505,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "full"
+            "status": "old"
           }
         ]
       },
