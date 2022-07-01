@@ -522,7 +522,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Maharashtrian Lamb Curry",
@@ -533,7 +533,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Chicken Bhuna Roll",
@@ -544,7 +544,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "One Pot Chicken Rice",
@@ -555,7 +555,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": "full"
+            "status": "old"
           }
         ]
       },
