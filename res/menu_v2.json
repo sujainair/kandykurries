@@ -66,7 +66,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Rogan Josh",
@@ -77,7 +77,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Chicken Mayo Sandwitch",
@@ -88,7 +88,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Lemon Rice",
@@ -99,7 +99,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
