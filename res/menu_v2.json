@@ -6,6 +6,7 @@
       {
         "day": "Monday",
         "date": "25/07",
+        "full-date": "2022-07-24T22:00:00.000Z",
         "items": [
           {
             "name": "Panner Lababdar",
@@ -56,6 +57,7 @@
       {
         "day": "Tuesday",
         "date": "26/07",
+        "full-date": "2022-07-25T22:00:00.000Z",
         "items": [
           {
             "name": "Kashmiri Dum Aloo ",
@@ -106,6 +108,7 @@
       {
         "day": "Wednesday",
         "date": "27/07",
+        "full-date": "2022-07-26T22:00:00.000Z",
         "items": [
           {
             "name": "Mamar Chotpoti",
@@ -156,6 +159,7 @@
       {
         "day": "Thursday",
         "date": "28/07",
+        "full-date": "2022-07-27T22:00:00.000Z",
         "items": [
           {
             "name": "Tawa Paneer",
@@ -206,6 +210,7 @@
       {
         "day": "Friday",
         "date": "29/07",
+        "full-date": "2022-07-28T22:00:00.000Z",
         "items": [
           {
             "name": "Khumb Pudina Pulao",
@@ -256,6 +261,7 @@
       {
         "day": "Saturday",
         "date": "30/07",
+        "full-date": "2022-07-29T22:00:00.000Z",
         "items": [
           {
             "name": "Veg thali",
@@ -312,6 +318,7 @@
       {
         "day": "Monday",
         "date": "01/08",
+        "full-date": "2022-07-31T22:00:00.000Z",
         "items": [
           {
             "name": "Kashmiri Khatte Baingan",
@@ -362,6 +369,7 @@
       {
         "day": "Tuesday",
         "date": "02/08",
+        "full-date": "2022-08-01T22:00:00.000Z",
         "items": [
           {
             "name": "Soya chunk Masala",
@@ -412,6 +420,7 @@
       {
         "day": "Wednesday",
         "date": "03/08",
+        "full-date": "2022-08-02T22:00:00.000Z",
         "items": [
           {
             "name": "Palak Chana Masala",
@@ -462,6 +471,7 @@
       {
         "day": "Thursday",
         "date": "04/08",
+        "full-date": "2022-08-03T22:00:00.000Z",
         "items": [
           {
             "name": "Veg Kolhapuri",
@@ -512,6 +522,7 @@
       {
         "day": "Friday",
         "date": "05/08",
+        "full-date": "2022-08-04T22:00:00.000Z",
         "items": [
           {
             "name": "Dal Makhni ",
@@ -562,6 +573,7 @@
       {
         "day": "Saturday",
         "date": "06/08",
+        "full-date": "2022-08-05T22:00:00.000Z",
         "items": [
           {
             "name": "Veg Hakka Noodles",
