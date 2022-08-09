@@ -166,7 +166,7 @@
             "description": "Parsi wholesome dish of mix vegetables and lentils cooked together with fresh spices and topped with fresh coriander.",
             "price": 12,
             "extra": "make it a meal with 2 parathas/rice + side salad",
-            "extra-price": "",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
