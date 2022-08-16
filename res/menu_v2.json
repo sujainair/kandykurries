@@ -380,7 +380,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Malabar Chicken Curry",
@@ -391,7 +391,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Mumbai Street Style Frankie",
@@ -402,7 +402,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Rasam Chicken Rice",
@@ -413,7 +413,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
