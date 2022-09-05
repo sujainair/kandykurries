@@ -549,7 +549,7 @@
           {
             "name": "Egg Kathi Roll",
             "description": "A popular street food of Kolkata. Flattened Indian bread cooked on a pan with eggs and wrapped in to a roll with pickled onion, cucumber and fresh masala. Served with spicy green chutney",
-            "price": "",
+            "price": 8,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -600,7 +600,7 @@
           {
             "name": "Ragi & Besan ka Cheela",
             "description": "Gluten free snack with ragi and chickpea flour mixed togther with onion, ginger, chillies and spices and cooked on a pan like a crepe. Served with some tangy tomato and onion chutney",
-            "price": "",
+            "price": 8,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
