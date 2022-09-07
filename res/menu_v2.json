@@ -1,317 +1,5 @@
 {
   "week_1": {
-    "startdate": "29/08",
-    "enddate": "03/09",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "29/08",
-        "full-date": "2022-08-28T22:00:00.000Z",
-        "items": [
-          {
-            "name": "Amritsari Nutri Kulcha",
-            "description": "Street style soya chunk curry cooked in a base of spicy and tangy onion, tomato, fresh spices and soya granules. Served with 2 kulchas + pickled onion + achar",
-            "price": 13,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Andhra Chilli Chicken Curry",
-            "description": "Spicy chicken curry made with freshly blend spice paste made of caramalised onion, garlic, coriander and curry leaves cooked in a thick gravy and topped with creamy coconut milk.",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas or rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Veg Schezwan Frankie",
-            "description": "Shallow fried spiced mashed potato wrapped in whole wheat flatbread with onions and frankie masala. Served with green chutney.",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "One Pot Chicken Rice",
-            "description": "Chicken marinated with ginger & garlic paste and spices pan roasted in ghee and cooked together with onion, rice, coconut milk and flavourful spices",
-            "price": 12,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Tuesday",
-        "date": "30/08",
-        "full-date": "2022-08-29T22:00:00.000Z",
-        "items": [
-          {
-            "name": "Blackeyed Peas Curry",
-            "description": "Blackeyed peas cooked in a base of onion, tomato, ginger garlic paste and fresh ground spices topped with lots of fresh coriander.",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas or rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Elaichi Ghost",
-            "description": "Tender pieces of lamb cooked in a mild, aromatic currry with onions, tomato and freshly ground garam masala.",
-            "price": 13,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Bombay Cheese Chilli Toast",
-            "description": "Mumbai's famous street style grilled sandwich with spicy stuffing and loads of cheese. Perfect for an evening snack.",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Mix Vegetable Cheela",
-            "description": "Shredded carrot, cabbage, onions, tomato, chillies, ginger and spices mixed with chickpea flour and cooked on a pan. Served with a side of tangy tomato & onion chutney. (3 cheela)",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Wednesday",
-        "date": "31/08",
-        "full-date": "2022-08-30T22:00:00.000Z",
-        "items": [
-          {
-            "name": "Hyderabadi Nizami Handi",
-            "description": "Mix veggies cooked in a base of buttery creamy thick gravy made of onion, tomato, ginger, garlic and cashew nut with fresh garam masala and topped with fresh cream and coriander",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas or rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Prawns Pathia",
-            "description": "A delicious & humble Parsi dish. Prawns marinated with salt, turmeric, lime and cooked with onions and fresh blend spice mix of dry chilles, garlic, vinegar and cumin. ",
-            "price": 14,
-            "extra": "make it a meal with dal + rice + side salad + achar + papad",
-            "extra-price": 3,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Sev Puri",
-            "description": "Popular street food of Mumbai. Crispy fried flour dish topped with mashed potato, onions, spicy green chutney, tangy sweet tamrind chutney, sev, fresh coriander and pomogranate seeds. (6 puris)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Ragi Besan Cheela",
-            "description": "Batter made of ragi and chickpea flour spiced with cumin, coriander & ginger and cooked on a pan like a crepe. Served with chutney. (3 cheela)",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Thursday",
-        "date": "01/09",
-        "full-date": "2022-08-31T22:00:00.000Z",
-        "items": [
-          {
-            "name": "Kadhai Paneer",
-            "description": "Indian cottage cheese cooked in flavourful gravy with onion, tomato puree, fresh fragrant spices topped with petals of onion, capsicum and fresh coriander",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Green Egg Curry",
-            "description": "Hard boiled eggs  in creamy velvety gravy made with a blend of onion, garlic, coriander, spices, curry leaves and coconut milk for a mild and aromatic flavour. ",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas or rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Hara Bhara Kebab",
-            "description": "Patty made with spinach, boiled potatoes, green peas and spices; shallow fried for a crispy outer layer. Served with spicy green chutney. (4 kebabs)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Dhaba Style Dal Kichidi",
-            "description": "Rice lentils, onion, tomato, ginger, garlic & chilli pressure cooked together and tempered with different spices for the flavourful taste. Served with papad. A complete comfort meal.",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Friday",
-        "date": "02/09",
-        "full-date": "2022-09-01T22:00:00.000Z",
-        "items": [
-          {
-            "name": "Paneer Matar Pulao",
-            "description": "Indian cottage cheese cooked in flavourful spices with chillies, ginger, garlic, caramalised onions and green peas cooked together with fragrant basmati rice and ghee. Served with yogurt raita + achar + papad",
-            "price": 13,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Chicken 65 Biryani",
-            "description": "Boneless chicken marinated with spices, lime juice and ginger garlic paste and deep fried. Cooked together with fragrant basmati rice and topped with mint, coriander and fried onions. Served with yogurt raita + papad.",
-            "price": 16,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Aloo Tikki Cholle Chaat",
-            "description": "Mashed potatoes mixed with spices, onion, coriander, chillies and shallow fried for a crispy outer layer smeared with spicy chickpea curry, tangy sweet chutney, green chutney, sev and fresh coriander.",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Puttu & Kadala Curry",
-            "description": "A comforting meal made of steamed rice flour layered with coconut and served with spicy warm black chickpea curry",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Saturday",
-        "date": "03/09",
-        "full-date": "2022-09-02T22:00:00.000Z",
-        "items": [
-          {
-            "name": "Mushroom Biryani",
-            "description": "Mushrooms cooked with onion, tomato, ginger, galic, whole spices and freshly ground spices cooked with fragrant basmati rice topped with caramalised onions and fresh coriander. Served with yogurt dip + achar + papad",
-            "price": 13,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Kolambi Bhat",
-            "description": "Flavourful prawns cooked with ginger, garlic, onion and other spices combined with aromatic basmati rice and fresh coriander served wih yogurt dip + papad + achar",
-            "price": 16,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Oats and Rava Idli",
-            "description": "Steamed cakes made of oats and semolina (granulated wheat) mixed with yogurt, onion, cashew and chilles. Served with coconut chutney.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          },
-          {
-            "name": "Chicken Kheema Paratha",
-            "description": "Minced chicken cooked with different spices and stuffed in whole wheat dough, flattened and cooked on a pan. Served with spicy onion tomato dip. (2 paratha)",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "05/09",
     "enddate": "10/09",
     "menu": [
@@ -612,6 +300,318 @@
             "name": "Palak Garlic Kichidi",
             "description": "Spinach, lentils and rice cooked together with garlic, onion, tomato, ginger and chillies in a pressure cooker and tempered with dry red chillies, cumin and garlic flakes. A complete comfort meal served with achar and papad",
             "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "12/09",
+    "enddate": "17/09",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "12/09",
+        "full-date": "2022-09-11T22:00:00.000Z",
+        "items": [
+          {
+            "name": "Phulkopri Dhalna",
+            "description": "A comforting Bengali spiced curry with potato, cauliflower and green peas cooked with whole spices and tumeric",
+            "price": 10,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Chicken Salna",
+            "description": "Chicken drumstick and thigh cooked in a flavourful spice mix of onion, cashew, coconut and whole spices",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Masala Egg Roll",
+            "description": "Hard boiled eggs cooked with spices and wrapped inside a whole wheat flatbread with pickled onion and cucumber",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Chicken Tehari",
+            "description": "One pot chicken rice cooked with caramalised onion, tomato, ginger garlic paste and fresh garam masala",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "date": "13/09",
+        "full-date": "2022-09-12T22:00:00.000Z",
+        "items": [
+          {
+            "name": "Paneer Makhni",
+            "description": "Creamy buttery gravy made with onion, tomato, cashew, garlic & ginger in a thick gravy with soft cottage cheese cubes",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Reshmi Chicken",
+            "description": "Chicken marinated with yogurt, spices and cream and cooked in rich flavourful thick gravy",
+            "price": 12,
+            "extra": "make it a meal with 2 paratha + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Crispy Chilli Potatoes",
+            "description": "Potato wedges boiled and coated with a spice mix and deep fried with for a crispy outer layer and then tossed with ginger, garlic, onion petals and capsicum; topped with spring onions",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Sabudana Kichdi",
+            "description": "Sago pearls cooked with boiled crispy potatoes, chillies, curry leaves and peanuts",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "date": "14/09",
+        "full-date": "2022-09-13T22:00:00.000Z",
+        "items": [
+          {
+            "name": "Bharli Vangi",
+            "description": "Small aubergine stuffed with fresh spice mix and cooked with onions, curry leaves and topped with fresh coriander",
+            "price": 10,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Kori Ghassi",
+            "description": "Manglorean chicken curry with curry leaves, spices and coconut milk",
+            "price": 12,
+            "extra": "make it a meal with 2 paratha or rice + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Masala Pav",
+            "description": "Spicy masala made with onion, tomato, capsicum and beetroot with fresh spices smeered on soft buns and pan tossed. Topped with chopped onion, coriander and lemon juice. (2 pav)",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Sambar Rice",
+            "description": "A comfort meal from the south of India. Lentils and veggies cooked together with tamrind, and freshly made sambar masala tempered with mustard seeds and curry leaves. Served with rice + papad",
+            "price": 12,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "date": "15/09",
+        "full-date": "2022-09-14T22:00:00.000Z",
+        "items": [
+          {
+            "name": "Malai Kofta",
+            "description": "Deep fried balls made of paneer and potato in a spicy and creamy tomato based gravy",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Goan Chicken Cafreal",
+            "description": "A dish from the Goa. Chicken curry cooked with coriander, green chillies and vinegar",
+            "price": 12,
+            "extra": "make it a meal with 2 paratha + side salad + achar + papad",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Beetroot Cutlet",
+            "description": "Shreeded beetroot, potatoes, chillies and spices mixed together and shaped into a patty, coated with bread crumbs and shallow fried. Served with spicy green chutney. (3 cutlets)",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Lemon Rice",
+            "description": "Rice, cashews, chillies and other spices stir fried together and mixed with lime juice. Served with achar and papad",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "date": "16/09",
+        "full-date": "2022-09-15T22:00:00.000Z",
+        "items": [
+          {
+            "name": "Punjabi Matar Paneer",
+            "description": "A flavourful dish of Indian cottage cheese and green peas cooked together in onion & tomato based gravy topped with fresh corriander and garam masala",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Ghost Ki Biryani",
+            "description": "Soft lamb meat cooked with whole spices, safforn, ghee and rice. Served with a side of yogurt dip + papad.",
+            "price": 16,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Dahi Vada",
+            "description": "Lentil balls deep fried and smeared with spiced yogurt, tamrind chutney and spicy green chutney topped with chaat masala, pomogranate seeds and coriander",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Coconut Rice",
+            "description": "Aromatic basmati rice cooked in ghee with cashew, curry leaves, dried chilli and fresh coconut, tempered with mustard seeds",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "date": "17/09",
+        "full-date": "2022-09-16T22:00:00.000Z",
+        "items": [
+          {
+            "name": "Veg Schezwan Fried Rice",
+            "description": "Assorted veggies cooked with fragnant rice in chinese sauces and aromatics",
+            "price": 12,
+            "extra": "make it more delicious with a side of veg manchurian gravy",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Chicken Schezwan Fried Rice",
+            "description": "Assorted veggies and chicken cooked with fragnant rice in chinese sauces and aromatics",
+            "price": 12,
+            "extra": "make it more delicious with a side of chicken manchurian gravy",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Sindhi Aloo Tuk",
+            "description": "Crispy fried potatoes topped with a special spice mix and tossed together for a even coat",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Aloo Pyaz ke Parathe",
+            "description": "Boiled potatoes and onion mixed with chilles, spices and coriander, stuffed inside whole wheat flat bread cooked on a pan. Served with a side of tangy tomato-onion chutney. (2 parathas)",
+            "price": 8,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
