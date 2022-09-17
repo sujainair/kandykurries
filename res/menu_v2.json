@@ -272,7 +272,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Chicken Schezwan Fried Rice",
@@ -283,7 +283,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Sindhi Aloo Tuk",
@@ -294,7 +294,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Aloo Pyaz ke Parathe",
@@ -305,7 +305,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "full"
+            "status": "old"
           }
         ]
       }
