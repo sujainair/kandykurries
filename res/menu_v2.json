@@ -334,7 +334,7 @@
           {
             "name": "Kukuda Tarkari",
             "description": "Juicy tender chicken pieces cooked in flavourful gravy of onion, tomato and spices along with some potatoes and whole spices. A dish from the state of Odisha.",
-            "price": 13,
+            "price": 12,
             "extra": "make it a meal with 2 parathas/rice + side salad + papad + achar",
             "extra-price": 2,
             "insta-link": "",
@@ -374,7 +374,7 @@
           {
             "name": "Lucknowi Gobi Aloo Ki Tahiri",
             "description": "A dish from the northern part of India, spiced vegetables layered with butter, aromatic basmati rice and garam masala. Served with a side of onion yogurt dip + papad.",
-            "price": 13,
+            "price": 12,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -385,7 +385,7 @@
           {
             "name": "Awadhi Chicken Curry",
             "description": "A lucknowi chicken curry made with caramalised onion, garlic, cashewnut paste topped with fresh garam masala and coriander ",
-            "price": 13,
+            "price": 12,
             "extra": "make it a meal with 2 parathas + side salad + papad + achar",
             "extra-price": 2,
             "insta-link": "",
@@ -425,7 +425,7 @@
           {
             "name": "Vankaya Pulusu",
             "description": "A traditional Andhra stew with warm spices, chilli, tamrind and coconut and topped with curry leaves.",
-            "price": 12,
+            "price": 10,
             "extra": "make it a meal with 2 chapatis/rice + achar + side salad + papad",
             "extra-price": 2,
             "insta-link": "",
@@ -436,7 +436,7 @@
           {
             "name": "Coorgi Koli Curry",
             "description": "A warm comforting chicken curry from Coorg with tangy tamrind, coconut and fresh spices.",
-            "price": 13,
+            "price": 12,
             "extra": "make it a meal with 2 chapati/rice + achar + papad + side salad",
             "extra-price": 2,
             "insta-link": "",
@@ -476,7 +476,7 @@
           {
             "name": "Goan Vegetable Xacuti",
             "description": "Mixed vegtables cooked with poppy seeds, coconut, tamrind and freshly ground spices.",
-            "price": 12,
+            "price": 10,
             "extra": "make it a meal with 2 parathas + side salad + papad + achar",
             "extra-price": 2,
             "insta-link": "",
@@ -487,7 +487,7 @@
           {
             "name": "Goan Chicken Xacuti",
             "description": "Chicken curry from the region of Goa with freshly roasted spices, vineger, coconut & chillies",
-            "price": 13,
+            "price": 12,
             "extra": "make it a meal with 2 parathas + side salad + papad + achar",
             "extra-price": 2,
             "insta-link": "",
@@ -527,7 +527,7 @@
           {
             "name": "Paneer dum Biryani",
             "description": "Soft cottage cheese cooked in onion, tomato, garlic ginger, fresh biryani masala and chillies with yogurt and spices layered with fragrant basmati rice, mint and coriander. Served with side of yogurt raita + papad",
-            "price": 14,
+            "price": 13,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
