@@ -1,7 +1,7 @@
 {
   "week_1": {
     "startdate": "02/01",
-    "enddate": "31/12",
+    "enddate": "07/01",
     "menu": [
       {
         "day": "Monday",
@@ -260,8 +260,8 @@
       },
       {
         "day": "Saturday",
-        "date": "31/12",
-        "full-date": "2022-12-30T23:00:00.000Z",
+        "date": "07/01",
+        "full-date": "2022-01-06T23:00:00.000Z",
         "items": [
           {
             "name": "",
@@ -312,13 +312,13 @@
     ]
   },
   "week_2": {
-    "startdate": "02/01",
-    "enddate": "07/01",
+    "startdate": "09/01",
+    "enddate": "14/01",
     "menu": [
       {
         "day": "Monday",
-        "date": "02/01",
-        "full-date": "2023-01-01T23:00:00.000Z",
+        "date": "09/01",
+        "full-date": "2023-01-08T23:00:00.000Z",
         "items": [
           {
             "name": "Peshawari Chana",
@@ -368,8 +368,8 @@
       },
       {
         "day": "Tuesday",
-        "date": "03/01",
-        "full-date": "2023-01-02T23:00:00.000Z",
+        "date": "10/01",
+        "full-date": "2023-01-09T23:00:00.000Z",
         "items": [
           {
             "name": "Tawa Paneer Masala",
@@ -419,8 +419,8 @@
       },
       {
         "day": "Wednesday",
-        "date": "04/01",
-        "full-date": "2023-01-03T23:00:00.000Z",
+        "date": "11/01",
+        "full-date": "2023-01-10T23:00:00.000Z",
         "items": [
           {
             "name": "Arachuvitta Sambar",
@@ -470,8 +470,8 @@
       },
       {
         "day": "Thursday",
-        "date": "05/01",
-        "full-date": "2023-01-04T23:00:00.000Z",
+        "date": "12/01",
+        "full-date": "2023-01-11T23:00:00.000Z",
         "items": [
           {
             "name": "Manipur Style Chak Angouba",
@@ -521,8 +521,8 @@
       },
       {
         "day": "Friday",
-        "date": "06/01",
-        "full-date": "2023-01-05T23:00:00.000Z",
+        "date": "13/01",
+        "full-date": "2023-01-12T23:00:00.000Z",
         "items": [
           {
             "name": "Basanti Pulao",
@@ -572,8 +572,8 @@
       },
       {
         "day": "Saturday",
-        "date": "07/01",
-        "full-date": "2023-01-06T23:00:00.000Z",
+        "date": "14/01",
+        "full-date": "2023-01-13T23:00:00.000Z",
         "items": [
           {
             "name": "",
