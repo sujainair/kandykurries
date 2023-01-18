@@ -478,7 +478,7 @@
             "description": "A dish from rajasthan is made with a mix of vegetables cooked together with red chili and tomato paste",
             "price": 12,
             "extra": "make it a meal with 2 parathas + achar + papad + side salad",
-            "extra-price": "",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
