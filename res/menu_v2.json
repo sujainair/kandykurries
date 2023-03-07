@@ -68,7 +68,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Dhaba Style Chicken Curry",
@@ -79,7 +79,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Madhur Vada",
@@ -90,7 +90,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Sambar Rice",
@@ -101,7 +101,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
@@ -213,22 +213,22 @@
         "full-date": "2023-03-09T23:00:00.000Z",
         "items": [
           {
-            "name": "Veg Schezwan Noodles",
-            "description": "A popular Indo-Chinese dish loaded with veggies and spices and lots of flavour",
-            "price": 12,
-            "extra": "make it a meal with veg manchurian gravy",
-            "extra-price": 2,
+            "name": "Holiday",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Chicken Schezwan Noodles",
-            "description": "A popular Indo-Chinese dish loaded with veggies, chicken, spices lots flavour.",
-            "price": 12,
-            "extra": "make it a meal with a side of chicken manchurian gravy.",
-            "extra-price": 2,
+            "name": "Holiday",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
