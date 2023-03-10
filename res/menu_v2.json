@@ -221,7 +221,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Holiday",
@@ -232,7 +232,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Paneer Pepper Fry",
@@ -243,7 +243,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Soya Bean Pulao",
@@ -254,7 +254,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
@@ -475,30 +475,30 @@
         "items": [
           {
             "name": "Holiday",
-            "description": "A popular vegetarian dish from the Himachal Pradesh. It's made with chickpeas (chana) cooked in a yogurt based gravy with aromatic spices like cardamom, cinnamon and cumin.",
-            "price": 10,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Himachali Anardana Murg",
-            "description": "A flavourful chicken preparation from Himachal Pradesh. Chicken is cooked in aromatic spices and dried pomegranate seeds that adds a unique tart and tangy flavour and a pinkish-reddish colour to the dish.",
-            "price": 12,
-            "extra": "make it a meal with 2 paratha/rice + side salad + achar + papad",
-            "extra-price": 2,
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Sev Puri",
-            "description": "Popular street food of Mumbai. Crispy fried flour dish topped with mashed potato, onions, spicy green chutney, tangy sweet tamrind chutney, sev, fresh coriander and pomogranate seeds. (6 puris)",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -507,9 +507,9 @@
             "status": ""
           },
           {
-            "name": "Missal Pav",
-            "description": "A popular street food of Mumbai. Mixed sprouts boiled and cooked with onion, tomato, ginger, garlic, chilles and spicy masala. Topped with some fresh coriander. Served with 2 buns, farsan, and onions",
-            "price": 10,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
