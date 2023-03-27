@@ -329,7 +329,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Himachali Anardana Murg",
@@ -340,7 +340,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Honey Chilli Potato",
@@ -351,7 +351,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Neer Dosa",
@@ -362,7 +362,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
@@ -372,31 +372,31 @@
         "full-date": "2023-03-27T23:00:00.000Z",
         "items": [
           {
-            "name": "Aloo Gobi Posto",
-            "description": "A classic Bengali dish made with potatoes, cauliflower, and poppy seed paste. The dish has a creamy texture and a subtle flavor that comes from the poppy seed paste. ",
-            "price": 10,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
+            "name": "holiday",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Bengali Kancha Lonka Murgi",
-            "description": "A spicy and flavorful Bengali chicken dish, made with green chilies, ginger and other aromatic spices",
-            "price": 12,
-            "extra": "make it a meal with 2 paratha/rice + side salad + achar + papad",
-            "extra-price": 2,
+            "name": "holiday",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Chicken 65",
-            "description": "A popular Indian appetizer made with marinated and fried chicken pieces tossed in a spicy and tangy sauce. ",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -405,9 +405,9 @@
             "status": ""
           },
           {
-            "name": "Aloo Pyaz Paratha",
-            "description": "Potatoes mixed with spices and onion, chilli and stuffed into whole wheat dough and flattened and cooked .",
-            "price": 10,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
