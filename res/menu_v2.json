@@ -329,7 +329,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Chicken Changazi",
@@ -340,7 +340,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Chicken Cutlet",
@@ -351,7 +351,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Lemon Rice",
@@ -362,7 +362,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": ""
           }
         ]
       },
@@ -380,7 +380,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Lamb Sukka",
@@ -391,7 +391,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Pinewheel Samosa",
@@ -402,7 +402,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Rajma Chawal",
@@ -413,7 +413,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": ""
           }
         ]
       },
@@ -431,7 +431,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Malabar Chicken Peralan",
@@ -442,7 +442,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Egg Roll",
@@ -453,7 +453,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Tawa Pulao",
@@ -464,7 +464,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": ""
           }
         ]
       },
@@ -482,7 +482,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Chicken Tikka Biryani",
@@ -493,7 +493,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Kurkuri Aloo Tikki Chaat",
@@ -504,7 +504,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Lasuni Palak Kichidi",
@@ -515,7 +515,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": ""
           }
         ]
       },
@@ -533,7 +533,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Chicken Hakka Noodles",
@@ -544,7 +544,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Dhokla",
@@ -555,7 +555,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "Tamrind Rice",
@@ -566,7 +566,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": ""
           }
         ]
       },
@@ -584,7 +584,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "",
@@ -595,7 +595,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "",
@@ -606,7 +606,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "available"
+            "status": ""
           },
           {
             "name": "",
@@ -617,7 +617,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": ""
           }
         ]
       }
