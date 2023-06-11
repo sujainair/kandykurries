@@ -6,7 +6,7 @@
       {
         "day": "Monday",
         "date": "05/06",
-        "full-date": "2023-06-04T22:00:00.000Z",
+        "full-date": "2023-06-05+0200",
         "items": [
           {
             "name": "Kerala Avail",
@@ -57,7 +57,7 @@
       {
         "day": "Tuesday",
         "date": "06/06",
-        "full-date": "2023-06-05T22:00:00.000Z",
+        "full-date": "2023-06-06+0200",
         "items": [
           {
             "name": "Kachkolar Kofta",
@@ -108,7 +108,7 @@
       {
         "day": "Wednesday",
         "date": "07/06",
-        "full-date": "2023-06-06T22:00:00.000Z",
+        "full-date": "2023-06-07+0200",
         "items": [
           {
             "name": "Gujrati Rangoon Na Vaal",
@@ -159,7 +159,7 @@
       {
         "day": "Thursday",
         "date": "08/06",
-        "full-date": "2023-06-07T22:00:00.000Z",
+        "full-date": "2023-06-08+0200",
         "items": [
           {
             "name": "Gatte Ki Sabzi",
@@ -210,7 +210,7 @@
       {
         "day": "Friday",
         "date": "09/06",
-        "full-date": "2023-06-08T22:00:00.000Z",
+        "full-date": "2023-06-09+0200",
         "items": [
           {
             "name": "Paneer Makhni Biryani",
@@ -261,7 +261,7 @@
       {
         "day": "Saturday",
         "date": "10/06",
-        "full-date": "2023-06-09T22:00:00.000Z",
+        "full-date": "2023-06-10+0200",
         "items": [
           {
             "name": "",
@@ -318,7 +318,7 @@
       {
         "day": "Monday",
         "date": "12/06",
-        "full-date": "2023-06-11T22:00:00.000Z",
+        "full-date": "2023-06-12+0200",
         "items": [
           {
             "name": "Achari Baigan",
@@ -369,7 +369,7 @@
       {
         "day": "Tuesday",
         "date": "13/06",
-        "full-date": "2023-06-12T22:00:00.000Z",
+        "full-date": "2023-06-13+0200",
         "items": [
           {
             "name": "Palak Chole",
@@ -420,7 +420,7 @@
       {
         "day": "Wednesday",
         "date": "14/06",
-        "full-date": "2023-06-13T22:00:00.000Z",
+        "full-date": "2023-06-14+0200",
         "items": [
           {
             "name": "Bhindi Do Pyaza",
@@ -471,7 +471,7 @@
       {
         "day": "Thursday",
         "date": "15/06",
-        "full-date": "2023-06-14T22:00:00.000Z",
+        "full-date": "2023-06-15+0200",
         "items": [
           {
             "name": "Kathal Biryani",
@@ -522,7 +522,7 @@
       {
         "day": "Friday",
         "date": "16/06",
-        "full-date": "2023-06-15T22:00:00.000Z",
+        "full-date": "2023-06-16+0200",
         "items": [
           {
             "name": "Veg Hakka Noodles",
@@ -573,7 +573,7 @@
       {
         "day": "Saturday",
         "date": "17/06",
-        "full-date": "2023-06-16T22:00:00.000Z",
+        "full-date": "2023-06-17+0200",
         "items": [
           {
             "name": "",
