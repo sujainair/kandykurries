@@ -526,10 +526,10 @@
         "items": [
           {
             "name": "Veg Hakka Noodles",
-            "description": "Indo-Chinese dish with assorted veggies cooked with chinese sauces and noodles",
+            "description": "",
             "price": 13,
-            "extra": "make it special with some veg manchurian gravy",
-            "extra-price": 2,
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
@@ -537,10 +537,10 @@
           },
           {
             "name": "Chicken Hakka Noodles",
-            "description": "Indo-Chinese dish with assorted veggies and chicken cooked with chinese sauces and noodles.",
-            "price": 13,
-            "extra": "make it special with some chicken manchurian gravy",
-            "extra-price": 2,
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
@@ -560,7 +560,7 @@
           {
             "name": "Tamrind Rice",
             "description": "A tangy and flavorful South Indian rice dish. It is made by mixing cooked rice with a special tamarind-based sauce, spices, curry leaves and garnished with roasted peanuts.",
-            "price": 10,
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
