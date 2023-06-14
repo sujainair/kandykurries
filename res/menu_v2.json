@@ -119,7 +119,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Malabar Chicken Peralan",
@@ -130,7 +130,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Egg Roll",
@@ -141,7 +141,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Tawa Pulao",
@@ -152,7 +152,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
