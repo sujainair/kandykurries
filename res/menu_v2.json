@@ -533,7 +533,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "kookxtra"
+            "status": "old"
           },
           {
             "name": "Dindigul Biryani",
@@ -544,7 +544,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "kookxtra"
+            "status": "old"
           },
           {
             "name": "Kathi Roll",
@@ -555,7 +555,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": "kookxtra"
+            "status": "old"
           },
           {
             "name": "Sambar Rice",
@@ -566,7 +566,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "kookxtra"
+            "status": "old"
           }
         ]
       },
