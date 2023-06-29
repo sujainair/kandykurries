@@ -170,7 +170,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "kookxtra"
+            "status": "old"
           },
           {
             "name": "Goan Fish Curry",
@@ -181,7 +181,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "kookxtra"
+            "status": "old"
           },
           {
             "name": "Sundal",
@@ -192,7 +192,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "kookxtra"
+            "status": "old"
           },
           {
             "name": "Chicken Rice",
@@ -203,7 +203,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": "kookxtra"
+            "status": "old"
           }
         ]
       },
