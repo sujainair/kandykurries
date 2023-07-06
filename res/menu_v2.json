@@ -170,7 +170,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Hyderabadi Lamb Biryani",
@@ -181,7 +181,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Crispy Chilli Chicken",
@@ -192,7 +192,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Bisi Bele Bhaat",
@@ -203,7 +203,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
