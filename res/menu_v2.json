@@ -1,317 +1,5 @@
 {
   "week_1": {
-    "startdate": "10/07",
-    "enddate": "15/07",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "10/07",
-        "full-date": "2023-07-10T00:00:00+0200",
-        "items": [
-          {
-            "name": "Konkani Chawli Usal",
-            "description": "A flavorful Maharashtrian curry made with tender black-eyed beans cooked in a blend of spices, onions, and tomatoes",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Konkani Anda Masala",
-            "description": "A traditional Goan egg curry that features boiled eggs simmered in a flavorful and spicy coconut-based gravy. It is a rich and satisfying dish with a perfect balance of spices, coconut, and tangy flavors.",
-            "price": 13,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Vada Pav",
-            "description": "A famous veggie burger from the streets of Mumbai. The patty is made of boiled potatoes mixed with spices, coated in chickpea flour and fried to perfection. This is stuffed in a bun smeared with spicy green chutney and dry garlic chutney. (2 vada pav)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Goan Ross Omlette",
-            "description": "A comforting food from Goa. Goan chicken curry cooked with coconut, garlic, onion and home made spice mix and topped with an omelette and fresh coriander. Served with 2 pav.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Tuesday",
-        "date": "11/07",
-        "full-date": "2023-07-11T00:00:00+0200",
-        "items": [
-          {
-            "name": "Himachali Mahani",
-            "description": "A staple in Kangri Dhaam also known as Khatta. Mahani is a tangy Himachali curry made with black chicken peas in a flavourful blend of spices.",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Himachali Chha Gosht",
-            "description": "A delicious and hearty Himachali lamb curry that combines tender pieces of lamb with a flavorful blend of spices, yogurt, and aromatic herbs. It is a traditional dish from the mountainous region of Himachal Pradesh in India, known for its robust flavors and comforting taste.",
-            "price": 14,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Sev Puri",
-            "description": "Popular street food of Mumbai. Crispy fried flour dish topped with mashed potato, onions, spicy green chutney, tangy sweet tamrind chutney, sev, fresh coriander and pomogranate seeds. (6 puris)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Puttu & Kadala Curry",
-            "description": "A comforting meal made of steamed rice flour layered with coconut and served with spicy warm black chickpea curry",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Wednesday",
-        "date": "12/07",
-        "full-date": "2023-07-12T00:00:00+0200",
-        "items": [
-          {
-            "name": "Gatte Ki Sabzi",
-            "description": "A traditional Rajasthani curry with chickpea flour dumplings cooked in spicy yogurt based gravy.",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Rajasthani Junglee Maas",
-            "description": "A fiery and rustic meat curry hailing from Rajasthan, India. It is traditionally prepared with succulent pieces of lamb cooked in a spicy marinade of red chili paste, garlic, and a blend of aromatic spices, resulting in a bold and intense flavor profile that is characteristic of Rajasthani cuisine.",
-            "price": 14,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Kolkata Kathi Roll",
-            "description": "Famous street food of Kolkata. Flaky wholewheat flatbread pan cooked and stuffed with egg omlette, spices, picked onions and cucumber made into a roll.",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Lemon Rice",
-            "description": "Rice, cashews, chillies and other spices stir fried together and mixed with lime juice. Served with achar and papad",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Thursday",
-        "date": "13/07",
-        "full-date": "2023-07-13T00:00:00+0200",
-        "items": [
-          {
-            "name": "Paneer Tikka Biryani",
-            "description": "A flavorful and aromatic rice dish that combines the succulent and marinated paneer tikka (grilled cottage cheese) with fragrant basmati rice, spices, and herbs. It is a delicious fusion of Indian flavors, perfect for biryani lovers and vegetarians. Served with raita and papad",
-            "price": 15,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Achari Chicken Biryani",
-            "description": "A flavorful and tangy rice dish that combines the succulent pieces of chicken marinated in a spicy \"achar\" or pickle masala with fragrant basmati rice and aromatic spices. It is a delightful fusion of Indian flavors, where the tanginess of the pickle complements the aromatic biryani, resulting in a delicious and satisfying meal. Served with raita and papad",
-            "price": 16,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Sweet Potato Tikki Chaat",
-            "description": "A delicious and healthy Indian street food snack that consists of crispy sweet potato cutlets (tikkis) topped with a variety of chutneys, yogurt, and spices. The dish is a perfect blend of sweet, tangy, and spicy flavors that make it a popular vegetarian option for chaat lovers. (2 tikki)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Sprouted Moong Ussal",
-            "description": "A nutritious and flavorful dish made with sprouted moong beans. The sprouted moong beans are cooked with a blend of spices, onions, tomatoes, and other ingredients to create a hearty and protein-rich curry. Served with 2 chapati.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Friday",
-        "date": "14/07",
-        "full-date": "2023-07-14T00:00:00+0200",
-        "items": [
-          {
-            "name": "Achari Paneer Channa Pulao",
-            "description": "Chickpeas and Indian cottage cheese cooked with onion, garlic, ginger and pickling spices mixed with aromatic basmati rice topped with fresh coriander. Served with yogurt dip + achar + papad",
-            "price": 15,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Pork Bafat Masala",
-            "description": "Pork cooked with onions, ginger, chillies, garlic and spicy bafat masala. A Manglorean dish definitely worth trying.",
-            "price": 14,
-            "extra": "make it a meal with 2 parathas/rice + side salad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Paneer Chilli",
-            "description": "Stir fried cubed paneer (cottage cheese) with diced bell peppers, onions, and chilies in a spicy and flavorful sauce. It is a popular spicy and savoury Indo-Chinese dish.",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Green Peas Pulao",
-            "description": "A fragrant and flavorful rice dish prepared with basmati rice and green peas. The rice is cooked with aromatic spices, onions, and peas, resulting in a vibrant and delicious pulao.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Saturday",
-        "date": "15/07",
-        "full-date": "2023-07-15T00:00:00+0200",
-        "items": [
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": ""
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": ""
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": ""
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": ""
-          }
-        ]
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "17/07",
     "enddate": "22/07",
     "menu": [
@@ -594,6 +282,318 @@
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "24/07",
+    "enddate": "29/07",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "24/07",
+        "full-date": "2023-07-24T00:00:00+0200",
+        "items": [
+          {
+            "name": "Oriya Ghanta Tarkari",
+            "description": "This vegetarian dish hails from Odisha. Veggies cooked in a special five spice mix tempered with cumin, chilli and coriander.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Chingudi Malai Tarkari",
+            "description": "A popular Odia dish made with prawns cooked in a coconut milk based gravy along with spices.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Beetroot & Aloo Tikki",
+            "description": "A popular Indian snack made with a mixture of grated beetroot and boiled potatoes, spiced with a blend of aromatic spices, and then shaped into small patties.(4 tikkis)",
+            "price": 6,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Kheema Pav",
+            "description": "Minced chicken cooked with onions, tomato, green peas and spices topped with fresh garam masala and coriander for the zing. Served with 2 buns and green chutney",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "date": "25/07",
+        "full-date": "2023-07-25T00:00:00+0200",
+        "items": [
+          {
+            "name": "Moore Kulumbu",
+            "description": "A popular South Indian style gravy dish made with pumkin, yogurt and coconut, and flavored with tempered mustard and dry red chilli and curry leaves.",
+            "price": 12,
+            "extra": "make it a meal with rice + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Lamb Stew",
+            "description": "An aromatic and soul-satisfying dish made with lamb slow-cooked in coconut milk and a blend of spices, including cinnamon, cardamom, and cloves.",
+            "price": 14,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Mysore Bonda",
+            "description": "Whole wheat flour mixed with curd, chillies, salt and curry leaves and shapped into balls and deep fried. Served with a side of coconut chutney. (5 pieces)",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Dal Kichidi",
+            "description": "Rice with yellow lentils, garlic, chilles and tomato pressure cooked together and topped with chilles and spicy tadka. Served with papad + achar",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "date": "26/07",
+        "full-date": "2023-07-26T00:00:00+0200",
+        "items": [
+          {
+            "name": "Paneer Jalfrezi",
+            "description": "A spicy and flavorful Indian dish made with paneer (cottage cheese) and mixed vegetables stir-fried in a masala sauce",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Murg Kali Mirch",
+            "description": "A delightful Punjabi chicken dish where juicy and succulent chicken pieces are cooked in a thick gravy made with yogurt and a generous amount of black pepper giving it a spicy and aromatic flavor.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Paneer Chilli",
+            "description": "Stir fried cubed paneer (cottage cheese) with diced bell peppers, onions, and chilies in a spicy and flavorful sauce. It is a popular spicy and savoury Indo-Chinese dish.",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Coconut Rice",
+            "description": "Aromatic basmati rice cooked in ghee with cashew, curry leaves, dried chilli and fresh coconut, tempered with mustard seeds",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "date": "27/07",
+        "full-date": "2023-07-27T00:00:00+0200",
+        "items": [
+          {
+            "name": "Malai Kofta",
+            "description": "A curried vegetarian dish with crispy fired balls made of potato & Indian cottage cheese in a creamy, smooth, rich sauce",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Anda Biryani",
+            "description": "A popular Indian dish made with fragrant basmati rice and boiled eggs that are cooked with aromatic biryani spices and herbs. Served with yogurt raita + papad",
+            "price": 14,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Veg Frankie",
+            "description": "Indian street food made by rolling spiced vegetables, mashed potatoes, and a variety of toppings inside a wrap or roti.",
+            "price": 6,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Vangi Bhaat",
+            "description": "A traditional Maharashtrian dish made by cooking rice with eggplants and a blend of spices. A flavorful and filling dish.",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "date": "28/07",
+        "full-date": "2023-07-28T00:00:00+0200",
+        "items": [
+          {
+            "name": "Holiday",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Holiday",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Holiday",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Holiday",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "date": "29/07",
+        "full-date": "2023-07-29T00:00:00+0200",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
             "category": "regular",
             "status": ""
           },
