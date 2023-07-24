@@ -1,317 +1,5 @@
 {
   "week_1": {
-    "startdate": "17/07",
-    "enddate": "22/07",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "17/07",
-        "full-date": "2023-07-17T00:00:00+0200",
-        "items": [
-          {
-            "name": "Chettinad Vegetable Korma",
-            "description": "A delicious spiced gravy dish from Chettinad region in Tamil Nadu. It is made with a mix of vegetables, nuts, seeds, and flavorful spices like cinnamon, clove, and cardamom.",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Chettinad Chicken",
-            "description": "A recipe from the regions of Chettinad in the South of India. Chicken cooked with onion & tomato and lot of fresh pepper making it a fiery and lip smaking meal.",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas or rice + side salad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Rice Pakodas",
-            "description": "Rice is mixed with besan (gram flour), chopped vegetables, and a blend of spices, then deep-fried to crispy perfection. (6 pieces)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Sambar Rice",
-            "description": "A comfort meal from the south of India. Lentils and veggies cooked together with tamarind, and freshly made sambar masala tempered with mustard seeds and curry leaves. Served with rice + papad",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Tuesday",
-        "date": "18/07",
-        "full-date": "2023-07-18T00:00:00+0200",
-        "items": [
-          {
-            "name": "Bihari Aloo Dum",
-            "description": "A traditional potato dish from the Bihar, where the potatoes are cooked in a spicy tomato and onion-based gravy. This classic Bihari dish features tender potatoes in a rich and aromatic sauce that is sure to satisfy.",
-            "price": 10,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Bihari Chicken Curry",
-            "description": "A spicy and flavorful dish from Bihar. It is made with marinated chicken cooked in a rich and aromatic gravy made with a blend of spices like cumin, corriander, ginger, garlic and mustard oil, giving it a distinct and delicious flavor",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas or rice + side salad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Potato Garlic Bites",
-            "description": "Crispy, bite-sized snacks made with mashed potatoes, spices, and chopped garlic, then coated in breadcrumbs and deep-fried to golden-brown perfection.",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          },
-          {
-            "name": "Tamarind Rice",
-            "description": "Rice mixed with tamarind juice, peanut and spices, topped with curry leaves. Served with papad.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Wednesday",
-        "date": "19/07",
-        "full-date": "2023-07-19T00:00:00+0200",
-        "items": [
-          {
-            "name": "Kale Vatana Usal",
-            "description": "Maharashtrian dish that consists of black peas cooked in a spicy, tangy gravy. A flavorful curry made with black peas, coconut, and a blend of aromatic spices.",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Malvani Fish Curry",
-            "description": "A spicy and flavorful traditional fish curry from the coastal region of Maharashtra that uses freshly ground Malvani masala. It is a must-try for anyone who loves seafood and bold flavors.",
-            "price": 14,
-            "extra": "make it a meal with rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Mix Veg Cutlet",
-            "description": "A popular Indian snack made with a blend of boiled vegetables, spices, and breadcrumbs, shaped into patties, and shallow-fried until golden and crispy. (4 cutlets)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Sarva Pindi",
-            "description": "A dish from Telangana. Lentil mixed with rice flour, chillies, garlic and spices, mixed together and flattened and cooked on a pan. Served with a side of onion tomato chutney. (4 pieces)",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Thursday",
-        "date": "20/07",
-        "full-date": "2023-07-20T00:00:00+0200",
-        "items": [
-          {
-            "name": "Vegetable Biryani",
-            "description": "A classic Indian dish made with rice, flavorful spices, and a variety of vegetables. This aromatic and delicious dish is perfect for vegetarians. Served with yogurt raita + achar + papad.",
-            "price": 13,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Bohri Lamb Biryani",
-            "description": "A signature dish of the Bohri community made with tender lamb and fragrant spices. This flavorful biryani is a must-try for anyone who loves traditional Indian cuisine. Served with raita + achar + papad.",
-            "price": 16,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Dahi Bhalle",
-            "description": "A street food dish from Delhi. Fried lentil balls topped with chillies & spiced yogurt, spicy green chutney, sweet tangy chutney and crispy boondi. (3 bhalle)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Puttu & Kadala Curry",
-            "description": "A comforting meal made of steamed rice flour layered with coconut and served with spicy warm black chickpea curry.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Friday",
-        "date": "21/07",
-        "full-date": "2023-07-21T00:00:00+0200",
-        "items": [
-          {
-            "name": "Maharastrian Veg Thali",
-            "description": "A vegetarian feast from the state of Maharashtra. It consists of 3 main dishes: ussal chi bhaji (moong bean curry), bharlele vangi (stuffed baby eggplants) & maharashtrian style dal. To complete the feast, sol kadhi (a refreshing coconut milk based drink), koshimbir (spiced side salad), achar, papad, 2 chapati & rice.",
-            "price": 24,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Maharashtrian Chicken Thali",
-            "description": "A non-veg feast from the state of Maharashtra. It consists of 3 main dishes: maharashtrian style chicken masala, chicken sukka & chicken rassa. To complete the feast, sol kadhi (a refreshing coconut milk based drink), koshimbir (spiced side salad), achar, papad, 2 chapati & rice.",
-            "price": 26,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Bharlele Vangi",
-            "description": "A delicious Maharashtrian dish made with stuffed baby eggplants cooked in a spicy masala curry. Served with 2 chapatis.",
-            "price": 12,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Maharashrian Style Chicken Masala",
-            "description": "A flavorful and spicy chicken curry dish from the state of Maharashtra, made with a blend of traditional Maharashtrian spices. Served with rice or 2 chapatis",
-            "price": 12,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Saturday",
-        "date": "22/07",
-        "full-date": "2023-07-22T00:00:00+0200",
-        "items": [
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "24/07",
     "enddate": "29/07",
     "menu": [
@@ -594,6 +282,318 @@
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "31/07",
+    "enddate": "05/08",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "31/07",
+        "full-date": "2023-07-31T00:00:00+0200",
+        "items": [
+          {
+            "name": "Goan Khatkhate",
+            "description": "A comforting spiced vegetarian dish cooked with lentils, coconut, spices and kokum",
+            "price": 12,
+            "extra": "make it a meal with rice + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Goan Prawns Curry",
+            "description": "A flavorful dish made with succulent prawns simmered in a fragrant blend of spices and coconut milk, creating a rich and creamy curry.",
+            "price": 13,
+            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Sabudana Punglu",
+            "description": "A deep-fried snack made from soaked and seasoned sago pearls mixed with mashed potatoes, herbs, and spices, creating crispy and flavorful fritters. (8 pieces)",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Goan Ross Omlette",
+            "description": "A comforting food from Goa. Goan chicken curry cooked with coconut, garlic, onion and home made spice mix and topped with an omelette and fresh coriander. Served with 2 pav.",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "date": "01/08",
+        "full-date": "2023-08-01T00:00:00+0200",
+        "items": [
+          {
+            "name": "Plantain Curry",
+            "description": "A delicious dish made with plantains (raw banana) that are cooked in a flavorful blend of spices, such as turmeric, cumin, and coriander, along with onions, tomatoes, coconut.",
+            "price": 12,
+            "extra": "make it a meal with rice + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Kube Sukke",
+            "description": "Mangalorean dish where fresh clams are cooked with aromatic spices, coconut, and a tangy tamarind base, creating a flavorful and lip-smacking seafood curry.",
+            "price": 14,
+            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Bondas",
+            "description": "A popular South Indian snack made by deep-frying a batter of mashed potatoes, onions, and spices, resulting in crispy and flavorful fritters. (4 bonda)",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Bisi Bele Bhaat",
+            "description": "A comforting meal with veggies, lentils, garlic and bisli masala topped with curry leaves and ghee.",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "date": "02/08",
+        "full-date": "2023-08-02T00:00:00+0200",
+        "items": [
+          {
+            "name": "Chana Madra",
+            "description": "A popular Himachali dish featuring chickpeas cooked in a rich and creamy yogurt gravy, flavored with aromatic spices like cumin, cloves, and cinnamon, resulting in a delightful and comforting vegetarian curry.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Pahadi Chicken",
+            "description": "Chicken curry cooked with ginger, fennel, garlic, onions, yogurt  with fresh roasted masala",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Ragada Patice",
+            "description": "Mashed potatoes patty crispy fried and served with green pea churry smiriled with tangy, sweet and spicy chutney. (2 patice)",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Baigan Bharta",
+            "description": "A traditional Indian dish where roasted eggplant is mashed and cooked with a blend of aromatic spices, tomatoes, onions, and garlic, creating a smokey and flavorful vegetarian delight. Served with 2 roti.",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "date": "03/08",
+        "full-date": "2023-08-03T00:00:00+0200",
+        "items": [
+          {
+            "name": "Kabuli Chana pulao",
+            "description": "A flavorful rice dish where aromatic basmati rice is cooked with tender chickpeas, aromatic spices, and fragrant herbs, creating a delicious and satisfying one-pot meal. Served with side of yogurt raita + achar + papad.",
+            "price": 13,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Champaran Lamb Curry",
+            "description": "A dish from the nothern part of India with spicy flavourful lamb pieces cooked together with chillies, garlic, ginger and freshly ground spies, slow cooked on low flame to perfection.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas/rice + side salad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Sundal",
+            "description": "A popular South Indian snack made with chickpeas and coconut packed with a lot of flavour.",
+            "price": 6,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Tomato Rice",
+            "description": "Rice cooked with onions & tomato, tempered with mustard seeds, peanuts and fresh curry leaves. Served with papad.",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "date": "04/08",
+        "full-date": "2023-08-04T00:00:00+0200",
+        "items": [
+          {
+            "name": "Veg Pot Rice",
+            "description": "A wholesome and nutritious dish made with a variety of colorful vegetables, fragrant rice, and aromatic spices, all cooked together in a single pot, resulting in a flavorful and satisfying vegetarian meal ",
+            "price": 13,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Chicken Pot Rice",
+            "description": "A one-pot meal that combines succulent chicken, fragrant rice, and a medley of vegetables, cooked together in a flavorful broth, resulting in a hearty and satisfying dish.",
+            "price": 15,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Papadi Chaat",
+            "description": "A popular street food of India. Mini puris topped with mashed potato, onion, tomato, spicy green chutney, sweet tangy tamrind chutney, lots of sev and fresh coriander. A dish with a flavour bomb!",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Rajma Chawal",
+            "description": "Red kidney beans cooked in a flavourful gravy with onion, tomato, ginger, garlic and spices and topped with fresh garam masala and coriander. Served with steamy rice and papad.",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "date": "05/08",
+        "full-date": "2023-08-05T00:00:00+0200",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
             "category": "regular",
             "status": ""
           },
