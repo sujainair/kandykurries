@@ -380,7 +380,7 @@
             "insta-link": "https://www.instagram.com/p/CS1fOzXM0N3",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Regular Veg Meal",
@@ -391,7 +391,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "",
@@ -402,7 +402,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "",
@@ -413,7 +413,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
