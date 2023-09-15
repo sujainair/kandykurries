@@ -372,31 +372,31 @@
         "full-date": "2023-09-19T00:00:00+0200",
         "items": [
           {
-            "name": "Vegetarian Jadoh",
-            "description": "A delicious Northeast Indian rice dish made with aromatic spices and mix vegetables, offering a flavorful meal. Served with raita + papad.",
-            "price": 13,
+            "name": "Fully Booked",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "closed"
           },
           {
-            "name": "Khasi Pork and Pumkin Curry",
-            "description": "A traditional north-east Indian dish combining tender pork and sweet pumpkin in a fragrant spice-infused gravy, creating a harmonious blend of flavors.",
-            "price": 14,
-            "extra": "make it a meal with 2 parathas + side salad + achar",
-            "extra-price": 2,
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Vada Pav",
-            "description": "A famous veggie burger from the streets of Mumbai. The patty is made of boiled potatoes mixed with spices, coated in chickpea flour and fried to perfection. This is stuffed in a bun smeared with spicy green chutney and dry garlic chutney. (2 vada pav)",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -405,9 +405,9 @@
             "status": ""
           },
           {
-            "name": "Coconut Rice",
-            "description": "Aromatic basmati rice cooked in ghee with cashew, curry leaves, dried chilli and fresh coconut, tempered with mustard seeds.",
-            "price": 10,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
