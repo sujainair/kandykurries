@@ -1,317 +1,5 @@
 {
   "week_1": {
-    "startdate": "09/10",
-    "enddate": "14/10",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "09/10",
-        "full-date": "2023-10-09T00:00:00+0200",
-        "items": [
-          {
-            "name": "Malvani Jowari Dhirde",
-            "description": "A gluten-free Maharashtrian pancake made from jowar (sorghum) flour, mixed with onions, green chilies, and spices, then cooked to perfection on a griddle, resulting in a delicious crepe. This dish is served with a side of malvani rassa.",
-            "price": 13,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Kolambi Bhaat",
-            "description": "Flavourful prawns cooked with ginger, garlic, onion and other spices combined with aromatic basmati rice and fresh coriander served wih yogurt dip + papad + achar",
-            "price": 15,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Mini Bread Pakoda",
-            "description": "A bit sized snack made of two slices of bread sandwiching a flavorful potato stuffing, which is then coated in a spiced gram flour batter and deep-fried. (4 pieces/1 sandwich)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Vangi Bhaat",
-            "description": "A traditional Maharashtrian dish made by cooking rice with eggplants and a blend of spices. A flavorful and filling dish.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Tuesday",
-        "date": "10/10",
-        "full-date": "2023-10-10T00:00:00+0200",
-        "items": [
-          {
-            "name": "Kerala Style Sambar",
-            "description": "A delicious and aromatic South Indian lentil-based stew, known for its unique flavors. It's made with toor dal (split pigeon peas) and a variety of vegetables like drumsticks, okra, and eggplant. The key to its distinctive taste lies in the use of homemade sambar powder, which includes spices like fenugreek, coriander, and red chilies.",
-            "price": 10,
-            "extra": "make it a meal with rice + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Pathiri Lamb Stew",
-            "description": "A delicious and mildly spiced stew from the South Indian state of Kerala. It's a comforting dish made with tender pieces of lamb cooked in a creamy and aromatic coconut milk-based gravy. The stew is often flavored with spices like cinnamon, cloves, and cardamom, and it includes vegetables such as potatoes and carrots.",
-            "price": 13,
-            "extra": "make it a meal with 2 rice flour flatbread + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Rava Unniappam",
-            "description": "A South Indian snack made from semolina (rava), onion, curry leaves and tempered with spices. It's a sweet and fluffy deep-fried dumpling with a crispy exterior and a soft, spongy interior. (7 pieces)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Pulisherry",
-            "description": "A tangy and mildly spiced yogurt-based dish made with cucumber. The curry includes a mix of coconut, green chilies, and spices blended with yogurt, creating a creamy and flavorful sauce. Served with rice",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Wednesday",
-        "date": "11/10",
-        "full-date": "2023-10-11T00:00:00+0200",
-        "items": [
-          {
-            "name": "Bengali Aloo Dum",
-            "description": "A Bengali dish made by simmering potatoes in a gravy of tomatoes, ginger, garlic and a variety of spices",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Country Chicken (Dak Bungalow)",
-            "description": "Chicken pieces cooked in a rich and mildly spiced gravy with tomatos, onions, and various spices. It also includes potatos, egg, ginger, garlic and fresh herbs.",
-            "price": 13,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Aloo Kabli",
-            "description": "It consists of boiled and cubed potatoes (aloo) mixed with cooked chickpeas (kabli or chana) and a medley of spices and chutneys. The dish is typically garnished with chopped onions, tomatos, corriander and a squeeze of lemon, creating a flavorful and tangy combination.",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Bhate Bhat",
-            "description": "A popular Bengali dish made with boiled vegetables and rice. The vegetables are boiled with rice and then taken out of the rice and mashed with either mustard oil or ghee.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Thursday",
-        "date": "12/10",
-        "full-date": "2023-10-12T00:00:00+0200",
-        "items": [
-          {
-            "name": "Kashmiri Veg Yakhni Pulao",
-            "description": "A fragrant rice dish cooked with mixed vegetables and a yogurt-based gravy infused with aromatic spices, offering a delightful vegetarian variation of the traditional Kashmiri pulao. Served with salan + papad + achar.",
-            "price": 14,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Lamb Yakhni Pulao",
-            "description": "A delicious and aromatic rice dish that is popular in Indian and Pakistani cuisine. The dish is made with tender lamb that has been slow-cooked in a flavorful broth (yakhni) made with aromatic spices and yogurt. The lamb and yakhni are then combined with fragrant basmati rice and cooked until tender, resulting in a flavorful and satisfying meal. Served with achar + papad.",
-            "price": 16,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Nadur Munji",
-            "description": "A traditional Kashmiri dish made from lotus stem slices coated in a spiced gram flour batter and deep-fried until crispy and golden brown.",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Kashmiri Rajma Chawal",
-            "description": "A delicious and aromatic dish from the Kashmiri cuisine. It features red kidney beans (rajma) cooked in a rich and flavorful gravy made with a blend of spices, yogurt and tomatoes.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Friday",
-        "date": "13/10",
-        "full-date": "2023-10-13T00:00:00+0200",
-        "items": [
-          {
-            "name": "Fully Booked",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "closed"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Saturday",
-        "date": "14/10",
-        "full-date": "2023-10-14T00:00:00+0200",
-        "items": [
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "16/10",
     "enddate": "21/10",
     "menu": [
@@ -574,6 +262,318 @@
         "day": "Saturday",
         "date": "21/10",
         "full-date": "2023-10-21T00:00:00+0200",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "23/10",
+    "enddate": "28/10",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "23/10",
+        "full-date": "2023-10-23T00:00:00+0200",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "date": "24/10",
+        "full-date": "2023-10-24T00:00:00+0200",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "date": "25/10",
+        "full-date": "2023-10-25T00:00:00+0200",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "date": "26/10",
+        "full-date": "2023-10-26T00:00:00+0200",
+        "items": [
+          {
+            "name": "Dahi Baigana",
+            "description": "A traditional Odia (Orissa) dish made with fried eggplant pieces simmered in a spiced yogurt gravy, often garnished with coriander leaves",
+            "price": 10,
+            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Chingudi Malai",
+            "description": "A delicious Odia (Oriya) seafood dish featuring prawns cooked in a creamy coconut milk sauce, flavored with aromatic spices, making it a rich and flavorful coastal delicacy.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Rajma ke Kebab",
+            "description": "Savory vegetarian patties made from mashed kidney beans (rajma), mixed with spices, herbs, and breadcrumbs. (4 pieces)",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Anda Ghotala",
+            "description": "A popular Indian street food dish made from scrambled eggs and various spices. It includes onions, tomatoes & green chilies. The eggs are scrambled together with these ingredients, creating a flavorful and spicy egg dish. Served with pav.",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "date": "27/10",
+        "full-date": "2023-10-27T00:00:00+0200",
+        "items": [
+          {
+            "name": "Veg Chopper Rice",
+            "description": "Indo-Chinese dish made by cooking chopped vegetables like carrots, beans and cabbage along with rice and a blend of spices. It is topped with a spicy flavourful mix veg Indo-chinese gravy.",
+            "price": 14,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Chicken Chopper Rice",
+            "description": "Chicken chopper rice is a dish made by cooking egg and chopped vegetables like carrots, beans and cabbage along with rice and a blend of spices. It is a popular main course dish served with a spicy delicious chicken gravy on top of the rice.",
+            "price": 14,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Soya Cutlet",
+            "description": "A vegetarian snack or appetizer made from soy granules with various spices, herbs, and binding agents like bread crumbs, and then they are shaped into patties and shallow fried. (4 peices)",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Palak Rice",
+            "description": "A nutritious and flavorful Indian dish made by cooking spinach (palak) and rice together with a blend of aromatic spices and herbs.",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "date": "28/10",
+        "full-date": "2023-10-28T00:00:00+0200",
         "items": [
           {
             "name": "",
