@@ -482,7 +482,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Chingudi Malai",
@@ -493,7 +493,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Rajma ke Kebab",
@@ -504,7 +504,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Anda Ghotala",
@@ -515,7 +515,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
