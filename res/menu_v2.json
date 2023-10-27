@@ -372,15 +372,15 @@
         "full-date": "2023-10-31T00:00:00+0100",
         "items": [
           {
-            "name": "Phool Patasha",
-            "description": "A traditional Sindhi dish made with dried lotus seed, peas and potatoes in a flavourful gravy and sindhi garam masala.",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
+            "name": "Fully Booked",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "closed"
           },
           {
             "name": "Sindhi Lamb Curry",
