@@ -221,7 +221,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Chicken Fried Rice",
@@ -232,7 +232,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Chicken 65",
@@ -243,7 +243,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Puliodarai",
@@ -254,7 +254,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "full"
           }
         ]
       },
@@ -313,7 +313,7 @@
   },
   "week_2": {
     "startdate": "13/11",
-    "enddate": "17/11",
+    "enddate": "18/11",
     "menu": [
       {
         "day": "Monday",
@@ -329,7 +329,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Goan Prawns Caldin",
@@ -340,7 +340,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Garlic Potato Bites",
@@ -351,7 +351,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Missal Pav",
@@ -362,7 +362,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "full"
           }
         ]
       },
@@ -521,8 +521,8 @@
       },
       {
         "day": "Friday",
-        "date": "",
-        "full-date": "1970-01-01T00:00:00+0100",
+        "date": "17/11",
+        "full-date": "2023-11-17T00:00:00+0100",
         "items": [
           {
             "name": "Burnt Garlic Fried Rice",
@@ -533,7 +533,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": "full"
           },
           {
             "name": "Chicken Burnt Garlic Fried Rice",
@@ -544,7 +544,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": "full"
           },
           {
             "name": "Bread Chaat",
@@ -555,7 +555,7 @@
             "insta-link": "",
             "veg_non-veg": "",
             "category": "",
-            "status": "old"
+            "status": "full"
           },
           {
             "name": "Coconut Rice",
@@ -566,14 +566,14 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": "full"
           }
         ]
       },
       {
         "day": "Saturday",
-        "date": "17/11",
-        "full-date": "2023-11-17T00:00:00+0100",
+        "date": "18/11",
+        "full-date": "2023-11-18T00:00:00+0100",
         "items": [
           {
             "name": "",
