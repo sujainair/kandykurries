@@ -340,7 +340,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Garlic Potato Bites",
@@ -351,7 +351,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Missal Pav",
@@ -362,7 +362,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "full"
+            "status": "old"
           }
         ]
       },
