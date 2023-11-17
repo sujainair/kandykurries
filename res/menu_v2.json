@@ -544,7 +544,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Bread Chaat",
@@ -555,7 +555,7 @@
             "insta-link": "",
             "veg_non-veg": "",
             "category": "",
-            "status": "full"
+            "status": "old"
           },
           {
             "name": "Coconut Rice",
@@ -566,7 +566,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "full"
+            "status": "old"
           }
         ]
       },
