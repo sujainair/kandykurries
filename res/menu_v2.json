@@ -452,18 +452,18 @@
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
-            "category": "snack",
+            "category": "mini",
             "status": ""
           },
           {
             "name": "Kootu Curry",
-            "description": "A mixed vegetable curry made with ingredients like black chickpeas, yam, raw banana, coconut, and various spices. Served with rice.",
+            "description": "A mixed vegetable curry made with ingredients like black chickpeas, yam, plaintain, coconut, and various spices. Served with rice.",
             "price": 10,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
-            "category": "regular",
+            "category": "mini",
             "status": ""
           }
         ]
