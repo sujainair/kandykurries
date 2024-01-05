@@ -221,7 +221,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": "old"
           },
           {
             "name": "Chicken Chilli Garlic Stir Fried Noodles",
@@ -232,7 +232,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": "old"
           },
           {
             "name": "Chicken Chilli",
@@ -243,7 +243,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": "available"
+            "status": "old"
           },
           {
             "name": "Tomato Rice",
@@ -254,7 +254,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": "old"
           }
         ]
       },
