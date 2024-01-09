@@ -380,7 +380,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": "old"
           },
           {
             "name": "Hyderabadi Chicken Korma",
@@ -391,7 +391,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": "old"
           },
           {
             "name": "Paneer 65",
@@ -402,7 +402,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "available"
+            "status": "old"
           },
           {
             "name": "Hyderabadi Khatti Dal and Chawal",
@@ -413,7 +413,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": "old"
           }
         ]
       },
