@@ -431,7 +431,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "available"
+            "status": "old"
           },
           {
             "name": "Chicken Changezi",
@@ -442,7 +442,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "available"
+            "status": "old"
           },
           {
             "name": "Moong Dal Bhajiya",
@@ -453,7 +453,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "available"
+            "status": "old"
           },
           {
             "name": "Phodni Bhaat",
@@ -464,7 +464,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "available"
+            "status": "old"
           }
         ]
       },
