@@ -525,20 +525,20 @@
         "full-date": "2024-04-05T00:00:00+0200",
         "items": [
           {
-            "name": "Veg Dhansak",
-            "description": "A wholesome Parsi dish made with a mix vegetables and lentils cooked together with fresh spices and topped with fresh coriander.",
-            "price": 12,
-            "extra": "make it a meal with rice + side salad + achar + papad",
-            "extra-price": 2,
+            "name": "holiday",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Chicken Berry Pulao",
-            "description": "A popular Parsi dish that is a delicious blend of sweet and savory flavors. The dish is made with fragrant basmati rice, tender chicken, and a variety of aromatic spices. The pulao is then topped with a mix of sweet and tangy berries, caramelized onions, and nuts, giving it a beautiful and unique taste. Served with raita + achar + papad.",
-            "price": 14,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -547,9 +547,9 @@
             "status": ""
           },
           {
-            "name": "Eda Chutney na Pattice",
-            "description": "A traditional Parsi dish consisting of hard boiled eggs (Eda) sandwiched between two layers of mashed potatoes, coated in breadcrumbs, and then shallow-fried until golden brown and crispy.",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -558,9 +558,9 @@
             "status": ""
           },
           {
-            "name": "Pudhina Rice",
-            "description": "A flavorful South Indian dish where cooked rice is tossed with a fragrant blend of mint leaves, spices, and other ingredients like peas and cashews. ",
-            "price": 10,
+            "name": "Holiday",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
