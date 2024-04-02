@@ -525,7 +525,7 @@
         "full-date": "2024-04-05T00:00:00+0200",
         "items": [
           {
-            "name": "holiday",
+            "name": "Holiday",
             "description": "",
             "price": "",
             "extra": "",
@@ -533,7 +533,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "closed"
           },
           {
             "name": "",
@@ -558,7 +558,7 @@
             "status": ""
           },
           {
-            "name": "Holiday",
+            "name": "",
             "description": "",
             "price": "",
             "extra": "",
