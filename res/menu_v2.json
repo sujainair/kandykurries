@@ -68,7 +68,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Kumro Chingri",
@@ -79,7 +79,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Aloo Chop",
@@ -90,7 +90,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Matar Pulao",
@@ -101,7 +101,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
