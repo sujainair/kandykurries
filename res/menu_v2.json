@@ -232,7 +232,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Chinese Bhel",
@@ -243,7 +243,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "full"
           },
           {
             "name": "Mushroom Fried Rice",
@@ -254,7 +254,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "full"
           }
         ]
       },
