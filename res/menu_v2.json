@@ -9,31 +9,31 @@
         "full-date": "2024-05-20T00:00:00+0200",
         "items": [
           {
-            "name": "Bhindi Masala",
-            "description": "A popular north Indian dish made with okra cooked in a tomato based sauce with a blend of aromatic spices.",
-            "price": 10,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
+            "name": "Closed",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "closed"
           },
           {
-            "name": "Khatta Meetha Chicken",
-            "description": "A flavorful Indian dish that combines sweet and tangy elements in a rich, spiced chicken curry. It's known for its balanced taste, achieved by using ingredients like raw mango slices for tangy flavour and ripe mango puree for sweetness and a blend of aromatic spices.",
-            "price": 13,
-            "extra": "make it a meal with 2 parathas + side salad + achar + papad",
-            "extra-price": 2,
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Pinewheel Samosa",
-            "description": "A savory Indian snack that features a spiced potato filling rolled into a flaky pastry dough, sliced and baked to create a pinwheel shape. (6 pieces)",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -42,9 +42,9 @@
             "status": ""
           },
           {
-            "name": "Aloo Paratha",
-            "description": "Wholewheat Indian flatbread stuffed with a mixture of mashed potato, chillies and spices. Served with achar and a side of onion-tomato chutney. (2 parathas)",
-            "price": 10,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
