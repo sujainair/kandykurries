@@ -28,7 +28,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "",
@@ -39,7 +39,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "",
@@ -50,7 +50,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
@@ -525,42 +525,42 @@
         "full-date": "2024-05-31T00:00:00+0200",
         "items": [
           {
-            "name": "Kashmiri Paneer Kalai",
-            "description": "A traditional Kashmiri dish featuring paneer (Indian cottage cheese) cooked in a rich, creamy gravy flavored with Kashmiri spices such as saffron, cardamom, and cloves. This dish is known for its luxurious texture and delicate flavors",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Lamb Yakhni Pulao",
-            "description": "A delicious and aromatic rice dish that is popular in Indian and Pakistani cuisine. The dish is made with tender lamb that has been slow-cooked in a flavorful broth (yakhni) made with aromatic spices and yogurt. The lamb and yakhni are then combined with fragrant basmati rice and cooked until tender, resulting in a flavorful and satisfying meal. Served with achar + papad.",
-            "price": 16,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "closed"
           },
           {
-            "name": "Paneer Pakoda",
-            "description": "A popular Indian snack made with paneer (Indian cottage cheese) that is coated in a spiced gram flour batter and deep-fried to crispy perfection.",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": ""
+            "status": "closed"
           },
           {
-            "name": "Veg Pulao",
-            "description": "Mixed vegtables cooked with whole spices and teamed with fragant basmati rice, caramalised onion and cashew nuts. Served with papad.",
-            "price": 10,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
