@@ -329,7 +329,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Kid Gosht",
@@ -340,7 +340,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Russian Pattice",
@@ -351,7 +351,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Bharuchi Akuri",
@@ -362,7 +362,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
