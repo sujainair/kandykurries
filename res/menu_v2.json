@@ -380,7 +380,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Lal Mirch Kheema",
@@ -391,7 +391,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Shami Kebab",
@@ -402,7 +402,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": ""
+            "status": "old"
           },
           {
             "name": "Dal Kichidi",
@@ -413,7 +413,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": ""
+            "status": "old"
           }
         ]
       },
