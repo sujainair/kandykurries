@@ -9,57 +9,6 @@
         "full-date": "2024-09-09T00:00:00+0200",
         "items": [
           {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": ""
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": ""
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": ""
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": ""
-          }
-        ]
-      },
-      {
-        "day": "Tuesday",
-        "date": "10/09",
-        "full-date": "2024-09-10T00:00:00+0200",
-        "items": [
-          {
             "name": "Masoorchi Usal",
             "description": "A flavourful Maharashtrian dish made with red lentils, onion, ginger and garlic. Spiced with a mix of traditional masalas.",
             "price": 12,
@@ -106,9 +55,9 @@
         ]
       },
       {
-        "day": "Wednesday",
-        "date": "11/09",
-        "full-date": "2024-09-11T00:00:00+0200",
+        "day": "Tuesday",
+        "date": "10/09",
+        "full-date": "2024-09-10T00:00:00+0200",
         "items": [
           {
             "name": "",
@@ -157,9 +106,9 @@
         ]
       },
       {
-        "day": "Thursday",
-        "date": "12/09",
-        "full-date": "2024-09-12T00:00:00+0200",
+        "day": "Wednesday",
+        "date": "11/09",
+        "full-date": "2024-09-11T00:00:00+0200",
         "items": [
           {
             "name": "Kerala Kadala Curry",
@@ -190,7 +139,7 @@
             "extra": "",
             "extra-price": "",
             "insta-link": "",
-            "veg_non-veg": "non-veg",
+            "veg_non-veg": "veg",
             "category": "snack",
             "status": ""
           },
@@ -208,9 +157,9 @@
         ]
       },
       {
-        "day": "Friday",
-        "date": "13/09",
-        "full-date": "2024-09-13T00:00:00+0200",
+        "day": "Thursday",
+        "date": "12/09",
+        "full-date": "2024-09-12T00:00:00+0200",
         "items": [
           {
             "name": "",
@@ -241,7 +190,7 @@
             "extra": "",
             "extra-price": "",
             "insta-link": "",
-            "veg_non-veg": "veg",
+            "veg_non-veg": "non-veg",
             "category": "snack",
             "status": ""
           },
@@ -249,6 +198,57 @@
             "name": "",
             "description": "",
             "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "date": "13/09",
+        "full-date": "2024-09-13T00:00:00+0200",
+        "items": [
+          {
+            "name": "Gatte Ki Sabzi",
+            "description": "A traditional Rajasthani curry with chickpea flour dumplings cooked in spicy yogurt based gravy.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Safed Maas",
+            "description": "A mildly spiced Rajasthani dish made of lamb cooked in a creamy, yogurt based gravy with a special blend of spices.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas/rice + side salad + achar + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Kurkuri Aloo Wrap",
+            "description": "A delicious Indian snack made with crispy fried potatoes (kurkuri aloo) wrapped in a soft roti or tortilla. The wrap is typically filled with tangy sauces, fresh veggies, and spices, offering a perfect balance of crunch and flavor",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Panchmel Dal aur Chawal",
+            "description": "A traditional Rajasthani lentil dish made from a mix of five types of lentils . The dish is cooked with spices, tomatoes, resulting in a hearty and flavorful curry.\nServed with a portion of rice.",
+            "price": 10,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -321,31 +321,31 @@
         "full-date": "2024-09-16T00:00:00+0200",
         "items": [
           {
-            "name": "Gatte Ki Sabzi",
-            "description": "A traditional Rajasthani curry with chickpea flour dumplings cooked in spicy yogurt based gravy.",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Safed Maas",
-            "description": "A mildly spiced Rajasthani dish made of lamb cooked in a creamy, yogurt based gravy with a special blend of spices.",
-            "price": 12,
-            "extra": "make it a meal with 2 parathas/rice + side salad + achar + papad",
-            "extra-price": 2,
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
             "status": ""
           },
           {
-            "name": "Kurkuri Aloo Wrap",
-            "description": "A delicious Indian snack made with crispy fried potatoes (kurkuri aloo) wrapped in a soft roti or tortilla. The wrap is typically filled with tangy sauces, fresh veggies, and spices, offering a perfect balance of crunch and flavor",
-            "price": 8,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -354,9 +354,9 @@
             "status": ""
           },
           {
-            "name": "Panchmel Dal aur Chawal",
-            "description": "A traditional Rajasthani lentil dish made from a mix of five types of lentils . The dish is cooked with spices, tomatoes, resulting in a hearty and flavorful curry.\nServed with a portion of rice.",
-            "price": 10,
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
@@ -370,57 +370,6 @@
         "day": "Tuesday",
         "date": "17/09",
         "full-date": "2024-09-17T00:00:00+0200",
-        "items": [
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": ""
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": ""
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": ""
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": ""
-          }
-        ]
-      },
-      {
-        "day": "Wednesday",
-        "date": "18/09",
-        "full-date": "2024-09-18T00:00:00+0200",
         "items": [
           {
             "name": "Bendakaya Pulusu",
@@ -469,9 +418,9 @@
         ]
       },
       {
-        "day": "Thursday",
-        "date": "19/09",
-        "full-date": "2024-09-19T00:00:00+0200",
+        "day": "Wednesday",
+        "date": "18/09",
+        "full-date": "2024-09-18T00:00:00+0200",
         "items": [
           {
             "name": "",
@@ -502,7 +451,7 @@
             "extra": "",
             "extra-price": "",
             "insta-link": "",
-            "veg_non-veg": "non-veg",
+            "veg_non-veg": "veg",
             "category": "snack",
             "status": ""
           },
@@ -520,9 +469,9 @@
         ]
       },
       {
-        "day": "Friday",
-        "date": "20/09",
-        "full-date": "2024-09-20T00:00:00+0200",
+        "day": "Thursday",
+        "date": "19/09",
+        "full-date": "2024-09-19T00:00:00+0200",
         "items": [
           {
             "name": "Paneer Makhni Biryani",
@@ -553,7 +502,7 @@
             "extra": "",
             "extra-price": "",
             "insta-link": "",
-            "veg_non-veg": "veg",
+            "veg_non-veg": "non-veg",
             "category": "snack",
             "status": ""
           },
@@ -561,6 +510,57 @@
             "name": "Chole Chawal",
             "description": "A popular North Indian dish featuring spicy and tangy chickpea curry (chole) served with basmati rice (chawal). This classic combination offers a hearty and satisfying meal, with the robust flavors of the chickpea curry complementing the fluffy rice.",
             "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "date": "20/09",
+        "full-date": "2024-09-20T00:00:00+0200",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
             "extra": "",
             "extra-price": "",
             "insta-link": "",
