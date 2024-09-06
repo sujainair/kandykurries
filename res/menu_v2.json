@@ -1,12 +1,12 @@
 {
   "week_1": {
-    "startdate": "05/08",
-    "enddate": "10/08",
+    "startdate": "09/09",
+    "enddate": "14/09",
     "menu": [
       {
         "day": "Monday",
-        "date": "05/08",
-        "full-date": "2024-08-05T00:00:00+0200",
+        "date": "09/09",
+        "full-date": "2024-09-09T00:00:00+0200",
         "items": [
           {
             "name": "",
@@ -17,7 +17,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -28,7 +28,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -39,7 +39,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -50,65 +50,65 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       },
       {
         "day": "Tuesday",
-        "date": "06/08",
-        "full-date": "2024-08-06T00:00:00+0200",
+        "date": "10/09",
+        "full-date": "2024-09-10T00:00:00+0200",
         "items": [
           {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
+            "name": "Masoorchi Usal",
+            "description": "A flavourful Maharashtrian dish made with red lentils, onion, ginger and garlic. Spiced with a mix of traditional masalas.",
+            "price": 12,
+            "extra": "make it a meal with rice + side salad + papad + achar",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
+            "name": "Malvani Chicken Curry",
+            "description": "A dish from the coastal regions of Maharashtra. Chicken cooked with onion, garlic, ginger, coconut and special Malvani spice mix topped with fresh coriander.",
+            "price": 13,
+            "extra": "make it a meal with 2 chapati or rice + side salad + achar + papad",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Batata Vada",
+            "description": "A popular Indian street food consisting of a spicy mashed potato filling coated in gram flour batter and deep-fried to a crispy golden brown.",
+            "price": 9,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Phodni Bhaat",
+            "description": "Known as Tadka Rice or Tempered Rice, is a simple yet flavorful rice dish from Maharashtra. It involves cooking rice and then giving it a tempering or tadka with mustard seeds, cumin seeds, curry leaves, green chilies, and sometimes peanuts or cashews. This tempering process imparts a delicious aroma and adds a burst of flavor to the rice, making it a quick and tasty meal.",
+            "price": 10,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       },
       {
         "day": "Wednesday",
-        "date": "07/08",
-        "full-date": "2024-08-07T00:00:00+0200",
+        "date": "11/09",
+        "full-date": "2024-09-11T00:00:00+0200",
         "items": [
           {
             "name": "",
@@ -119,7 +119,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -130,7 +130,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -141,7 +141,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -152,65 +152,65 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       },
       {
         "day": "Thursday",
-        "date": "08/08",
-        "full-date": "2024-08-08T00:00:00+0200",
+        "date": "12/09",
+        "full-date": "2024-09-12T00:00:00+0200",
         "items": [
           {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
+            "name": "Kerala Kadala Curry",
+            "description": "A flavorful dish made with black chickpeas (kala chana) simmered in a rich, spiced coconut gravy. A staple in Kerala cuisine, known for its deep flavors of roasted spices, curry leaves, and coconut.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
+            "name": "Nadan Chicken Curry",
+            "description": "A traditional Kerala-style chicken curry known for its rich, aromatic gravy made with coconut oil, curry leaves, and a blend of local spices. The dish has a deep, flavorful sauce with hints of cinnamon, cloves, and fennel.",
+            "price": 13,
+            "extra": "make it a meal with 2 chapati or rice + side salad + achar + papad",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Uniappam",
+            "description": "A traditional Kerala sweet snack made from rice flour, jaggery, mashed bananas, and coconut. The batter is poured into a special mould (appakara) and deep-fried into small, round dumplings with a crispy exterior and soft, sweet interior. (7 pieces)",
+            "price": 9,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Lemon Rice",
+            "description": "Rice, cashews, chillies and other spices stir fried together and mixed with lime juice. Served with achar + papad.",
+            "price": 10,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       },
       {
         "day": "Friday",
-        "date": "09/08",
-        "full-date": "2024-08-09T00:00:00+0200",
+        "date": "13/09",
+        "full-date": "2024-09-13T00:00:00+0200",
         "items": [
           {
             "name": "",
@@ -221,7 +221,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -232,7 +232,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -243,7 +243,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -254,14 +254,14 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       },
       {
         "day": "Saturday",
-        "date": "10/08",
-        "full-date": "2024-08-10T00:00:00+0200",
+        "date": "14/09",
+        "full-date": "2024-09-14T00:00:00+0200",
         "items": [
           {
             "name": "",
@@ -272,7 +272,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -283,7 +283,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -294,7 +294,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -305,71 +305,71 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       }
     ]
   },
   "week_2": {
-    "startdate": "12/08",
-    "enddate": "17/08",
+    "startdate": "16/09",
+    "enddate": "21/09",
     "menu": [
       {
         "day": "Monday",
-        "date": "12/08",
-        "full-date": "2024-08-12T00:00:00+0200",
+        "date": "16/09",
+        "full-date": "2024-09-16T00:00:00+0200",
         "items": [
           {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
+            "name": "Gatte Ki Sabzi",
+            "description": "A traditional Rajasthani curry with chickpea flour dumplings cooked in spicy yogurt based gravy.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
+            "name": "Safed Maas",
+            "description": "A mildly spiced Rajasthani dish made of lamb cooked in a creamy, yogurt based gravy with a special blend of spices.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas/rice + side salad + achar + papad",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Kurkuri Aloo Wrap",
+            "description": "A delicious Indian snack made with crispy fried potatoes (kurkuri aloo) wrapped in a soft roti or tortilla. The wrap is typically filled with tangy sauces, fresh veggies, and spices, offering a perfect balance of crunch and flavor",
+            "price": 8,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Panchmel Dal aur Chawal",
+            "description": "A traditional Rajasthani lentil dish made from a mix of five types of lentils . The dish is cooked with spices, tomatoes, resulting in a hearty and flavorful curry.\nServed with a portion of rice.",
+            "price": 10,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       },
       {
         "day": "Tuesday",
-        "date": "13/08",
-        "full-date": "2024-08-13T00:00:00+0200",
+        "date": "17/09",
+        "full-date": "2024-09-17T00:00:00+0200",
         "items": [
           {
             "name": "",
@@ -380,7 +380,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -391,7 +391,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -402,7 +402,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -413,65 +413,65 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       },
       {
         "day": "Wednesday",
-        "date": "14/08",
-        "full-date": "2024-08-14T00:00:00+0200",
+        "date": "18/09",
+        "full-date": "2024-09-18T00:00:00+0200",
         "items": [
           {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
+            "name": "Bendakaya Pulusu",
+            "description": "Okra curry from the state of Andra Pradesh. Okra fried and cooked with tamarind, tomato; tempered with different spices and garnished with curry leaves and coconut.",
+            "price": 10,
+            "extra": "make it a meal with rice + papad + side salad + achar",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
+            "name": "Pandi Curry",
+            "description": "A delicacy of Coorg. An intensly flavourful pork belly curry cooked with freshly made spices, onion, curry leaves and simmered away for the melt in your mouth flavour.",
+            "price": 13,
+            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
+            "extra-price": 2,
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Perpu Vada",
+            "description": "Deep fried fritters made with soaked yellow moong, onions, ginger and green chillies. (4 pieces)",
+            "price": 8,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Puli Sadam",
+            "description": "A tangy South Indian rice dish, featuring cooked rice mixed with a spicy tamarind paste infused with aromatic spices, creating a burst of flavors in every mouthful, perfect for a satisfying meal",
+            "price": 10,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       },
       {
         "day": "Thursday",
-        "date": "15/08",
-        "full-date": "2024-08-15T00:00:00+0200",
+        "date": "19/09",
+        "full-date": "2024-09-19T00:00:00+0200",
         "items": [
           {
             "name": "",
@@ -482,7 +482,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -493,7 +493,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -504,7 +504,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -515,65 +515,65 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       },
       {
         "day": "Friday",
-        "date": "16/08",
-        "full-date": "2024-08-16T00:00:00+0200",
+        "date": "20/09",
+        "full-date": "2024-09-20T00:00:00+0200",
         "items": [
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Paneer Makhni Biryani",
+            "description": "Indian cottage cheese cooked in a thick creamy buttery gravy of onion, tomato, cashew, ginger and garlic and then layered with aromatic basmati rice, caramalised onion, coriander, mint and slow cooked. Served with a side of yogurt dip + papad",
+            "price": 14,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Hariyali Chicken Dum Biryani",
+            "description": "A flavorful variation of traditional biryani, made with marinated chicken cooked in a green, herb-based paste (hariyali) that includes ingredients like mint, cilantro, green chilies, and spices. This biryani is known for its vibrant green color and aromatic, fresh flavors, often layered with fragrant basmati rice and garnished with fried onions and fresh herbs. Served with raita + papad + achar.",
+            "price": 16,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Paneer 65",
+            "description": "A popular Indian appetizer made with cubes of paneer (Indian cottage cheese) that have been marinated in a blend of spices and then deep-fried until crispy. The dish is spiced with a mix of chili powder, cumin, and coriander. ",
+            "price": 8,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
-            "name": "",
-            "description": "",
-            "price": "",
+            "name": "Chole Chawal",
+            "description": "A popular North Indian dish featuring spicy and tangy chickpea curry (chole) served with basmati rice (chawal). This classic combination offers a hearty and satisfying meal, with the robust flavors of the chickpea curry complementing the fluffy rice.",
+            "price": 10,
             "extra": "",
             "extra-price": "",
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       },
       {
         "day": "Saturday",
-        "date": "17/08",
-        "full-date": "2024-08-17T00:00:00+0200",
+        "date": "21/09",
+        "full-date": "2024-09-21T00:00:00+0200",
         "items": [
           {
             "name": "",
@@ -584,7 +584,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -595,7 +595,7 @@
             "insta-link": "",
             "veg_non-veg": "non-veg",
             "category": "regular",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -606,7 +606,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "snack",
-            "status": "old"
+            "status": ""
           },
           {
             "name": "",
@@ -617,7 +617,7 @@
             "insta-link": "",
             "veg_non-veg": "veg",
             "category": "mini",
-            "status": "old"
+            "status": ""
           }
         ]
       }
