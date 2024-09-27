@@ -1,317 +1,5 @@
 {
   "week_1": {
-    "startdate": "16/09",
-    "enddate": "21/09",
-    "menu": [
-      {
-        "day": "Monday",
-        "date": "16/09",
-        "full-date": "2024-09-16T00:00:00+0200",
-        "items": [
-          {
-            "name": "Bendakaya Pulusu",
-            "description": "Okra curry from the state of Andra Pradesh. Okra fried and cooked with tamarind, tomato; tempered with different spices and garnished with curry leaves and coconut.",
-            "price": 10,
-            "extra": "make it a meal with rice + papad + side salad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Pandi Curry",
-            "description": "A delicacy of Coorg. An intensly flavourful pork belly curry cooked with freshly made spices, onion, curry leaves and simmered away for the melt in your mouth flavour.",
-            "price": 13,
-            "extra": "make it a meal with 2 parathas + side salad + papad + achar",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Perpu Vada",
-            "description": "Deep fried fritters made with soaked yellow moong, onions, ginger and green chillies. (4 pieces)",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Puli Sadam",
-            "description": "A tangy South Indian rice dish, featuring cooked rice mixed with a spicy tamarind paste infused with aromatic spices, creating a burst of flavors in every mouthful, perfect for a satisfying meal",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Tuesday",
-        "date": "17/09",
-        "full-date": "2024-09-17T00:00:00+0200",
-        "items": [
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Wednesday",
-        "date": "18/09",
-        "full-date": "2024-09-18T00:00:00+0200",
-        "items": [
-          {
-            "name": "Paneer Makhni Biryani",
-            "description": "Indian cottage cheese cooked in a thick creamy buttery gravy of onion, tomato, cashew, ginger and garlic and then layered with aromatic basmati rice, caramalised onion, coriander, mint and slow cooked. Served with a side of yogurt dip + papad",
-            "price": 14,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Hariyali Chicken Dum Biryani",
-            "description": "A flavorful variation of traditional biryani, made with marinated chicken cooked in a green, herb-based paste (hariyali) that includes ingredients like mint, cilantro, green chilies, and spices. This biryani is known for its vibrant green color and aromatic, fresh flavors, often layered with fragrant basmati rice and garnished with fried onions and fresh herbs. Served with raita + papad + achar.",
-            "price": 16,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Paneer 65",
-            "description": "A popular Indian appetizer made with cubes of paneer (Indian cottage cheese) that have been marinated in a blend of spices and then deep-fried until crispy. The dish is spiced with a mix of chili powder, cumin, and coriander. ",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Chole Chawal",
-            "description": "A popular North Indian dish featuring spicy and tangy chickpea curry (chole) served with basmati rice (chawal). This classic combination offers a hearty and satisfying meal, with the robust flavors of the chickpea curry complementing the fluffy rice.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Thursday",
-        "date": "19/09",
-        "full-date": "2024-09-19T00:00:00+0200",
-        "items": [
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Friday",
-        "date": "20/09",
-        "full-date": "2024-09-20T00:00:00+0200",
-        "items": [
-          {
-            "name": "Veg Hakka Noodles",
-            "description": "Indo-Chinese dish made with assorted veggies stir fried in chinese sauces and noodles",
-            "price": 11,
-            "extra": "make it special with some veg manchurian gravy",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Chicken Hakka Noodles",
-            "description": "Indo-Chinese dish with assorted veggies and chicken cooked with chinese sauces and noodles.",
-            "price": 12,
-            "extra": "make it special with chicken manchurian gravy",
-            "extra-price": 2,
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "Chinese Bhel",
-            "description": "A popular Indo-Chinese street food. The dish is made by tossing crispy deep fried noodles with a mix of colorful vegetables, veg manchurian and a variety of sauces, including soy sauce, chili sauce, and tomato ketchup.",
-            "price": 8,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "Paneer Chili Wrap",
-            "description": "Fusion dish with spicy, tangy paneer cooked in Indo-Chinese style with veggies wrapped in a soft tortilla.",
-            "price": 10,
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      },
-      {
-        "day": "Saturday",
-        "date": "21/09",
-        "full-date": "2024-09-21T00:00:00+0200",
-        "items": [
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "non-veg",
-            "category": "regular",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "snack",
-            "status": "old"
-          },
-          {
-            "name": "",
-            "description": "",
-            "price": "",
-            "extra": "",
-            "extra-price": "",
-            "insta-link": "",
-            "veg_non-veg": "veg",
-            "category": "mini",
-            "status": "old"
-          }
-        ]
-      }
-    ]
-  },
-  "week_2": {
     "startdate": "23/09",
     "enddate": "28/09",
     "menu": [
@@ -574,6 +262,318 @@
         "day": "Saturday",
         "date": "28/09",
         "full-date": "2024-09-28T00:00:00+0200",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      }
+    ]
+  },
+  "week_2": {
+    "startdate": "30/09",
+    "enddate": "05/10",
+    "menu": [
+      {
+        "day": "Monday",
+        "date": "30/09",
+        "full-date": "2024-09-30T00:00:00+0200",
+        "items": [
+          {
+            "name": "Chettinad Kaigari Mandi",
+            "description": "A flavourful South Indian Vegetarian dish made of veggies in a base of Chettinad spice mix.  Kaigari in Tamil language means vegetables, Mandi loosely refers to a medley of veggie and dal curry.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Kari Kuzhambu",
+            "description": "A rich and spicy South Indian curry made with tender pieces of mutton simmered in a blend of aromatic Chettinad spices, tamarind, and coconut. Known for its deep, complex flavors, it’s a hearty and flavorful dish ",
+            "price": 13,
+            "extra": "make it a meal with 2 parathas + side salad + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Perpuvada",
+            "description": "A popular South Indian snack made from soaked and ground lentils mixed with spices, shaped into small patties, and deep-fried until crispy. (4 vada)",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Ven Pongal",
+            "description": "A savory and comforting South Indian breakfast dish made with rice, moong dal (lentil), and ghee",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "date": "01/10",
+        "full-date": "2024-10-01T00:00:00+0200",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "date": "02/10",
+        "full-date": "2024-10-02T00:00:00+0200",
+        "items": [
+          {
+            "name": "Aviyal",
+            "description": "A comforting dish from Kerala. Mix veggies cooked in coconut and yogurt based thick gravy tempered with spices and fresh curry leaves.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas or rice + side salad + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Chicken Mapas",
+            "description": "A creamy, spiced curry from South India, where chicken is cooked in a rich sauce made with coconut, yogurt, and aromatic spices. This dish features a balance of heat and mildness, creating a flavorful and comforting meal.",
+            "price": 12,
+            "extra": "make it a meal with 2 parathas + side salad + papad",
+            "extra-price": 2,
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Unniappam",
+            "description": "A traditional South Indian snack originating from Kerala, made from a batter consisting of rice flour, jaggery (unrefined cane sugar), ripe bananas, coconut pieces, roasted sesame seeds, and cardamom powder. This batter is then poured into special molds and fried until golden brown, resulting in sweet, spongy, and flavorful dumplings. (7 appams)",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Puli Sadam",
+            "description": "A tangy South Indian rice dish, featuring cooked rice mixed with a spicy tamarind paste infused with aromatic spices, creating a burst of flavors in every mouthful, perfect for a satisfying meal",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "date": "03/10",
+        "full-date": "2024-10-03T00:00:00+0200",
+        "items": [
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "",
+            "description": "",
+            "price": "",
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "date": "04/10",
+        "full-date": "2024-10-04T00:00:00+0200",
+        "items": [
+          {
+            "name": "Veg Biryani",
+            "description": "Assorted veggies slow cooked with aromatic basmati rice and spices topped with fried onions served with yogurt raita + achar + papad",
+            "price": 14,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Chicken Achari Biryani",
+            "description": "A flavorful and aromatic rice dish where tender chicken is marinated in tangy pickling spices and layered with fragrant basmati rice. Cooked together, in a unique blend of spicy and tangy flavors, making for a hearty and satisfying meal. Served with raita+ papad",
+            "price": 16,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "non-veg",
+            "category": "regular",
+            "status": ""
+          },
+          {
+            "name": "Paneer Pakoda",
+            "description": "A popular Indian snack made with paneer (Indian cottage cheese) that is coated in a spiced gram flour batter and deep-fried to crispy perfection.",
+            "price": 8,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "snack",
+            "status": ""
+          },
+          {
+            "name": "Masala Bhat",
+            "description": "Rice cooked with onion, tomato, potato and other vegetables with spices and garnished with coriander",
+            "price": 10,
+            "extra": "",
+            "extra-price": "",
+            "insta-link": "",
+            "veg_non-veg": "veg",
+            "category": "mini",
+            "status": ""
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "date": "05/10",
+        "full-date": "2024-10-05T00:00:00+0200",
         "items": [
           {
             "name": "",
